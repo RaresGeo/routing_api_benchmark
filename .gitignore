@@ -1,0 +1,5 @@
+.env
+output/*
+kml/input/*
+dist
+node_modules
