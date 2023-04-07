@@ -1,4 +1,5 @@
 export interface Result {
+  madeAt: string;
   timeElapsed: number;
   requestnumber: number;
   params: {
@@ -10,6 +11,7 @@ export interface Result {
 }
 
 export interface ResultCore {
+  madeAt: string;
   timeElapsed: number;
   requestnumber: number;
   params: {
