@@ -7,30 +7,35 @@ import { Result, ResultCore } from './types.js';
 
 dotenv.config();
 
-const NUM_SECONDS = 5;
-const NUM_REQUESTS = 10;
+const NUM_SECONDS = parseInt(process.env.NUM_SECONDS || '1', 10);
+const NUM_REQUESTS = parseInt(process.env.NUM_REQUESTS || '1', 10);
 
 const makeRequests = (
   profileParam: string,
-  startCoords: number[][],
-  endCoords: number[][],
+  startPoints: number[][],
+  endPoints: number[][],
   numberOfRequests: number
 ) => {
   const promises: Promise<{ result: Result; resultCore: ResultCore }>[] = [];
 
   for (let i = 0; i < numberOfRequests; i++) {
-    const startPoint = getRandomPointInPolygon(startCoords);
-    const endPoint = getRandomPointInPolygon(endCoords);
-
-    const startParam = `${startPoint[0]},${startPoint[1]}`;
-    const endParam = `${endPoint[0]},${endPoint[1]}`;
-
     const start = now();
+    const startPoint = startPoints[i];
+    const endPoint = endPoints[i];
+
     const promise: Promise<{ result: Result; resultCore: ResultCore }> =
       new Promise((resolve, reject) => {
         axios
-          .get(
-            `${process.env.API_URL}/v2/directions/${profileParam}?start=${startParam}&end=${endParam}`
+          .post(
+            `${process.env.API_URL}/v2/directions/${profileParam}/geojson`,
+            {
+              coordinates: [startPoint, endPoint],
+            },
+            {
+              headers: {
+                'Content-Type': 'application/json',
+              },
+            }
           )
           .then((res) => {
             const end = now();
@@ -44,8 +49,8 @@ const makeRequests = (
               requestnumber,
               params: {
                 profile: profileParam,
-                start: startParam,
-                end: endParam,
+                start: startPoint,
+                end: endPoint,
               },
               response: res.data,
             };
@@ -56,8 +61,8 @@ const makeRequests = (
               requestnumber,
               params: {
                 profile: profileParam,
-                start: startParam,
-                end: endParam,
+                start: startPoint,
+                end: endPoint,
               },
             };
 
@@ -67,8 +72,10 @@ const makeRequests = (
             console.log(
               'Failed with error message: ',
               err?.message,
-              'for url',
-              `${process.env.API_URL}/v2/directions/${profileParam}?start=${startParam}&end=${endParam}`
+              'for body',
+              {
+                coordinates: [startPoint, endPoint],
+              }
             );
             reject(err);
           });
@@ -86,7 +93,6 @@ const logResults = async (
 ) => {
   try {
     const settledPromises = await Promise.allSettled(promises);
-
     const results: Result[] = [];
     const resultCore: ResultCore[] = [];
 
@@ -109,15 +115,70 @@ const logResults = async (
       }
     );
 
-    await jsonfile.writeFile(`output/results-${index}.json`, results, {
+    /* jsonfile.writeFile(`output/results-${index}.json`, results, {
       spaces: 2,
-    });
-    await jsonfile.writeFile(`output/results-core-${index}.json`, resultCore, {
-      spaces: 2,
-    });
+    }); */
+
+    return [
+      jsonfile.writeFile(`output/results-core-${index}.json`, resultCore, {
+        spaces: 2,
+      }),
+    ];
   } catch (err) {
     console.error(`Error logging results for index ${index}:`, err);
+    return [];
   }
+};
+
+const timer = (
+  index: number,
+  profileParam: string,
+  startPoints: number[][],
+  endPoints: number[][]
+) => {
+  const startPointsSection = startPoints.slice(
+    NUM_REQUESTS * index,
+    NUM_REQUESTS * (index + 1)
+  );
+
+  const endPointsSection = endPoints.slice(
+    NUM_REQUESTS * index,
+    NUM_REQUESTS * (index + 1)
+  );
+
+  const promises = makeRequests(
+    profileParam,
+    startPointsSection,
+    endPointsSection,
+    NUM_REQUESTS
+  );
+
+  console.log(
+    `${index + 1}. Making requests from ${NUM_REQUESTS * index} to ${
+      NUM_REQUESTS * (index + 1)
+    }...`
+  );
+
+  return logResults(index, promises);
+};
+
+const getPointsForAllRequests = (
+  numberOfPoints: number,
+  startCoords: number[][],
+  endCoords: number[][]
+) => {
+  const startPoints = [];
+  const endPoints = [];
+
+  for (let i = 0; i < numberOfPoints; i++) {
+    const startPoint = getRandomPointInPolygon(startCoords);
+    const endPoint = getRandomPointInPolygon(endCoords);
+
+    startPoints.push(startPoint);
+    endPoints.push(endPoint);
+  }
+
+  return { startPoints, endPoints };
 };
 
 const main = async () => {
@@ -126,30 +187,17 @@ const main = async () => {
   const startCoords = startData.features[0].geometry.coordinates[0];
   const endData = jsonfile.readFileSync('input/bucharest.json');
   const endCoords = endData.features[0].geometry.coordinates[0];
+  const { startPoints, endPoints } = getPointsForAllRequests(
+    NUM_REQUESTS * NUM_SECONDS,
+    startCoords,
+    endCoords
+  );
 
-  const finished = new Promise((resolve) => {
-    for (let i = 0; i < NUM_SECONDS; i++) {
-      const start = now();
-      const promises = makeRequests(
-        profileParam,
-        startCoords,
-        endCoords,
-        NUM_REQUESTS
-      );
-      logResults(i, promises).then(() => {
-        if (i === NUM_SECONDS - 1) {
-          resolve(true);
-        }
-      });
-
-      // wait at least 1000 ms
-      while (now() - start < 1000) {
-        // do nothing
-      }
-    }
-  });
-
-  return finished;
+  for (let i = 0; i < NUM_SECONDS; i++) {
+    setTimeout(() => {
+      timer(i, profileParam, startPoints, endPoints);
+    }, i * 1000);
+  }
 };
 
 const getAverageTimeElapsed = (jsonPath: string) => {
@@ -162,20 +210,25 @@ const getAverageTimeElapsed = (jsonPath: string) => {
   return sum / data.length;
 };
 
-main().then((res) => {
+function formatMilliseconds(milliseconds: number): string {
+  const seconds = (milliseconds / 1000).toFixed(3);
+  return `${seconds}s`;
+}
+
+main(); /* .then((res) => {
   let sum = 0;
   for (let i = 0; i < NUM_SECONDS; i++) {
     const averageTimeElapsed = getAverageTimeElapsed(
-      `output/results-${i}.json`
+      `output/results-core-${i}.json`
     );
     sum += averageTimeElapsed;
     console.log(
-      `Average time elapsed for ${i + 1}, ${NUM_REQUESTS} requests:`,
-      averageTimeElapsed
+      `Average time elapsed for step ${i + 1}, ${NUM_REQUESTS} requests:`,
+      formatMilliseconds(averageTimeElapsed)
     );
   }
   console.log(
     `Average time elapsed overall for ${NUM_REQUESTS * NUM_SECONDS} requests:`,
-    sum / NUM_SECONDS
+    formatMilliseconds(sum / NUM_SECONDS)
   );
-});
+}); */

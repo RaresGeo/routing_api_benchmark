@@ -4,8 +4,8 @@ export interface Result {
   requestnumber: number;
   params: {
     profile: string;
-    start: string;
-    end: string;
+    start: number[];
+    end: number[];
   };
   response: any;
 }
@@ -16,7 +16,7 @@ export interface ResultCore {
   requestnumber: number;
   params: {
     profile: string;
-    start: string;
-    end: string;
+    start: number[];
+    end: number[];
   };
 }
