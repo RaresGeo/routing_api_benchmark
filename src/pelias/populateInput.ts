@@ -60,7 +60,9 @@ const makeRequests = () => {
     const promise: Promise<any> = new Promise((resolve, reject) => {
       axios
         .get(
-          `${process.env.PELIAS_API_URL}:4000/v1/reverse?point.lon=${point[0]}&point.lat=${point[1]}`
+          `${process.env.PELIAS_API_URL}:4000/v1/reverse?point.lon=${point[0]}&point.lat=${point[1]}`,
+          undefined,
+          undefined
         )
         .then((res) => {
           const result = {

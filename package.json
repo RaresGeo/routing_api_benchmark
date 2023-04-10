@@ -11,8 +11,10 @@
     "request": "npm run build && NODE_ENV=production node dist/index.js",
     "start": "npm run build && NODE_ENV=production node dist/index.js",
     "cleanup": "rm -rf output/*",
-    "average": "npm run build && node dist/getAverage.js",
-    "pelias-populate": "env STAGE='pelias-populate' npm run start"
+    "pelias-populate": "env STAGE='pelias-populate' npm run start",
+    "ors-benchmark": "env STAGE='ors-benchmark' npm run start",
+    "ors-average": "env STAGE='ors-average' npm run start",
+    "ors": "npm run cleanup && npm run ors-benchmark && npm run ors-average"
   },
   "keywords": [],
   "author": "",
