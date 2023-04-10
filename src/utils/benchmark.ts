@@ -7,7 +7,7 @@ import { Result, ResultCore } from '../utils/types.js';
 dotenv.config();
 
 const makeRequests = (
-  url: string,
+  url: (index: number) => string,
   body: (index: number) => { coordinates?: number[][] } | undefined,
   numberOfRequests: number,
   axiosMethod: any
@@ -19,7 +19,7 @@ const makeRequests = (
 
     const promise: Promise<{ result: Result; resultCore: ResultCore }> =
       new Promise((resolve, reject) => {
-        axiosMethod(url, body(i), {
+        axiosMethod(url(i), body(i), {
           headers: {
             'Content-Type': 'application/json',
           },
@@ -35,6 +35,7 @@ const makeRequests = (
               timeElapsed,
               requestnumber,
               body: body(i),
+              url: url(i),
               response: res.data,
             };
 
@@ -43,6 +44,7 @@ const makeRequests = (
               timeElapsed,
               requestnumber,
               body: body(i),
+              url: url(i),
             };
 
             resolve({ result, resultCore });
@@ -93,11 +95,10 @@ const logResults = async (
       }
     );
 
-    /* jsonfile.writeFile(`output/results-${index}.json`, results, {
-        spaces: 2,
-      }); */
-
     return [
+      jsonfile.writeFile(`output/results-${index}.json`, results, {
+        spaces: 2,
+      }),
       jsonfile.writeFile(`output/results-core-${index}.json`, resultCore, {
         spaces: 2,
       }),
@@ -110,7 +111,7 @@ const logResults = async (
 
 const timer = (
   index: number,
-  url: string,
+  url: (index: number) => string,
   body: (index: number) => { coordinates?: number[][] } | undefined,
   axiosMethod: any,
   numRequests: number
@@ -127,7 +128,7 @@ const timer = (
 };
 
 const main = async (
-  url: string,
+  urlGetter: (timerIndex: number) => (index: number) => string,
   bodyGetter: (
     timerIndex: number
   ) => (index: number) => { coordinates?: number[][] } | undefined,
@@ -137,7 +138,7 @@ const main = async (
 ) => {
   for (let i = 0; i < numSeconds; i++) {
     setTimeout(() => {
-      timer(i, url, bodyGetter(i), axiosMethod, numRequests);
+      timer(i, urlGetter(i), bodyGetter(i), axiosMethod, numRequests);
     }, i * 1000);
   }
 };

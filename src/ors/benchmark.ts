@@ -40,7 +40,10 @@ const main = async () => {
     endCoords
   );
 
-  const url = `${process.env.ORS_API_URL}/v2/directions/${profileParam}/geojson`;
+  const urlGetter = (timerIndex: number) => {
+    return (index: number) =>
+      `${process.env.ORS_API_URL}/v2/directions/${profileParam}/geojson`;
+  };
 
   const bodyGetter = (timerIndex: number) => {
     return (index: number) => {
@@ -60,7 +63,7 @@ const main = async () => {
     };
   };
 
-  benchmark(url, bodyGetter, axios.post, NUM_REQUESTS, NUM_SECONDS);
+  benchmark(urlGetter, bodyGetter, axios.post, NUM_REQUESTS, NUM_SECONDS);
 };
 
 export default main;

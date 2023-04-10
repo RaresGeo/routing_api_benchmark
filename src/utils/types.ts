@@ -3,6 +3,7 @@ export interface Result {
   timeElapsed: number;
   requestnumber: number;
   body: { coordinates?: number[][] } | undefined;
+  url: string;
   response: any;
 }
 
@@ -11,4 +12,5 @@ export interface ResultCore {
   timeElapsed: number;
   requestnumber: number;
   body: { coordinates?: number[][] } | undefined;
+  url: string;
 }

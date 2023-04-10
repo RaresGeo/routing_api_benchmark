@@ -9,6 +9,8 @@ import path from 'path';
 dotenv.config();
 
 const NUM_REQUESTS = parseInt(process.env.NUM_REQUESTS || '1', 10);
+const NUM_SECONDS = parseInt(process.env.NUM_SECONDS || '1', 10);
+const TOTAL = NUM_REQUESTS * NUM_SECONDS;
 
 const inputDir = 'input';
 
@@ -43,7 +45,7 @@ const getPointsArray = () => {
     throw new Error('No input files found');
   }
 
-  for (let i = 0; i < NUM_REQUESTS; i++) {
+  for (let i = 0; i < TOTAL; i++) {
     const coordinates = fileCoords[i % fileCoords.length];
     const point = getRandomPointInPolygon(coordinates);
     points.push(point);
@@ -55,14 +57,12 @@ const makeRequests = () => {
   const points = getPointsArray();
   const promises: Promise<any>[] = [];
 
-  for (let i = 0; i < NUM_REQUESTS; i++) {
+  for (let i = 0; i < TOTAL; i++) {
     const point = points[i];
     const promise: Promise<any> = new Promise((resolve, reject) => {
       axios
         .get(
-          `${process.env.PELIAS_API_URL}:4000/v1/reverse?point.lon=${point[0]}&point.lat=${point[1]}`,
-          undefined,
-          undefined
+          `${process.env.PELIAS_API_URL}:4000/v1/reverse?point.lon=${point[0]}&point.lat=${point[1]}`
         )
         .then((res) => {
           const result = {
