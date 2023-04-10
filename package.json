@@ -9,9 +9,10 @@
     "build-dev": "npm run build && NODE_ENV=development node --inspect dist/index.js",
     "dev": "nodemon --ext ts --exec \"npm run build-dev\"",
     "request": "npm run build && NODE_ENV=production node dist/index.js",
-    "start": "npm run build && NODE_ENV=production node dist/index.js && node dist/getAverage.js",
+    "start": "npm run build && NODE_ENV=production node dist/index.js",
     "cleanup": "rm -rf output/*",
-    "average": "npm run build && node dist/getAverage.js"
+    "average": "npm run build && node dist/getAverage.js",
+    "pelias-populate": "env STAGE='pelias-populate' npm run start"
   },
   "keywords": [],
   "author": "",

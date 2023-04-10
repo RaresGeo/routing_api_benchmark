@@ -1,6 +1,6 @@
-import jsonfile from 'jsonfile';
 import dotenv from 'dotenv';
-import { Result, ResultCore } from './types.js';
+import jsonfile from 'jsonfile';
+import { ResultCore } from '../utils/types.js';
 
 dotenv.config();
 
@@ -22,18 +22,22 @@ function formatMilliseconds(milliseconds: number): string {
   return `${seconds}s`;
 }
 
-let sum = 0;
-for (let i = 0; i < NUM_SECONDS; i++) {
-  const averageTimeElapsed = getAverageTimeElapsed(
-    `output/results-core-${i}.json`
-  );
-  sum += averageTimeElapsed;
+const main = () => {
+  let sum = 0;
+  for (let i = 0; i < NUM_SECONDS; i++) {
+    const averageTimeElapsed = getAverageTimeElapsed(
+      `output/results-core-${i}.json`
+    );
+    sum += averageTimeElapsed;
+    console.log(
+      `Average time elapsed for step ${i + 1}, ${NUM_REQUESTS} requests:`,
+      formatMilliseconds(averageTimeElapsed)
+    );
+  }
   console.log(
-    `Average time elapsed for step ${i + 1}, ${NUM_REQUESTS} requests:`,
-    formatMilliseconds(averageTimeElapsed)
+    `Average time elapsed overall for ${NUM_REQUESTS * NUM_SECONDS} requests:`,
+    formatMilliseconds(sum / NUM_SECONDS)
   );
-}
-console.log(
-  `Average time elapsed overall for ${NUM_REQUESTS * NUM_SECONDS} requests:`,
-  formatMilliseconds(sum / NUM_SECONDS)
-);
+};
+
+export default main;
