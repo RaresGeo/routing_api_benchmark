@@ -47,7 +47,7 @@ const main = () => {
       console.log(
         `Average time elapsed for step ${
           i + 1
-        }, ${NUM_REQUESTS} requests (in ${subdir}):`,
+        }, ${NUM_REQUESTS} requests (in ${subdir.replace('output/pid-', '')}):`,
         formatMilliseconds(averageTimeElapsed)
       );
     }
@@ -63,7 +63,7 @@ const main = () => {
     console.log(
       `Average time elapsed for all steps (${
         NUM_REQUESTS * files
-      } requests) in ${subdir}:`,
+      } requests) in ${subdir.replace('output/pid-', '')}:`,
       formatMilliseconds(average)
     );
   });

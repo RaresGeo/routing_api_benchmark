@@ -18,10 +18,12 @@ const makeRequests = (
 
   for (let i = 0; i < numberOfRequests; i++) {
     const start = now();
+    const URL = url(i);
+    const BODY = body(i);
 
     const promise: Promise<{ result: Result; resultCore: ResultCore }> =
       new Promise((resolve, reject) => {
-        axiosMethod(url(i), body(i), {
+        axiosMethod(URL, BODY, {
           headers: {
             'Content-Type': 'application/json',
           },
@@ -36,8 +38,8 @@ const makeRequests = (
               madeAt,
               timeElapsed,
               requestnumber,
-              body: body(i),
-              url: url(i),
+              body: BODY,
+              url: URL,
               response: res.data,
             };
 
@@ -45,8 +47,8 @@ const makeRequests = (
               madeAt,
               timeElapsed,
               requestnumber,
-              body: body(i),
-              url: url(i),
+              body: BODY,
+              url: URL,
             };
 
             resolve({ result, resultCore });
@@ -103,9 +105,9 @@ const logResults = async (
     }
 
     return [
-      // jsonfile.writeFile(join(outputSubdir, `results-${index}.json`), results, {
-      //   spaces: 2,
-      // }),
+      jsonfile.writeFile(join(outputSubdir, `results-${index}.json`), results, {
+        spaces: 2,
+      }),
       jsonfile.writeFile(
         join(outputSubdir, `results-core-${index}.json`),
         resultCore,
@@ -128,11 +130,12 @@ const timer = (
   numRequests: number
 ) => {
   const promises = makeRequests(url, body, numRequests, axiosMethod);
+  const start = now();
 
   console.log(
     `${process.pid}/${index + 1}. Making requests from ${
       numRequests * index
-    } to ${numRequests * (index + 1)}...`
+    } to ${numRequests * (index + 1)} at ${start}...`
   );
 
   return logResults(index, promises);

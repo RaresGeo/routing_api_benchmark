@@ -19,7 +19,7 @@
     "ors": "npm run cleanup && npm run ors-benchmark && npm run average",
     "pelias-geocoding": "npm run cleanup && npm run pelias-populate && npm run pelias-geocoding-benchmark && npm run average",
     "pelias-autocomplete": "npm run cleanup && npm run pelias-populate && npm run pelias-autocomplete-benchmark && npm run average",
-    "start:pm2": "yarn cleanup && pm2 kill && pm2 start process.yml",
+    "start:pm2": "yarn build && yarn cleanup && pm2 kill && pm2 start process.yml",
     "logs:pm2": "pm2 logs"
   },
   "keywords": [],
