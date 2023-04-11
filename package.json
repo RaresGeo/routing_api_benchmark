@@ -12,11 +12,15 @@
     "start": "npm run build && NODE_ENV=production node dist/index.js",
     "cleanup": "rm -rf output/*",
     "pelias-populate": "env STAGE='pelias-populate' npm run start",
-    "pelias-benchmark": "env STAGE='pelias-benchmark' npm run start",
+    "pelias-geocoding-benchmark": "env STAGE='pelias-geocoding-benchmark' npm run start",
+    "pelias-autocomplete-benchmark": "env STAGE='pelias-autocomplete-benchmark' npm run start",
     "ors-benchmark": "env STAGE='ors-benchmark' npm run start",
     "average": "env STAGE='average' npm run start",
     "ors": "npm run cleanup && npm run ors-benchmark && npm run average",
-    "pelias": "npm run cleanup && npm run pelias-populate && npm run pelias-benchmark && npm run average"
+    "pelias-geocoding": "npm run cleanup && npm run pelias-populate && npm run pelias-geocoding-benchmark && npm run average",
+    "pelias-autocomplete": "npm run cleanup && npm run pelias-populate && npm run pelias-autocomplete-benchmark && npm run average",
+    "start:pm2": "yarn cleanup && pm2 kill && pm2 start process.yml",
+    "logs:pm2": "pm2 logs"
   },
   "keywords": [],
   "author": "",
@@ -35,5 +39,8 @@
     "jsonfile": "^6.1.0",
     "parse-kml": "^1.0.1",
     "performance-now": "^2.1.0"
+  },
+  "volta": {
+    "node": "16.20.0"
   }
 }

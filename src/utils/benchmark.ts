@@ -3,6 +3,8 @@ import dotenv from 'dotenv';
 import jsonfile from 'jsonfile';
 import now from 'performance-now';
 import { Result, ResultCore } from '../utils/types.js';
+import { mkdirSync, existsSync } from 'fs';
+import { join } from 'path';
 
 dotenv.config();
 
@@ -54,7 +56,7 @@ const makeRequests = (
               'Failed with error message: ',
               err?.message,
               'for url',
-              url,
+              url(i),
               body
             );
             reject(err);
@@ -95,13 +97,22 @@ const logResults = async (
       }
     );
 
+    const outputSubdir = `output/pid-${process.pid}`;
+    if (!existsSync(outputSubdir)) {
+      mkdirSync(outputSubdir, { recursive: true });
+    }
+
     return [
-      jsonfile.writeFile(`output/results-${index}.json`, results, {
-        spaces: 2,
-      }),
-      jsonfile.writeFile(`output/results-core-${index}.json`, resultCore, {
-        spaces: 2,
-      }),
+      // jsonfile.writeFile(join(outputSubdir, `results-${index}.json`), results, {
+      //   spaces: 2,
+      // }),
+      jsonfile.writeFile(
+        join(outputSubdir, `results-core-${index}.json`),
+        resultCore,
+        {
+          spaces: 2,
+        }
+      ),
     ];
   } catch (err) {
     console.error(`Error logging results for index ${index}:`, err);
@@ -119,9 +130,9 @@ const timer = (
   const promises = makeRequests(url, body, numRequests, axiosMethod);
 
   console.log(
-    `${index + 1}. Making requests from ${numRequests * index} to ${
-      numRequests * (index + 1)
-    }...`
+    `${process.pid}/${index + 1}. Making requests from ${
+      numRequests * index
+    } to ${numRequests * (index + 1)}...`
   );
 
   return logResults(index, promises);
@@ -136,11 +147,25 @@ const main = async (
   numRequests: number,
   numSeconds: number
 ) => {
-  for (let i = 0; i < numSeconds; i++) {
-    setTimeout(() => {
-      timer(i, urlGetter(i), bodyGetter(i), axiosMethod, numRequests);
-    }, i * 1000);
-  }
+  const promise = new Promise((resolve, reject) => {
+    for (let i = 0; i < numSeconds; i++) {
+      setTimeout(async () => {
+        const jsonPromises = await timer(
+          i,
+          urlGetter(i),
+          bodyGetter(i),
+          axiosMethod,
+          numRequests
+        );
+        if (i === numSeconds - 1) {
+          await Promise.all(jsonPromises);
+          resolve(true);
+        }
+      }, i * 1000);
+    }
+  });
+
+  return promise;
 };
 
 export default main;

@@ -2,6 +2,7 @@ import axios from 'axios';
 import dotenv from 'dotenv';
 import jsonfile from 'jsonfile';
 import benchmark from '../utils/benchmark.js';
+import benchmarkAutocomplete from '../utils/benchmarkAutocomplete.js';
 
 dotenv.config();
 
@@ -17,7 +18,7 @@ const getShuffledDataArray = () => {
   return data;
 };
 
-const main = async () => {
+const geocoding = async () => {
   const data = getShuffledDataArray();
 
   const urlGetter = (timerIndex: number) => {
@@ -37,7 +38,39 @@ const main = async () => {
     };
   };
 
-  benchmark(urlGetter, bodyGetter, axios.get, NUM_REQUESTS, NUM_SECONDS);
+  return benchmark(urlGetter, bodyGetter, axios.get, NUM_REQUESTS, NUM_SECONDS);
 };
 
-export default main;
+const autocomplete = async () => {
+  const data = getShuffledDataArray();
+
+  const urlGetter = (timerIndex: number) => {
+    return (index: number) => {
+      const dataSlice = data.slice(
+        NUM_REQUESTS * timerIndex,
+        NUM_REQUESTS * (timerIndex + 1)
+      );
+      const { label } = dataSlice[index];
+      return {
+        url: `${process.env.PELIAS_API_URL}:4000/v1/autocomplete?text={{label}}`,
+        label,
+      };
+    };
+  };
+
+  const bodyGetter = (timerIndex: number) => {
+    return (index: number) => {
+      return undefined;
+    };
+  };
+
+  return benchmarkAutocomplete(
+    urlGetter,
+    bodyGetter,
+    axios.get,
+    NUM_REQUESTS,
+    NUM_SECONDS
+  );
+};
+
+export { geocoding, autocomplete };
