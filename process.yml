@@ -1,5 +1,5 @@
 apps:
   - name: benchmark
     script: dist/index.js
-    instances: 5
+    instances: 8
     exec_mode: cluster

@@ -159,6 +159,7 @@ const main = async (
         );
         if (i === numSeconds - 1) {
           await Promise.all(jsonPromises);
+          console.log(`${process.pid}. Done.`);
           resolve(true);
         }
       }, i * 1000);
