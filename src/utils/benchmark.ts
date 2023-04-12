@@ -135,9 +135,9 @@ const logResults = async (
     }
 
     return [
-      // jsonfile.writeFile(join(outputSubdir, `results-${index}.json`), results, {
-      //   spaces: 2,
-      // }),
+      jsonfile.writeFile(join(outputSubdir, `results-${index}.json`), results, {
+        spaces: 2,
+      }),
       jsonfile.writeFile(
         join(outputSubdir, `results-core-${index}.json`),
         resultCore,

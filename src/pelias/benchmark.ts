@@ -53,7 +53,7 @@ const autocomplete = async () => {
       const { label } = dataSlice[index];
       return {
         url: `${process.env.PELIAS_API_URL}:4000/v1/autocomplete?text={{label}}`,
-        label,
+        label
       };
     };
   };
