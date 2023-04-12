@@ -27,9 +27,9 @@ const makeRequests = (
       new Promise((resolve, reject) => {
         axiosMethod(URL, BODY, {
           headers: {
-            'Content-Type': 'application/json',
+            'Content-Type': 'application/json'
           },
-          timeout: TIMEOUT,
+          timeout: TIMEOUT
         })
           .then((res: AxiosResponse) => {
             const end = now();
@@ -43,7 +43,7 @@ const makeRequests = (
               requestnumber,
               body: BODY,
               url: URL,
-              response: res.data,
+              response: res.data
             };
 
             const resultCore = {
@@ -51,7 +51,7 @@ const makeRequests = (
               timeElapsed,
               requestnumber,
               body: BODY,
-              url: URL,
+              url: URL
             };
 
             resolve({ result, resultCore });
@@ -76,7 +76,7 @@ const makeRequests = (
               requestnumber,
               body: BODY,
               url: URL,
-              response: err?.message,
+              response: err?.message
             };
 
             const resultCore = {
@@ -84,7 +84,7 @@ const makeRequests = (
               timeElapsed: Math.max(timeElapsed, TIMEOUT),
               requestnumber,
               body: BODY,
-              url: URL,
+              url: URL
             };
 
             resolve({ result, resultCore });
@@ -131,16 +131,16 @@ const logResults = async (
     }
 
     return [
-      // jsonfile.writeFile(join(outputSubdir, `results-${index}.json`), results, {
-      //   spaces: 2,
-      // }),
+      jsonfile.writeFile(join(outputSubdir, `results-${index}.json`), results, {
+        spaces: 2
+      }),
       jsonfile.writeFile(
         join(outputSubdir, `results-core-${index}.json`),
         resultCore,
         {
-          spaces: 2,
+          spaces: 2
         }
-      ),
+      )
     ];
   } catch (err) {
     console.error(`Error logging results for index ${index}:`, err);

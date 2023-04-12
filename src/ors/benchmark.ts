@@ -30,7 +30,7 @@ const getPointsForAllRequests = (
 
 const main = async () => {
   const profileParam = 'driving-car';
-  const startData = jsonfile.readFileSync('input/berlin.json');
+  const startData = jsonfile.readFileSync('input/bucharest.json');
   const startCoords = startData.features[0].geometry.coordinates[0];
   const endData = jsonfile.readFileSync('input/bucharest.json');
   const endCoords = endData.features[0].geometry.coordinates[0];
@@ -58,7 +58,7 @@ const main = async () => {
       );
 
       return {
-        coordinates: [startPointsSection[index], endPointsSection[index]],
+        coordinates: [startPointsSection[index], endPointsSection[index]]
       };
     };
   };

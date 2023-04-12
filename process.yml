@@ -1,5 +1,21 @@
 apps:
-  - name: benchmark
+  - name: ors-benchmark
     script: dist/index.js
     instances: 10
     exec_mode: cluster
+    env:
+      STAGE: ors-benchmark
+      ORS_API_URL: http://142.93.163.176:8080/ors
+      PELIAS_API_URL: http://64.226.105.150
+      NUM_SECONDS: 1200
+      NUM_REQUESTS: 5
+  # - name: pelias-benchmark
+  #   script: dist/index.js
+  #   instances: 1
+  #   exec_mode: cluster
+  #   env:
+  #     STAGE: pelias-geocoding-benchmark
+  #     ORS_API_URL: http://142.93.163.176:8080/ors
+  #     PELIAS_API_URL: http://64.226.105.150
+  #     NUM_SECONDS: 1200
+  #     NUM_REQUESTS: 10
