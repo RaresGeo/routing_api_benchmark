@@ -23,9 +23,11 @@ const geocoding = async () => {
 
   const urlGetter = (timerIndex: number) => {
     return (index: number) => {
+      const idx = timerIndex % data.length;
+
       const dataSlice = data.slice(
-        NUM_REQUESTS * timerIndex,
-        NUM_REQUESTS * (timerIndex + 1)
+        NUM_REQUESTS * idx,
+        NUM_REQUESTS * (idx + 1)
       );
       const { label } = dataSlice[index % dataSlice.length];
       return `${process.env.PELIAS_API_URL}:4000/v1/search?text=${label}`;
@@ -53,7 +55,7 @@ const autocomplete = async () => {
       const { label } = dataSlice[index];
       return {
         url: `${process.env.PELIAS_API_URL}:4000/v1/autocomplete?text={{label}}`,
-        label
+        label,
       };
     };
   };
