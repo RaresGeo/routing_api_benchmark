@@ -91,7 +91,7 @@ const averages = (outputSubdirectories: string[]) => {
           average
         )} (${successRate * 100}% success rate) for ${
           data[processDir].count
-        } requests}`
+        } requests`
       );
     });
 
@@ -113,7 +113,7 @@ const averages = (outputSubdirectories: string[]) => {
         overallAverage
       )} (${
         overallSuccessRate * 100
-      }% success rate) for ${overallCount} requests}\n\n`
+      }% success rate) for ${overallCount} requests\n\n`
     );
   });
 };
