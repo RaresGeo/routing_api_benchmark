@@ -83,7 +83,7 @@ const averages = (outputSubdirectories: string[]) => {
         };
       });
 
-      const average = data[processDir].sum / data[processDir].count;
+      /* const average = data[processDir].sum / data[processDir].count;
       const successRate = data[processDir].successes / data[processDir].count;
 
       console.log(
@@ -92,7 +92,7 @@ const averages = (outputSubdirectories: string[]) => {
         )} (${successRate * 100}% success rate) for ${
           data[processDir].count
         } requests`
-      );
+      ); */
     });
 
     let overallAverage = 0;
@@ -150,7 +150,7 @@ const main = async () => {
   const handleKeyPress = (key: string) => {
     if (key === ' ') {
       averages(outputSubdirectories);
-    } else if (key === 'q') {
+    } else if (key === 'q' || key === 'Q') {
       process.exit();
     }
   };

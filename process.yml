@@ -1,5 +1,18 @@
 apps:
-  - name: ors-benchmark
+  # PELIAS
+  - name: pelias-geocode
+    script: dist/index.js
+    instances: 4
+    exec_mode: cluster
+    env:
+      STAGE: pelias-geocoding-benchmark
+      OUTPUT_DIR: pelias
+      NUM_REQUESTS: 4
+      NUM_SECONDS: 4
+      START_FILE: pelias
+
+  # ORS CROSS COUNTRY
+  - name: ors-cross-country
     script: dist/index.js
     instances: 4
     exec_mode: cluster
@@ -10,24 +23,89 @@ apps:
       END_FILE: berlin
       NUM_REQUESTS: 4
       NUM_SECONDS: 4
-  - name: pelias-benchmark
-    script: dist/index.js
-    instances: 4
-    exec_mode: cluster
-    env:
-      STAGE: pelias-geocoding-benchmark
-      OUTPUT_DIR: pelias
-      NUM_REQUESTS: 4
-      NUM_SECONDS: 4
-      START_FILE: pelias
-  - name: ors-same-place
+
+  # ORS SAME CITY
+
+  # GERMANY
+  - name: ors-same-berlin
     script: dist/index.js
     instances: 4
     exec_mode: cluster
     env:
       STAGE: ors-benchmark
-      OUTPUT_DIR: ors-same-place
-      START_FILE: bucharest_full
-      END_FILE: bucharest_full
+      OUTPUT_DIR: ors-same-berlin
+      START_FILE: berlin
+      END_FILE: berlin
+      NUM_REQUESTS: 4
+      NUM_SECONDS: 4
+
+  # ROMANIA
+  - name: ors-same-brasov
+    script: dist/index.js
+    instances: 4
+    exec_mode: cluster
+    env:
+      STAGE: ors-benchmark
+      OUTPUT_DIR: ors-same-brasov
+      START_FILE: brasov
+      END_FILE: brasov
+      NUM_REQUESTS: 4
+      NUM_SECONDS: 4
+  - name: ors-same-suceava
+    script: dist/index.js
+    instances: 4
+    exec_mode: cluster
+    env:
+      STAGE: ors-benchmark
+      OUTPUT_DIR: ors-same-suceava
+      START_FILE: suceava
+      END_FILE: suceava
+      NUM_REQUESTS: 4
+      NUM_SECONDS: 4
+  - name: ors-same-bucharest
+    script: dist/index.js
+    instances: 4
+    exec_mode: cluster
+    env:
+      STAGE: ors-benchmark
+      OUTPUT_DIR: ors-same-bucharest
+      START_FILE: bucharest
+      END_FILE: bucharest
+      NUM_REQUESTS: 4
+      NUM_SECONDS: 4
+
+  # ORS CROSS CITY
+  # ROMANIA
+  - name: ors-brasov-bucharest
+    script: dist/index.js
+    instances: 4
+    exec_mode: cluster
+    env:
+      STAGE: ors-benchmark
+      OUTPUT_DIR: ors-brasov-bucharest
+      START_FILE: brasov
+      END_FILE: bucharest
+      NUM_REQUESTS: 4
+      NUM_SECONDS: 4
+  - name: ors-bucharest-suceava
+    script: dist/index.js
+    instances: 4
+    exec_mode: cluster
+    env:
+      STAGE: ors-benchmark
+      OUTPUT_DIR: ors-bucharest-suceava
+      START_FILE: bucharest
+      END_FILE: suceava
+      NUM_REQUESTS: 4
+      NUM_SECONDS: 4
+  - name: ors-brasov-suceava
+    script: dist/index.js
+    instances: 4
+    exec_mode: cluster
+    env:
+      STAGE: ors-benchmark
+      OUTPUT_DIR: ors-brasov-suceava
+      START_FILE: brasov
+      END_FILE: suceava
       NUM_REQUESTS: 4
       NUM_SECONDS: 4
