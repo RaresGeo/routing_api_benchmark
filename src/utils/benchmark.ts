@@ -14,7 +14,7 @@ const makeRequests = (
   url: (index: number) => string,
   body: (index: number) => { coordinates?: number[][] } | undefined,
   numberOfRequests: number,
-  axiosMethod: any
+  axiosMethod: any,
 ) => {
   const promises: Promise<{ result: Result; resultCore: ResultCore }>[] = [];
 
@@ -27,9 +27,9 @@ const makeRequests = (
       new Promise((resolve, reject) => {
         axiosMethod(URL, BODY, {
           headers: {
-            'Content-Type': 'application/json'
+            'Content-Type': 'application/json',
           },
-          timeout: TIMEOUT
+          timeout: TIMEOUT,
         })
           .then((res: AxiosResponse) => {
             const end = now();
@@ -43,7 +43,7 @@ const makeRequests = (
               requestnumber,
               body: BODY,
               url: URL,
-              response: res.data
+              response: res.data,
             };
 
             const resultCore = {
@@ -51,7 +51,7 @@ const makeRequests = (
               timeElapsed,
               requestnumber,
               body: BODY,
-              url: URL
+              url: URL,
             };
 
             resolve({ result, resultCore });
@@ -62,7 +62,7 @@ const makeRequests = (
               err?.message,
               'for url',
               url(i),
-              body
+              body,
             );
 
             const end = now();
@@ -76,7 +76,7 @@ const makeRequests = (
               requestnumber,
               body: BODY,
               url: URL,
-              response: err?.message
+              response: err?.message,
             };
 
             const resultCore = {
@@ -84,7 +84,7 @@ const makeRequests = (
               timeElapsed: Math.max(timeElapsed, TIMEOUT),
               requestnumber,
               body: BODY,
-              url: URL
+              url: URL,
             };
 
             resolve({ result, resultCore });
@@ -99,7 +99,7 @@ const makeRequests = (
 
 const logResults = async (
   index: number,
-  promises: Promise<{ result: Result; resultCore: ResultCore }>[]
+  promises: Promise<{ result: Result; resultCore: ResultCore }>[],
 ) => {
   try {
     const settledPromises = await Promise.allSettled(promises);
@@ -111,7 +111,7 @@ const logResults = async (
         settledResult: PromiseSettledResult<{
           result: Result;
           resultCore: ResultCore;
-        }>
+        }>,
       ) => {
         if (settledResult.status === 'fulfilled') {
           results.push(settledResult.value.result);
@@ -119,10 +119,10 @@ const logResults = async (
         } else {
           console.error(
             `Error in promise for index ${index}:`,
-            settledResult.reason
+            settledResult.reason,
           );
         }
-      }
+      },
     );
 
     const outputSubdir = `output/pid-${process.pid}`;
@@ -132,15 +132,15 @@ const logResults = async (
 
     return [
       jsonfile.writeFile(join(outputSubdir, `results-${index}.json`), results, {
-        spaces: 2
+        spaces: 2,
       }),
       jsonfile.writeFile(
         join(outputSubdir, `results-core-${index}.json`),
         resultCore,
         {
-          spaces: 2
-        }
-      )
+          spaces: 2,
+        },
+      ),
     ];
   } catch (err) {
     console.error(`Error logging results for index ${index}:`, err);
@@ -153,7 +153,7 @@ const timer = (
   url: (index: number) => string,
   body: (index: number) => { coordinates?: number[][] } | undefined,
   axiosMethod: any,
-  numRequests: number
+  numRequests: number,
 ) => {
   const promises = makeRequests(url, body, numRequests, axiosMethod);
   const start = now();
@@ -161,7 +161,7 @@ const timer = (
   console.log(
     `${process.pid}/${index + 1}. Making requests from ${
       numRequests * index
-    } to ${numRequests * (index + 1)} at ${start}...`
+    } to ${numRequests * (index + 1)} at ${start}...`,
   );
 
   return logResults(index, promises);
@@ -170,11 +170,11 @@ const timer = (
 const main = async (
   urlGetter: (timerIndex: number) => (index: number) => string,
   bodyGetter: (
-    timerIndex: number
+    timerIndex: number,
   ) => (index: number) => { coordinates?: number[][] } | undefined,
   axiosMethod: any,
   numRequests: number,
-  numSeconds: number
+  numSeconds: number,
 ) => {
   const promise = new Promise((resolve, reject) => {
     for (let i = 0; i < numSeconds; i++) {
@@ -184,7 +184,7 @@ const main = async (
           urlGetter(i),
           bodyGetter(i),
           axiosMethod,
-          numRequests
+          numRequests,
         );
         if (i === numSeconds - 1) {
           await Promise.all(jsonPromises);
