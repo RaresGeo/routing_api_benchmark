@@ -74,9 +74,7 @@ const main = () => {
       overallCount * NUM_REQUESTS
     } requests total. Across ${
       Object.keys(averages).length
-    } subprocesses, each sending ${
-      overallCount / Object.keys(averages).length
-    } requests per second for ${Math.max(
+    } subprocesses, each sending ${NUM_REQUESTS} requests per second for ${Math.max(
       ...Object.values(averages).map(({ files }) => files)
     )} seconds): `,
     formatMilliseconds(overallAverage)
