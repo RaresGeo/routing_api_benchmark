@@ -23,13 +23,8 @@ const geocoding = async () => {
 
   const urlGetter = (timerIndex: number) => {
     return (index: number) => {
-      const idx = timerIndex % data.length;
-
-      const dataSlice = data.slice(
-        NUM_REQUESTS * idx,
-        NUM_REQUESTS * (idx + 1)
-      );
-      const { label } = dataSlice[index % dataSlice.length];
+      const idx = Math.floor(Math.random() * data.length);
+      const { label } = data[idx];
       return `${process.env.PELIAS_API_URL}:4000/v1/search?text=${label}`;
     };
   };
