@@ -1,1052 +1,7709 @@
 [
   {
     "point": [
-      13.435503992924872,
-      52.52289963391778
+      13.442245852885147,
+      52.52710866305456
     ],
-    "label": "Landsberger Allee 10, Berlin, Germany"
+    "label": "Volkspark Friedrichshain Hundeplatz, Berlin, Germany"
   },
   {
     "point": [
-      26.0784047414229,
-      44.43766589954109
+      25.574308276602498,
+      45.65953295141367
     ],
-    "label": "Strada Știrbei Vodă 131, Bucureşti, BI, Romania"
+    "label": "Calea Făgărașului 27, Braşov, Romania"
   },
   {
     "point": [
-      13.442269968855179,
-      52.50774635976401
+      26.15622739865646,
+      44.38270373895
     ],
-    "label": "Helen-Ernst-Straße 4, Berlin, Germany"
+    "label": "Strada Sfântul Andrei 11, Popești-Leordeni, IF, Romania"
   },
   {
     "point": [
-      26.112897624599626,
-      44.44563073154219
+      26.094040492877816,
+      44.432100504941765
     ],
-    "label": "Colegiul Național Cantemir Vodă, Bucureşti, BI, Romania"
+    "label": "Centrul Medical de Diagnostic și Tratament Ambulatoriu Dr. \"Nicolae Kretzulescu, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.408485702669452,
-      52.503939839571
+      26.235994170585347,
+      47.64947184491723
     ],
-    "label": "Oranienstraße 138, Berlin, Germany"
+    "label": "bl. E-70, Suceava, Romania"
   },
   {
     "point": [
-      26.06870504864016,
-      44.42922480122825
+      13.445504567108596,
+      52.506961001000434
     ],
-    "label": "Strada Doctor Romniceanu Grigore 44, Bucureşti, BI, Romania"
+    "label": "Saturn, Berlin, Germany"
   },
   {
     "point": [
-      13.398122382489369,
-      52.535364337416866
+      25.580631398704924,
+      45.66162559636242
     ],
-    "label": "Brunnenstraße 33, Berlin, Germany"
+    "label": "Strada de Mijloc 146A, Braşov, Romania"
   },
   {
     "point": [
-      26.116117377889076,
-      44.41550847065312
+      26.161932978913125,
+      44.34595006020374
     ],
-    "label": "Strada Morilor 1A, Bucureşti, BI, Romania"
+    "label": "Cimitirul \"Adormirea Maicii Domnului, Popești-Leordeni, IF, Romania"
   },
   {
     "point": [
-      13.435662251738252,
-      52.512627425777374
+      26.122813405419542,
+      44.41405540033442
     ],
-    "label": "UP! Berlin, Berlin, Germany"
+    "label": "Strada Foișorului 125, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.098927452452294,
-      44.41297612095445
+      26.251934536654975,
+      47.66282200811662
     ],
-    "label": "Strada General Candiano Popescu 79, Bucureşti, BI, Romania"
+    "label": "Strada Traian Vuia 2D, Suceava, Romania"
   },
   {
     "point": [
-      13.401054922007328,
-      52.53481438227746
+      13.42834330561581,
+      52.53442848728647
     ],
-    "label": "Fehrbelliner Straße 36, Berlin, Germany"
+    "label": "Christburger Straße 14D, Berlin, Germany"
   },
   {
     "point": [
-      26.09992237456146,
-      44.415668435767195
+      25.615523233321003,
+      45.67388106674072
     ],
-    "label": "Mega Image, Bucureşti, BI, Romania"
+    "label": "Auchan, Braşov, Romania"
   },
   {
     "point": [
-      13.427224187164391,
-      52.50262446428422
+      26.067157657983856,
+      44.42684208591338
     ],
-    "label": "Muskauer Straße 36, Berlin, Germany"
+    "label": "Șoseaua Panduri 35, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.095055548574507,
-      44.408102801635934
+      26.08939115861874,
+      44.41263697483678
     ],
-    "label": "Strada Sulina 20A, Bucureşti, BI, Romania"
+    "label": "ISG Residence, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.413467933308088,
-      52.51500253864695
+      26.21406509122727,
+      47.65333857154908
     ],
-    "label": "Rolandufer 13, Berlin, Germany"
+    "label": "Registrul Auto Român (R.A.R.), Șcheia, SV, Romania"
   },
   {
     "point": [
-      26.093387894376416,
-      44.42990613558656
+      13.420401780634032,
+      52.505354164574285
     ],
-    "label": "Bulevardul Națiunile Unite 5, Bucureşti, BI, Romania"
+    "label": "Bethaniendamm 61, Berlin, Germany"
   },
   {
     "point": [
-      13.41919092848882,
-      52.51135641737042
+      25.610108816324715,
+      45.67776591529375
     ],
-    "label": "Köpenicker Straße 73, Berlin, Germany"
+    "label": "Strada Eugen Jebeleanu 4, BV, Romania"
   },
   {
     "point": [
-      26.088361909133766,
-      44.41516538830617
+      26.165569259697072,
+      44.45849225788687
     ],
-    "label": "Strada Inginer Tacu Dumitru 8, Bucureşti, BI, Romania"
+    "label": "Șoseaua Fundeni 238A, Fundeni, IF, Romania"
   },
   {
     "point": [
-      13.417223749301058,
-      52.50910466419033
+      26.130578190307425,
+      44.42810057635602
     ],
-    "label": "Schmidstraße 6D, Berlin, Germany"
+    "label": "Bl. S28, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.097750745568117,
-      44.44017812940169
+      26.244665695014014,
+      47.647180025161866
     ],
-    "label": "Strada C. A. Rosetti 4-6, Bucureşti, BI, Romania"
+    "label": "Raiffeisen Bank, Suceava, Romania"
   },
   {
     "point": [
-      13.401452867320202,
-      52.51456742592648
+      13.388203791637471,
+      52.51268510968431
     ],
-    "label": "Flussbad Garten, Berlin, Germany"
+    "label": "Taubenstraße 7-9, Berlin, Germany"
   },
   {
     "point": [
-      26.09543580855778,
-      44.41859030218076
+      25.56325966913079,
+      45.66629991457764
     ],
-    "label": "Carol 1459, Bucureşti, BI, Romania"
+    "label": "Strada Pelicanului 4, BV, Romania"
   },
   {
     "point": [
-      13.411843604823064,
-      52.50090930939503
+      26.209863891404783,
+      44.40948332818615
     ],
-    "label": "Ritterstraße 8, Berlin, Germany"
+    "label": "Strada Balta Albina 9, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.117395207725753,
-      44.440302365332855
+      26.137141780181185,
+      44.43327482410076
     ],
-    "label": "Intrarea General Ipătescu Grigore 4, Bucureşti, BI, Romania"
+    "label": "Strada Orzari 81, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.423041180261254,
-      52.499933954544765
+      26.25053807723969,
+      47.653591531001794
     ],
-    "label": "Oranienstraße 195, Berlin, Germany"
+    "label": "Strada Ilie Ilașcu 15, Suceava, Romania"
   },
   {
     "point": [
-      26.11540032652231,
-      44.4099258571933
+      13.428469061996804,
+      52.50828780835058
     ],
-    "label": "Bl. 74A, Bucureşti, BI, Romania"
+    "label": "Bona-Peiser-Weg 4, Berlin, Germany"
   },
   {
     "point": [
-      13.382681641210228,
-      52.50042764235748
+      25.667552245937593,
+      45.66191423819521
     ],
-    "label": "Kleinbeerenstraße 2, Berlin, Germany"
+    "label": "Durbav, BV, Romania"
   },
   {
     "point": [
-      26.09617052577051,
-      44.407553412706605
+      25.96940375905265,
+      44.447051977576315
     ],
-    "label": "Ager Service - parbrize, Bucureşti, BI, Romania"
+    "label": "Șoseaua de Centură 43, Chiajna, IF, Romania"
   },
   {
     "point": [
-      13.394097033180454,
-      52.53423956091091
+      26.099722144302277,
+      44.42202358135854
     ],
-    "label": "Anklamer Straße 57, Berlin, Germany"
+    "label": "Strada Muzelor 14, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.109360788340307,
-      44.41828187191048
+      26.237494734335925,
+      47.65132668244496
     ],
-    "label": "Strada Verzișori 28, Bucureşti, BI, Romania"
+    "label": "Biserica „Sf. Constantin și Elena”, Suceava, Romania"
   },
   {
     "point": [
-      13.389811570687161,
-      52.500223353182406
+      13.429142976192304,
+      52.5230336933702
     ],
-    "label": "Wilhelmstraße 3, Berlin, Germany"
+    "label": "Lotto-Post-Schreibwaren, Berlin, Germany"
   },
   {
     "point": [
-      26.124418424289566,
-      44.415952989171466
+      25.60882608524406,
+      45.68887720687335
     ],
-    "label": "Strada Brândușelor 7, Bucureşti, BI, Romania"
+    "label": "Plametco, BV, Romania"
   },
   {
     "point": [
-      13.405096262800186,
-      52.522241922058654
+      26.125938639804446,
+      44.377963197695394
     ],
-    "label": "Panorama Apartment Berlin City Centre, Berlin, Germany"
+    "label": "Drumul Gilăului 1K, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.135768091752627,
-      44.433002703115676
+      26.09452602714669,
+      44.43473505223044
     ],
-    "label": "Strada Claudiu 27, Bucureşti, BI, Romania"
+    "label": "Grădina Cișmigiu, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.416501084666152,
-      52.51618257917463
+      26.25444033323542,
+      47.67423145249411
     ],
-    "label": "Schicklerstraße 4, Berlin, Germany"
+    "label": "Vet Expert, Suceava, Romania"
   },
   {
     "point": [
-      26.08026683092012,
-      44.43693402661185
+      13.406723017580497,
+      52.53459161968846
     ],
-    "label": "Calea Plevnei 66, Bucureşti, BI, Romania"
+    "label": "Schwedter Straße 251, Berlin, Germany"
   },
   {
     "point": [
-      13.409419147025789,
-      52.503983513360694
+      25.60553477892598,
+      45.65245909262512
     ],
-    "label": "Dokumentations- und Kulturzentrums Deutscher Sinti und Roma, Berlin, Germany"
+    "label": "Strada Petru Maior 19, Braşov, Romania"
   },
   {
     "point": [
-      26.122624240358384,
-      44.44601446228272
+      26.11921694014104,
+      44.3942567243964
     ],
-    "label": "Calea Moșilor 296, Bucureşti, BI, Romania"
+    "label": "Bl. 1, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.429992824499154,
-      52.534153549191814
+      26.099314544213783,
+      44.43835147425773
     ],
-    "label": "Greifswalder Straße 199, Berlin, Germany"
+    "label": "Sala Omnia, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.0977105887666,
-      44.43945764990003
+      26.24761358090848,
+      47.666759675945436
     ],
-    "label": "Biblioteca Centrală Universitară Carol I, Bucureşti, BI, Romania"
+    "label": "Petrom, Suceava, Romania"
   },
   {
     "point": [
-      13.400611517884998,
-      52.50181302583226
+      13.4262495476308,
+      52.52086733751559
     ],
-    "label": "Franz-Künstler-Straße 7, Berlin, Germany"
+    "label": "Weydemeyerstraße 8, Berlin, Germany"
   },
   {
     "point": [
-      26.128961440230213,
-      44.43961173721365
+      25.611238051706117,
+      45.67154278310745
     ],
-    "label": "Strada Mătăsari 34, Bucureşti, BI, Romania"
+    "label": "Coresi, Braşov, Romania"
   },
   {
     "point": [
-      13.405096434277572,
-      52.53024141227348
+      26.118677486885773,
+      44.36879649783809
     ],
-    "label": "Gormannstraße 18A, Berlin, Germany"
+    "label": "Strada Aurel Perșu 122, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.09297091772588,
-      44.41267985392969
-    ],
-    "label": "Arenele Romane, Bucureşti, BI, Romania"
-  },
-  {
-    "point": [
-      13.44027569974903,
-      52.5245626039403
-    ],
-    "label": "Zahnarztpraxis Dr. Meyer, Berlin, Germany"
-  },
-  {
-    "point": [
-      26.09998499402641,
-      44.420774048270374
-    ],
-    "label": "Strada Muzelor 26, Bucureşti, BI, Romania"
-  },
-  {
-    "point": [
-      13.409000441861107,
-      52.54002623581073
-    ],
-    "label": "Bühne, Berlin, Germany"
-  },
-  {
-    "point": [
-      26.13029478488905,
-      44.43312318797304
-    ],
-    "label": "Strada Orzari 19, Bucureşti, BI, Romania"
-  },
-  {
-    "point": [
-      13.39092057151742,
-      52.51835666720954
-    ],
-    "label": "Charlottenstraße 40, Berlin, Germany"
-  },
-  {
-    "point": [
-      26.1047731969998,
-      44.4286008848884
-    ],
-    "label": "Mega Image, Bucureşti, BI, Romania"
-  },
-  {
-    "point": [
-      13.41733368369095,
-      52.501936265398015
-    ],
-    "label": "Beyaz, Berlin, Germany"
-  },
-  {
-    "point": [
-      26.117555184251586,
-      44.4438797390466
-    ],
-    "label": "ghiseu postal Dacia, Bucureşti, BI, Romania"
-  },
-  {
-    "point": [
-      13.399442490335435,
-      52.51411455945807
-    ],
-    "label": "Kurstraße 40, Berlin, Germany"
-  },
-  {
-    "point": [
-      26.09599571854106,
-      44.40646229478428
-    ],
-    "label": "Cimitirul Eroii Revoluției, Bucureşti, BI, Romania"
-  },
-  {
-    "point": [
-      13.415624350531376,
-      52.51894731252976
-    ],
-    "label": "JD Sports, Berlin, Germany"
-  },
-  {
-    "point": [
-      26.122874181562747,
-      44.44571439572912
-    ],
-    "label": "Strada Ion Maiorescu 29, Bucureşti, BI, Romania"
-  },
-  {
-    "point": [
-      13.387828602489103,
-      52.501521884869426
-    ],
-    "label": "Wilhelmstraße 131, Berlin, Germany"
-  },
-  {
-    "point": [
-      26.11212865390082,
-      44.41530733481491
+      26.11221856224858,
+      44.415237569878336
     ],
     "label": "Bl. 18, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.408422139615523,
-      52.5274720644223
+      26.26270585539303,
+      47.65982233494097
     ],
-    "label": "Alte Schönhauser Straße 55, Berlin, Germany"
+    "label": "Complex Comercial Bazar, Suceava, Romania"
   },
   {
     "point": [
-      26.089839162376766,
-      44.43727960549261
+      13.421821838601476,
+      52.53171040183864
     ],
-    "label": "Izvorul Sissi Stefanidi, Bucureşti, BI, Romania"
+    "label": "Raabeplatz, Berlin, Germany"
   },
   {
     "point": [
-      13.398123337657061,
-      52.50412475705762
+      25.60587681349326,
+      45.67485892289498
     ],
-    "label": "Lindenstraße 27c, Berlin, Germany"
+    "label": "Strada Ioan Popasu 15, BV, Romania"
   },
   {
     "point": [
-      26.05965598278983,
-      44.43513475512272
+      26.085517059180173,
+      44.44839902552453
     ],
-    "label": "Bulevardul Iuliu Maniu 36, Bucureşti, BI, Romania"
+    "label": "Strada Frumoasă 23, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.4074452066224,
-      52.53407717477095
+      26.109176594634327,
+      44.43214988127702
     ],
-    "label": "Choriner Straße 66, Berlin, Germany"
+    "label": "Bulevardul Hristo Botev 25, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.08508341419956,
-      44.4281475945567
+      26.24702386128811,
+      47.641047422705725
     ],
-    "label": "Muzeul Național de Artă Contemporană, Bucureşti, BI, Romania"
+    "label": "Hennesy's Pub, Suceava, Romania"
   },
   {
     "point": [
-      13.395216015236661,
-      52.50046947791027
+      13.404685728234917,
+      52.520388539676716
     ],
-    "label": "Franz-Klühs-Straße, Berlin, Germany"
+    "label": "Spandauer Straße/Marienkirche, Berlin, Germany"
   },
   {
     "point": [
-      26.115263112134315,
-      44.42004416646819
+      25.648450860933092,
+      45.682092742120425
     ],
-    "label": "Școala Generală 81, Bucureşti, BI, Romania"
+    "label": "Strada Deda 7, Braşov, Romania"
   },
   {
     "point": [
-      13.40125467238722,
-      52.51037336730314
+      26.015971865831226,
+      44.47647391079881
     ],
-    "label": "Axel-Springer-Straße 54B, Berlin, Germany"
+    "label": "Strada Medrești 66, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.0850832668838,
-      44.42719278760552
+      26.120878447980218,
+      44.44197417845473
     ],
-    "label": "Muzeul Național de Artă Contemporană, Bucureşti, BI, Romania"
+    "label": "Strada Traian 228, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.395842364946562,
-      52.53315111464656
+      26.255000172863316,
+      47.653985178023376
     ],
-    "label": "Ackerstraße 29, Berlin, Germany"
+    "label": "Strada Mircea Șeptilici 2b, Suceava, Romania"
   },
   {
     "point": [
-      26.0764544319182,
-      44.43772315897544
+      13.396358763512326,
+      52.52481747328942
     ],
-    "label": "Știrbei Vodă, Bucureşti, BI, Romania"
+    "label": "Krausnickstraße 3, Berlin, Germany"
   },
   {
     "point": [
-      13.41861202573108,
-      52.53916905617612
+      25.593206091733897,
+      45.677930434256254
     ],
-    "label": "Husemannstraße 28, Berlin, Germany"
+    "label": "Strada Alexandru Ciurcu 131B, BV, Romania"
   },
   {
     "point": [
-      26.128756443617704,
-      44.44573852831297
+      26.036068377063977,
+      44.48043101554531
     ],
-    "label": "Aleea Avrig 6, Bucureşti, BI, Romania"
+    "label": "Strada Străbună 59, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.380389398713305,
-      52.51209135913093
+      26.110980871198553,
+      44.431879973039315
     ],
-    "label": "Gertrud-Kolmar-Straße 9, Berlin, Germany"
+    "label": "Bulevardul Corneliu Coposu 14, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.11843246425163,
-      44.427517084034115
+      26.26276803698038,
+      47.649076118924754
     ],
-    "label": "Strada Maximilian Popper 18, Bucureşti, BI, Romania"
+    "label": "Colegiul de Artă Ciprian Porumbescu, Suceava, Romania"
   },
   {
     "point": [
-      13.388879858667858,
-      52.502978310924085
+      13.446515443617097,
+      52.51507370589087
     ],
-    "label": "Hedemannstraße 10, Berlin, Germany"
+    "label": "Gubener Straße 58, Berlin, Germany"
   },
   {
     "point": [
-      26.115600591339245,
-      44.41413747268704
+      25.638460681730923,
+      45.641222528823064
     ],
-    "label": "Splaiul Unirii D3, Bucureşti, BI, Romania"
+    "label": "Aleea Mercur 1, Braşov, Romania"
   },
   {
     "point": [
-      13.41171978112772,
-      52.50718052009743
+      26.02218818788883,
+      44.40299034948683
     ],
-    "label": "Dresdener Straße 96, Berlin, Germany"
+    "label": "Cimitirul Ghencea 2, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.096682350581723,
-      44.43854962071761
+      26.094965549832676,
+      44.42304887617954
     ],
-    "label": "Corneliu Coposu, Bucureşti, BI, Romania"
+    "label": "Strada Poiana Florilor 5, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.407438642138013,
-      52.51848741528929
+      26.26018377664546,
+      47.64588984842025
     ],
-    "label": "Rotes Rathaus, Berlin, Germany"
+    "label": "Profi, Suceava, Romania"
   },
   {
     "point": [
-      26.06498410676257,
-      44.43695535917864
+      13.442963628656841,
+      52.512812259905736
     ],
-    "label": "Grădina Botanică, Bucureşti, BI, Romania"
+    "label": "Wedekindstraße 3, Berlin, Germany"
   },
   {
     "point": [
-      13.381949355382128,
-      52.52828060273113
+      25.55836679134005,
+      45.67260009919421
     ],
-    "label": "Mensa HU Nord, Berlin, Germany"
+    "label": "Bartolomeu Nord, BV, Romania"
   },
   {
     "point": [
-      26.113608749013245,
-      44.434793330510395
+      26.03641107179334,
+      44.49025729680116
     ],
-    "label": "Strada Romulus 7, Bucureşti, BI, Romania"
+    "label": "Strada Berveni 9, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.410846291919349,
-      52.51619239023966
+      26.108505671001037,
+      44.43305395873348
     ],
-    "label": "Stralauer Straße 33, Berlin, Germany"
+    "label": "Bulevardul Hristo Botev 32, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.11556142399436,
-      44.42982821664873
+      26.246115680417464,
+      47.66441780823389
     ],
-    "label": "Intrarea Ceauș Radu 6, Bucureşti, BI, Romania"
+    "label": "Petrom, Suceava, Romania"
   },
   {
     "point": [
-      13.396265785460816,
-      52.53525541956666
+      13.373305521166213,
+      52.51627823099629
     ],
-    "label": "Flugzeugspielplatz, Berlin, Germany"
+    "label": "T-34, Berlin, Germany"
   },
   {
     "point": [
-      26.088372869947257,
-      44.42405155681701
+      25.541941580983885,
+      45.66446405830322
     ],
-    "label": "Calea 13 Septembrie, Bucureşti, BI, Romania"
+    "label": "Strada Ioan Clopoțel 4, BV, Romania"
   },
   {
     "point": [
-      13.395154261014278,
-      52.52695185438753
+      26.177021575109805,
+      44.38666431544414
     ],
-    "label": "me Café, Berlin, Germany"
+    "label": "Balta Floarea Popeștiului, IF, Romania"
   },
   {
     "point": [
-      26.118998950297023,
-      44.42386397295497
+      26.131487130543842,
+      44.4225278017162
     ],
-    "label": "Nerva Traian, Bucureşti, BI, Romania"
+    "label": "Bulevardul Burebista 7, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.426910863362309,
-      52.52554000234297
+      26.234987306358928,
+      47.652821104544245
     ],
-    "label": "Höchste Straße 16, Berlin, Germany"
+    "label": "Cimitir, Șcheia, SV, Romania"
   },
   {
     "point": [
-      26.097650402584044,
-      44.41027148276927
+      13.398942698723076,
+      52.50975227595738
     ],
-    "label": "Calea Șerban Vodă 205, Bucureşti, BI, Romania"
+    "label": "Krausenstraße 40, Berlin, Germany"
   },
   {
     "point": [
-      13.419811977135115,
-      52.50417277549822
+      25.613884255885644,
+      45.657495466228575
     ],
-    "label": "Waldemarstraße 33A, Berlin, Germany"
+    "label": "Bulevardul Victoriei 5, Braşov, Romania"
   },
   {
     "point": [
-      26.112842129353535,
-      44.421943308963556
+      26.041950316621953,
+      44.37580124743661
     ],
-    "label": "Bl. M44, Bucureşti, BI, Romania"
+    "label": "Cimitirul Parohial Sfântul Antonie cel Mare - Măgurele, IF, Romania"
   },
   {
     "point": [
-      13.438144843516406,
-      52.50110385641491
+      26.116459133033825,
+      44.42022352414438
     ],
-    "label": "Wrangelstraße 98, Berlin, Germany"
+    "label": "Bl. M70, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.112042651234862,
-      44.41834942358975
+      26.25081557870281,
+      47.66404945648026
     ],
-    "label": "Splaiul Unirii 98, Bucureşti, BI, Romania"
+    "label": "Mopan, Suceava, Romania"
   },
   {
     "point": [
-      13.445505797402204,
-      52.522456222577645
+      13.408274612359392,
+      52.506702158032546
     ],
-    "label": "Richard-Sorge-Straße 62, Berlin, Germany"
+    "label": "Alexandrinenstraße 55, Berlin, Germany"
   },
   {
     "point": [
-      26.11279084791371,
-      44.448334886468295
+      25.61148443576384,
+      45.68233124181935
     ],
-    "label": "Strada Răsuri 9, Bucureşti, BI, Romania"
+    "label": "RAR, BV, Romania"
   },
   {
     "point": [
-      13.37911077705453,
-      52.49985890696765
+      26.181578186684614,
+      44.48108570462393
     ],
-    "label": "ehem. Anhalter Bahn, Berlin, Germany"
+    "label": "Strada Gheorghe Doja 90, Voluntari, IF, Romania"
   },
   {
     "point": [
-      26.089708739677253,
-      44.41258829177715
+      26.124065846256414,
+      44.43297068445398
     ],
-    "label": "Stație ITP S.C. Auto Trans Călători Filaret S.A, Bucureşti, BI, Romania"
+    "label": "Stomatologie, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.39637901011167,
-      52.514806277273266
+      26.262157258824875,
+      47.645920630296374
     ],
-    "label": "Französische Straße 33, Berlin, Germany"
+    "label": "Turnul lui Lapusneanu, Suceava, Romania"
   },
   {
     "point": [
-      26.11321107083652,
-      44.42874936281242
+      13.440917105453197,
+      52.507871440572956
     ],
-    "label": "Strada Căuzași 28, Bucureşti, BI, Romania"
+    "label": "Helen-Ernst-Straße 2, Berlin, Germany"
   },
   {
     "point": [
-      13.395394286644953,
-      52.498419793386155
+      25.63713629337802,
+      45.63961410368893
     ],
-    "label": "Zossener Brücke, Berlin, Germany"
+    "label": "Bulevardul Saturn 35, Braşov, Romania"
   },
   {
     "point": [
-      26.080678228894335,
-      44.42955593312564
+      26.07304120673085,
+      44.49862287030924
     ],
-    "label": "Sika România, Bucureşti, BI, Romania"
+    "label": "Brodină, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.40863869478389,
-      52.5384016563019
+      26.086203722258446,
+      44.43444745743246
     ],
-    "label": "Oderberger Straße 52, Berlin, Germany"
+    "label": "Bulevardul Mihail Kogălniceanu 13, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.122898777059113,
-      44.42094810114962
+      26.25245175025634,
+      47.66264118553282
     ],
-    "label": "Strada Alexandru Moruzi Voievod 9, Bucureşti, BI, Romania"
+    "label": "Strada Traian Vuia 2D, Suceava, Romania"
   },
   {
     "point": [
-      13.43235111538845,
-      52.52081657892249
+      13.40453882426751,
+      52.50262481087227
     ],
-    "label": "Strausberger Straße 38, Berlin, Germany"
+    "label": "BSC Eintracht / Südring 1931 e.V, Berlin, Germany"
   },
   {
     "point": [
-      26.136524350854245,
-      44.43560185070407
+      25.673840692149053,
+      45.67309095858972
     ],
-    "label": "Bl. 221, Bucureşti, BI, Romania"
+    "label": "Durbav, BV, Romania"
   },
   {
     "point": [
-      13.417390850796252,
-      52.53150459110769
+      26.002100257376522,
+      44.43710701645397
     ],
-    "label": "Metzer Straße 29, Berlin, Germany"
+    "label": "Bulevardul Iuliu Maniu 244D, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.13512971200601,
-      44.42824410837322
+      26.07828173286048,
+      44.4422540157487
     ],
-    "label": "Bl. D8, Bucureşti, BI, Romania"
+    "label": "Strada Mircea Vulcănescu 103, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.398406160589278,
-      52.50348254039397
+      26.283520977871838,
+      47.666777996340805
     ],
-    "label": "Café Dix, Berlin, Germany"
+    "label": "Profi, Suceava, Romania"
   },
   {
     "point": [
-      26.072153126370015,
-      44.43270919402215
+      13.403025621682398,
+      52.52328786297392
     ],
-    "label": "Strada Sfântul Elefterie 43, Bucureşti, BI, Romania"
+    "label": "Schiesser, Berlin, Germany"
   },
   {
     "point": [
-      13.439603290753611,
-      52.50992403408348
+      25.577268103188192,
+      45.66546315543869
     ],
-    "label": "An der Ostbahn 3, Berlin, Germany"
+    "label": "Biserica Sfinții Trei Ierarhi, Braşov, Romania"
   },
   {
     "point": [
-      26.083167454422686,
-      44.42806928540975
+      26.114484736284926,
+      44.453750678100086
     ],
-    "label": "Dr. Staicovici, Bucureşti, BI, Romania"
+    "label": "Pavilion E - Medicină Internă, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.432630017365556,
-      52.53622914715174
+      26.137577819830746,
+      44.42752441789695
     ],
-    "label": "Greifswalder Straße/Danziger Straße, Berlin, Germany"
+    "label": "Fortuna, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.090498026464108,
-      44.41059742309961
+      26.235671578516673,
+      47.649649127775675
     ],
-    "label": "Strada Mitropolitul Veniamin Costache 15, Bucureşti, BI, Romania"
+    "label": "Cimitir, Șcheia, SV, Romania"
   },
   {
     "point": [
-      13.411446089460524,
-      52.512612600226674
+      13.402842198497005,
+      52.49867540025309
     ],
-    "label": "Wallstraße 39, Berlin, Germany"
+    "label": "Gitschiner Straße 85, Berlin, Germany"
   },
   {
     "point": [
-      26.127042595898445,
-      44.43972099012099
+      25.569988863871046,
+      45.65678353135161
     ],
-    "label": "Bulevardul Pache Protopopescu 72, Bucureşti, BI, Romania"
+    "label": "Strada Mică 23, Braşov, Romania"
   },
   {
     "point": [
-      13.390772125173108,
-      52.507889954040394
+      26.193723101580595,
+      44.43579159361629
     ],
-    "label": "BlackBox Kalter Krieg, Berlin, Germany"
+    "label": "Strada Cicoarei 4A, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.066920038944534,
-      44.4464696334825
+      26.11442767276965,
+      44.4369852793111
     ],
-    "label": "Strada Afluentului 2, Bucureşti, BI, Romania"
+    "label": "Strada Dimitrie Racoviță 1, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.397128284972748,
-      52.519514813992956
+      26.25616267079312,
+      47.668046773567326
     ],
-    "label": "Dorotheenstraße 1, Berlin, Germany"
+    "label": "MOLDO MEX, Suceava, Romania"
   },
   {
     "point": [
-      26.088578410930236,
-      44.41699507765159
+      13.398587155409789,
+      52.524230021720456
     ],
-    "label": "Strada Silexului 24-26, Bucureşti, BI, Romania"
+    "label": "Große Hamburger Straße 18, Berlin, Germany"
   },
   {
     "point": [
-      13.428954169725648,
-      52.53502989025921
+      25.600813603380622,
+      45.647149417055765
     ],
-    "label": "Christburger Straße 16, Berlin, Germany"
+    "label": "Antique, Braşov, Romania"
   },
   {
     "point": [
-      26.098414814143688,
-      44.434390065536796
+      26.19331959434732,
+      44.440088852423386
     ],
-    "label": "Mini Market Non-Stop, Bucureşti, BI, Romania"
+    "label": "Pantelimon, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.435146156280352,
-      52.50557254251572
+      26.10165719793865,
+      44.43116373535457
     ],
-    "label": "Köpenicker Straße 16-17, Berlin, Germany"
+    "label": "Strada Gabroveni 6, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.081761572960435,
-      44.441220860826945
+      26.263187704726384,
+      47.64636384007843
     ],
-    "label": "Strada General Henri Mathias Berthelot 98bis, Bucureşti, BI, Romania"
+    "label": "Colegiul de Artă Ciprian Porumbescu, Suceava, Romania"
   },
   {
     "point": [
-      13.406281490139735,
-      52.51271932886035
+      13.37745756344024,
+      52.51936853645937
     ],
-    "label": "Fischerinsel 6, Berlin, Germany"
+    "label": "Solidarność-Denkmal, Berlin, Germany"
   },
   {
     "point": [
-      26.082662472146627,
-      44.42655897043249
+      25.620336122893892,
+      45.683974515869934
+    ],
+    "label": "Depou RAT Brașov, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.110015168939626,
+      44.42626859967399
+    ],
+    "label": "Biblioteca Națională a României, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.09311592407281,
+      44.413503183171294
+    ],
+    "label": "Crucea lui Antonie Vodă Ruset, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23115434552496,
+      47.65125872004331
+    ],
+    "label": "Cimitir, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.42167111172918,
+      52.50650577535269
+    ],
+    "label": "Melchiorstraße 26, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.657951471296652,
+      45.63858111001438
+    ],
+    "label": "Brasov, Romania"
+  },
+  {
+    "point": [
+      25.988434299596538,
+      44.4202253663541
+    ],
+    "label": "Bulevardul Timișoara 141-159, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.122678892073434,
+      44.41398508158766
+    ],
+    "label": "Strada Foișorului 130, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.259659411289622,
+      47.66828954395087
+    ],
+    "label": "MOLDO MEX, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.4347710158063,
+      52.50859850108474
+    ],
+    "label": "Stralauer Platz 36, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.579069707552087,
+      45.68683288209346
+    ],
+    "label": "Florexpres, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.04339307439924,
+      44.420964873266996
+    ],
+    "label": "Strada Țincani 12, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.107470419397487,
+      44.43331987992654
+    ],
+    "label": "Calea Moșilor 88, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.22971007616518,
+      47.648855718154195
+    ],
+    "label": "Oil Fluid, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.377705538437072,
+      52.50622713081697
+    ],
+    "label": "Köthener Straße 41, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.578303133434158,
+      45.68161961753729
+    ],
+    "label": "Asel Tur, BV, Romania"
+  },
+  {
+    "point": [
+      26.08132620911291,
+      44.42514898459671
+    ],
+    "label": "Calea 13 Septembrie 73, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.099810280841123,
+      44.432632175358954
+    ],
+    "label": "Strada Smârdan 7, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.236363897088534,
+      47.64248201471165
+    ],
+    "label": "Aleea Lalelelor 20, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.405092819064665,
+      52.53766684428692
+    ],
+    "label": "Fürstenberger Straße 9, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.610562702547725,
+      45.65769661200166
+    ],
+    "label": "Strada Crișana 5, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.114694196639366,
+      44.42391918466573
+    ],
+    "label": "Bulevardul Octavian Goga 8, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.062786387227934,
+      44.44347008530691
+    ],
+    "label": "Copyzone, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23922776247888,
+      47.660371381825264
+    ],
+    "label": "Cetatea Scheii, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.396859219502856,
+      52.535385081005586
+    ],
+    "label": "Brunnenstraße 155E, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.6045198046313,
+      45.680428339188516
+    ],
+    "label": "Mosaic Residence Bl. 1, BV, Romania"
+  },
+  {
+    "point": [
+      26.0401093511069,
+      44.428962644150864
+    ],
+    "label": "Bl.2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.07230970789451,
+      44.43159111546868
+    ],
+    "label": "Strada Doctor Louis Pasteur 69, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.236508817096414,
+      47.64917186845629
+    ],
+    "label": "bl. E-70, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.382830843396157,
+      52.50827216667637
+    ],
+    "label": "Bundesministerium der Finanzen, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.594386211649578,
+      45.64768248107186
+    ],
+    "label": "Strada Colinei 2, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.126473354688024,
+      44.51137249004539
+    ],
+    "label": "Strada Drumul Negru 63, IF, Romania"
+  },
+  {
+    "point": [
+      26.103159832846043,
+      44.44932682753808
+    ],
+    "label": "Strada Justinian 1A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.245239189164774,
+      47.65145288271534
+    ],
+    "label": "Radio As, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.446304214033743,
+      52.518365659933515
+    ],
+    "label": "Catrin Kortze Schornsteinfachartikel, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.5442501851181,
+      45.65569294822706
+    ],
+    "label": "J.F. Furnir, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.16074851485662,
+      44.38984353687069
+    ],
+    "label": "Strada Popești-Romani 64D, Popești-Leordeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.090975158405318,
+      44.415224991704605
+    ],
+    "label": "Autogara Filaret, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24068805293746,
+      47.65967982076274
+    ],
+    "label": "Cetatea Scheii, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.427309689458287,
+      52.53635294063701
+    ],
+    "label": "Winsstraße 44, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.633186695709632,
+      45.63773898904591
+    ],
+    "label": "Strada Soarelui 5, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.161731465539184,
+      44.46771547168237
+    ],
+    "label": "Strada Soldat Ene Niță 128, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.127133713572878,
+      44.43552294305978
+    ],
+    "label": "Strada Țepeș Vodă 59, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.259664977920114,
+      47.64239761728808
+    ],
+    "label": "Biblioteca Județeană Suceava, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.415659546073975,
+      52.508349480165315
+    ],
+    "label": "Annenstraße 4, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.65567270308042,
+      45.641262348419055
+    ],
+    "label": "Drumul Cernatului 34, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.203391742686588,
+      44.4814151992349
+    ],
+    "label": "Pantelimon, IF, Romania"
+  },
+  {
+    "point": [
+      26.127372597454432,
+      44.43182830328454
+    ],
+    "label": "Strada Locotenent Dumitru Ganovici 2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.251642822769284,
+      47.65731092168678
+    ],
+    "label": "Strada Mircea Șeptilici 2b, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.385106392321216,
+      52.51800181241077
+    ],
+    "label": "Neustädtischer Kirchplatz, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.623508578967066,
+      45.65557922429926
+    ],
+    "label": "Bulevardul Alexandru Vlahuță 32, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.125095657486828,
+      44.34681064768838
+    ],
+    "label": "Ilfov, Romania"
+  },
+  {
+    "point": [
+      26.120215066038213,
+      44.40891725664788
+    ],
+    "label": "Șoseaua Mihai Bravu 602-610, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.239980145259363,
+      47.66199017177766
+    ],
+    "label": "Cetatea Scheii, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.425823796586982,
+      52.52389778155702
+    ],
+    "label": "Mollstraße 20, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.62026536493152,
+      45.680838369505715
+    ],
+    "label": "Strada Safirului 7, BV, Romania"
+  },
+  {
+    "point": [
+      26.031091002721762,
+      44.49256084144541
+    ],
+    "label": "Strada Durău 126, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.081729371505496,
+      44.42518399752796
+    ],
+    "label": "Calea 13 Septembrie 71, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.266275186484307,
+      47.67418680869335
+    ],
+    "label": "Hotel Orizont, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.439340997764708,
+      52.52359874328544
+    ],
+    "label": "Spätshop, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.65025276898326,
+      45.63320831697095
+    ],
+    "label": "Artera Sud-Est, BV, Romania"
+  },
+  {
+    "point": [
+      26.06334482653083,
+      44.42418696540045
+    ],
+    "label": "Strada Mihail Sebastian 162, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.06818689462741,
+      44.43571151459369
+    ],
+    "label": "Strada Doctor Carol Davila 91, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.256730440126077,
+      47.650835847387135
+    ],
+    "label": "Strada Sbiera I. G 51, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.418982185321067,
+      52.531275922173364
+    ],
+    "label": "Prenzlauer Allee 237, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.65478775002588,
+      45.65686331312078
+    ],
+    "label": "Timiș, BV, Romania"
+  },
+  {
+    "point": [
+      25.992125971865313,
+      44.43851426905918
+    ],
+    "label": "Strada Viscolului 83B, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.07270721256055,
+      44.42491985268556
+    ],
+    "label": "Strada Mihail Cioranu 3, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.266407071519136,
+      47.6677687532943
+    ],
+    "label": "Pandora, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.413005465730935,
+      52.510385769339855
+    ],
+    "label": "Neue Jakobstraße 25, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.62545868145633,
+      45.673539562179016
+    ],
+    "label": "Sport Guru, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.05695716182142,
+      44.496217102592595
+    ],
+    "label": "Strada Petre S. Aurelian 72, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.094048535078407,
+      44.44696527832307
+    ],
+    "label": "Strada Nicolae Iorga 37, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25115143694153,
+      47.66712814368561
+    ],
+    "label": "Strada Cernăuți 112 B, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.440328297109742,
+      52.51273583287008
+    ],
+    "label": "Hofkino, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.643625068635032,
+      45.68841677089229
+    ],
+    "label": "Strada Sfântul Nicolae 32, BV, Romania"
+  },
+  {
+    "point": [
+      26.060195179460255,
+      44.456489878299244
+    ],
+    "label": "Calea Griviței 337A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.127838411331638,
+      44.44086748495829
+    ],
+    "label": "Intrarea Sergent Costea Gheorghe 9, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.231043861981128,
+      47.649217273462455
+    ],
+    "label": "Oil Fluid, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.393199929344075,
+      52.529851932902886
+    ],
+    "label": "Schröderstraße 2A, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.598539755254333,
+      45.648588880377574
+    ],
+    "label": "Strada Iuliu Maniu 32, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.06747582008337,
+      44.42692443024091
+    ],
+    "label": "Șoseaua Panduri 35, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.074449739090298,
+      44.42593172994803
+    ],
+    "label": "Institutul ORL, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.244042790497318,
+      47.665639678879224
+    ],
+    "label": "Petrom, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.395880870425453,
+      52.50940803203497
+    ],
+    "label": "Schützenstraße 51, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.55875047764343,
+      45.66277643089692
+    ],
+    "label": "Strada Egretei 17, BV, Romania"
+  },
+  {
+    "point": [
+      26.211195397512128,
+      44.43552810067512
+    ],
+    "label": "Poligon-Baza Sportiva Pompieri Militari, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.092832887490783,
+      44.418200804149535
+    ],
+    "label": "Aleea Suter 9, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.246301324183634,
+      47.64666980186191
+    ],
+    "label": "Bulevardul George Enescu 2 Bl 7 scA, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.39044927031475,
+      52.51562906610662
+    ],
+    "label": "Postbank, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.59285567464511,
+      45.690450005703866
+    ],
+    "label": "OMV, BV, Romania"
+  },
+  {
+    "point": [
+      26.003549894380296,
+      44.422316286945005
+    ],
+    "label": "Bulevardul Timișoara 101V, BI, Romania"
+  },
+  {
+    "point": [
+      26.08388940367247,
+      44.43990062191189
+    ],
+    "label": "DNA, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.254631433743466,
+      47.6572828326881
+    ],
+    "label": "Strada Mircea Șeptilici 2b, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.385206732633764,
+      52.51106921056209
+    ],
+    "label": "Mohrenstraße 2, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.64207479269981,
+      45.68134399995794
+    ],
+    "label": "Strada Deda 7, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.21448098027773,
+      44.386384078835555
+    ],
+    "label": "Balta Leordeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.132789689587984,
+      44.43525164845093
+    ],
+    "label": "Strada Agricultori 85, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.240164959271073,
+      47.6591214111777
+    ],
+    "label": "Cetatea Scheii, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.408513233328453,
+      52.50906533559848
+    ],
+    "label": "Sebastianstraße 35, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.665774044062147,
+      45.661668761338035
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      26.21333354968618,
+      44.403273436110666
+    ],
+    "label": "Intrare Sat Cățelu, Cățelu, IF, Romania"
+  },
+  {
+    "point": [
+      26.08812830820242,
+      44.451341812983955
+    ],
+    "label": "Bulevardul Lascăr Catargiu 58, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23148000365565,
+      47.65317392064084
+    ],
+    "label": "Cimitir, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.43909783790871,
+      52.526519843667636
+    ],
+    "label": "Neonatologische Intensivstation, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.559088996521066,
+      45.67812763794445
+    ],
+    "label": "Ste Cross, BV, Romania"
+  },
+  {
+    "point": [
+      26.133043940735508,
+      44.497856277374225
+    ],
+    "label": "Construdava Business Center, Voluntari, IF, Romania"
+  },
+  {
+    "point": [
+      26.107192566640077,
+      44.440694260307154
+    ],
+    "label": "Strada Thomas Masaryk 26, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.246011451681643,
+      47.644592319904575
+    ],
+    "label": "Liceul Dimitrie Cantemir, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.445711498117598,
+      52.51973409691332
+    ],
+    "label": "Löwestraße 6, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.606734282363597,
+      45.66838221193569
+    ],
+    "label": "Strada General Mociulschi 28, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.090331940461486,
+      44.35722072956961
+    ],
+    "label": "Regency, Jilava, IF, Romania"
+  },
+  {
+    "point": [
+      26.131546898542744,
+      44.424555968455316
+    ],
+    "label": "Strada Caloian Județul 4, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24103459774085,
+      47.65169422286344
+    ],
+    "label": "Biserica „Sf. Constantin și Elena”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.437800207079496,
+      52.51107987001023
+    ],
+    "label": "S Ostbahnhof/Erich-Steinfurth-Straße, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.601191951772662,
+      45.68848515472137
+    ],
+    "label": "Strada Nicolae Labiș 52D, BV, Romania"
+  },
+  {
+    "point": [
+      26.131218342840363,
+      44.44336797574755
+    ],
+    "label": "Bulevardul Ferdinand I 126A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.12153753155217,
+      44.427073769051745
+    ],
+    "label": "Strada Maximilian Popper 51, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23894895098221,
+      47.64749420761331
+    ],
+    "label": "bl. E-70, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.374190928170083,
+      52.51376375034784
+    ],
+    "label": "Global Stone Project, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.620604381856822,
+      45.660653097623666
+    ],
+    "label": "Bulevardul Gării 19, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.140287846578467,
+      44.50736784992267
+    ],
+    "label": "Intrarea Pipera-Tunari 9, Voluntari, IF, Romania"
+  },
+  {
+    "point": [
+      26.12255739698867,
+      44.437773099096596
+    ],
+    "label": "Strada Austrului 12, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.243983773947587,
+      47.661018107016574
+    ],
+    "label": "Cetatea Scheia, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.395337750448341,
+      52.49973632934399
+    ],
+    "label": "Lindenstraße 1, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.63378775299023,
+      45.65141994871909
+    ],
+    "label": "Bar/Beer Garden, Braşov, Romania"
+  },
+  {
+    "point": [
+      25.978866707834648,
+      44.48501322064409
+    ],
+    "label": "Catted Business Park, Chitila, IF, Romania"
+  },
+  {
+    "point": [
+      26.10674114995967,
+      44.43725105848995
+    ],
+    "label": "Strada Dianei 4, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23973576482466,
+      47.64610563557325
+    ],
+    "label": "bl. E-70, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.423904267835056,
+      52.49982957851076
+    ],
+    "label": "Oranienstraße 200, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.62696030915844,
+      45.66710927507943
+    ],
+    "label": "MARUB, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.163765492469498,
+      44.47395370462424
+    ],
+    "label": "Strada Lanternei 64, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.12780238562095,
+      44.41905737935649
+    ],
+    "label": "Bl. V13, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.253391379530132,
+      47.6699436101999
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.442402919032808,
+      52.5059911179501
+    ],
+    "label": "Lorettas Biergarten, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.654448582976165,
+      45.643300138112
+    ],
+    "label": "Drumul Cernatului 34, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.11844093141377,
+      44.33634175316702
+    ],
+    "label": "Romrecycling, Jilava, IF, Romania"
+  },
+  {
+    "point": [
+      26.079892435226927,
+      44.427265898985645
+    ],
+    "label": "Catedrala Mântuirii Neamului, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.268749139591204,
+      47.6692142520806
+    ],
+    "label": "Enigma, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.42220161312725,
+      52.503750019728265
+    ],
+    "label": "Adalbertstraße 23a, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.638121268219614,
+      45.65175953286931
+    ],
+    "label": "Poligrafie, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.134359480424433,
+      44.35072639543287
+    ],
+    "label": "Stadionul Frăția, BI, Romania"
+  },
+  {
+    "point": [
+      26.10751813173522,
+      44.42762752706441
+    ],
+    "label": "Intrarea Mămulari 5, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.260540686991956,
+      47.661918371364315
+    ],
+    "label": "Eurobeta Colors, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.406880565007606,
+      52.50002683599439
+    ],
+    "label": "Wassertorstraße 52, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.643010642281155,
+      45.66722994418755
+    ],
+    "label": "Papa Reale, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.019085746417925,
+      44.38921885663342
+    ],
+    "label": "Celofibrei, IF, Romania"
+  },
+  {
+    "point": [
+      26.069538202654414,
+      44.42666559709424
+    ],
+    "label": "Strada Doctor Constantin Severeanu 9, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.262185432205595,
+      47.668982838890926
+    ],
+    "label": "Suceava, Romania"
+  },
+  {
+    "point": [
+      13.40738459372529,
+      52.51983865978117
+    ],
+    "label": "Neptunbrunnen, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.560447432829566,
+      45.67639908504202
+    ],
+    "label": "Bartolomeu Nord, BV, Romania"
+  },
+  {
+    "point": [
+      25.97361745237343,
+      44.47811872473057
+    ],
+    "label": "Petrom, Chitila, IF, Romania"
+  },
+  {
+    "point": [
+      26.11411247112267,
+      44.41684292588517
+    ],
+    "label": "Japanos, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.231123438086694,
+      47.648517015825746
+    ],
+    "label": "Service Prompt, SV, Romania"
+  },
+  {
+    "point": [
+      13.396455926466464,
+      52.51319170603753
+    ],
+    "label": "Hausvogteiplatz 2, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.6128698002644,
+      45.68375569320924
+    ],
+    "label": "Strada Vasile Goldiș 17, BV, Romania"
+  },
+  {
+    "point": [
+      26.066678598135162,
+      44.40832650304779
+    ],
+    "label": "Calea Rahovei 348, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.068411295004385,
+      44.42961006258107
+    ],
+    "label": "Strada Doctor Dimitrie Drăghiescu 19, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.258906061346263,
+      47.6419457703456
+    ],
+    "label": "Parchetul de pe lângă Judecătoria Suceava, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.409616486977905,
+      52.514012682524324
+    ],
+    "label": "Hošek Contemporary, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.60555244944162,
+      45.681786783251866
+    ],
+    "label": "Strada Nicolae Labiș 52D, BV, Romania"
+  },
+  {
+    "point": [
+      26.06214539515888,
+      44.419021369536175
+    ],
+    "label": "Bl. V3, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.07705101582979,
+      44.43426397381005
+    ],
+    "label": "Strada Sfântul Elefterie 2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.219242040945563,
+      47.65291718777135
+    ],
+    "label": "Spălătorie auto NON Stop, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.43905035578915,
+      52.50351271208819
+    ],
+    "label": "Köpenicker Straße 9, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.628316179358304,
+      45.67768386468952
+    ],
+    "label": "Strada Safirului 7, BV, Romania"
+  },
+  {
+    "point": [
+      25.990788314201463,
+      44.46379493773077
+    ],
+    "label": "Dâmbovița, IF, Romania"
+  },
+  {
+    "point": [
+      26.133731594038007,
+      44.416504218583974
+    ],
+    "label": "Șoseaua Mihai Bravu 446, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23660411092967,
+      47.64702457512137
+    ],
+    "label": "bl. E-70, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.383093514291618,
+      52.50658621805242
+    ],
+    "label": "Niederkirchnerstraße 8, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.613819588397472,
+      45.674883196914976
+    ],
+    "label": "Strada 13 Decembrie 94, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.186152045981235,
+      44.426641468595676
+    ],
+    "label": "Nisal Com, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.11068077261372,
+      44.42995965690489
+    ],
+    "label": "Școala Lauder-Reut, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.238708314664706,
+      47.65433158096185
+    ],
+    "label": "Ansamblul Mănăstirii Armene „Zamca”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.426168548942186,
+      52.52855261893189
+    ],
+    "label": "Am Friedrichshain 32, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.602312652291612,
+      45.665444588008576
+    ],
+    "label": "Strada Forjei 5, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.106582720716176,
+      44.38031370000406
+    ],
+    "label": "Strada Cetatea Veche 10, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.082621507191035,
+      44.43415160196075
+    ],
+    "label": "Splaiul Independenței 86, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.26872407651126,
+      47.66592919117523
+    ],
+    "label": "Leroy Merlin, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.401049009480879,
+      52.49964255727528
+    ],
+    "label": "Alexandrinenstraße 5, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.617855167371754,
+      45.66561302722731
+    ],
+    "label": "Strada Turnului 5, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.204767170478735,
+      44.475195804977815
+    ],
+    "label": "Ferma animalelor, Pantelimon, IF, Romania"
+  },
+  {
+    "point": [
+      26.13517412967935,
+      44.42791427856485
+    ],
+    "label": "Strada Voroneț 11, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.21445773635106,
+      47.65226256576286
+    ],
+    "label": "Spălătorie auto NON Stop, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.417130997276129,
+      52.49976300270392
+    ],
+    "label": "Reichenberger Straße 176, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.57116785524349,
+      45.657836026665656
+    ],
+    "label": "Stadion Municipal Brașov, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.0353369384721,
+      44.37400475999418
+    ],
+    "label": "Cimitirul Măgurele 2, IF, Romania"
+  },
+  {
+    "point": [
+      26.103544003114084,
+      44.420587631761194
+    ],
+    "label": "Bulevardul Dimitrie Cantemir 10B, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.269642094233316,
+      47.67282331172782
+    ],
+    "label": "Hotel Orizont, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.429472321505651,
+      52.535329760317346
+    ],
+    "label": "Christburger Straße 28, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.658651928021552,
+      45.68270780750831
+    ],
+    "label": "ONEVES, BV, Romania"
+  },
+  {
+    "point": [
+      26.167190692336984,
+      44.422315157919286
+    ],
+    "label": "Bl. A13, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.126847466758004,
+      44.427857949209866
+    ],
+    "label": "Strada Popa Nan 167, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.277237122010337,
+      47.66892559498824
+    ],
+    "label": "ODN, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.400580296746943,
+      52.525232347818374
+    ],
+    "label": "FormOst, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.630599351894652,
+      45.684233993605496
+    ],
+    "label": "Strada Constantin Brâncoveanu 42, BV, Romania"
+  },
+  {
+    "point": [
+      26.068124953372774,
+      44.449901721212136
+    ],
+    "label": "Metrou Basarab (M4), Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.079892841651414,
+      44.440005341761086
+    ],
+    "label": "Bl. 23A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25459797686951,
+      47.642444740895286
+    ],
+    "label": "Apropo Cafe, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.4241601733561,
+      52.53546929034799
+    ],
+    "label": "Marienburger Straße 45, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.647772673528213,
+      45.64783715752419
+    ],
+    "label": "Drumul Cernatului 14, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.21014778445629,
+      44.456729423313845
+    ],
+    "label": "PENNY, Pantelimon, IF, Romania"
+  },
+  {
+    "point": [
+      26.08968724642104,
+      44.43015132074175
+    ],
+    "label": "Palatul Parlamentului, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.246884866898895,
+      47.65908197425907
+    ],
+    "label": "Strada Traian Vuia 2D, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.372751886660776,
+      52.521144443576276
+    ],
+    "label": "Bundestag, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.623195980234787,
+      45.64959568319058
+    ],
+    "label": "Strada Tomis 8, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.13634274117901,
+      44.51449008278517
+    ],
+    "label": "Strada Erou Iancu Nicolae 21, Voluntari, IF, Romania"
+  },
+  {
+    "point": [
+      26.10197702488743,
+      44.41304103361129
+    ],
+    "label": "Calea Șerban Vodă 210-218, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.255089629682843,
+      47.67038035506025
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.44165905927764,
+      52.524112540745485
+    ],
+    "label": "Landsberger Allee 48, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.61347057808029,
+      45.66036580437836
+    ],
+    "label": "Gara Brașov, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.125378594149883,
+      44.37730967214823
+    ],
+    "label": "Drumul Gilăului 2K, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.10400800950743,
+      44.45203032405359
+    ],
+    "label": "Strada Aurel Vlaicu 152, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.245123600030954,
+      47.67301647353466
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.400491388800198,
+      52.50662283904611
+    ],
+    "label": "Oranienstraße 106, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.62743411185643,
+      45.64325131540589
+    ],
+    "label": "Strada Hermann Oberth 11, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.096609171729767,
+      44.4072087895248
+    ],
+    "label": "Fig. 124, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.096868972826076,
+      44.44564631500348
+    ],
+    "label": "Bl. A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.265582970550874,
+      47.66640121539773
+    ],
+    "label": "Rompetrol, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.406382266772518,
+      52.51005860227317
+    ],
+    "label": "Neue Grünstraße 17, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.622202451130477,
+      45.650750518574775
+    ],
+    "label": "Strada Zizinului 41, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.184231688921447,
+      44.36079894475046
+    ],
+    "label": "Duke Logistics, Popești-Leordeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.08662298286062,
+      44.43165580934016
+    ],
+    "label": "Parcul Izvor, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.253277710992457,
+      47.66396133512325
+    ],
+    "label": "Mopan, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.399750048224751,
+      52.529343857061185
+    ],
+    "label": "Dudu, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.617417595473807,
+      45.66547197644819
+    ],
+    "label": "Strada Turnului 5, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.15743407554085,
+      44.45432663320912
+    ],
+    "label": "Strada Știucii 72, IF, Romania"
+  },
+  {
+    "point": [
+      26.131982023378658,
+      44.43504100084252
+    ],
+    "label": "Strada Frunzei 15, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.2352444145491,
+      47.6539090904998
+    ],
+    "label": "Cimitir, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.426084147522273,
+      52.521170893148565
+    ],
+    "label": "Weydemeyerstraße 10, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.654906883570465,
+      45.61912700466048
+    ],
+    "label": "Dârste, BV, Romania"
+  },
+  {
+    "point": [
+      26.053303884439064,
+      44.35677281676833
+    ],
+    "label": "Extreme Light Infrastructure - Nuclear Physics (ELI-NP), IF, Romania"
+  },
+  {
+    "point": [
+      26.06940959635033,
+      44.44755500463293
+    ],
+    "label": "Strada Elizeu 33, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.229304108981122,
+      47.652966497786885
+    ],
+    "label": "Cimitir, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.419163294566486,
+      52.528353278931256
+    ],
+    "label": "Prenzlauer Berg 8, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.618600369236002,
+      45.68481803258668
+    ],
+    "label": "Depou RAT Brașov, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.104219463153857,
+      44.377782191770386
+    ],
+    "label": "Bl. 59, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.094959537767778,
+      44.42481655584678
+    ],
+    "label": "Strada 11 Iunie 2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.238141922495185,
+      47.6527117744262
+    ],
+    "label": "Biserica „Sf. Constantin și Elena”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.42849850881157,
+      52.502551000425015
+    ],
+    "label": "Muskauer Straße 18, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.651028481964897,
+      45.62977378329981
+    ],
+    "label": "Geotest Laborator Constrcucții Grad I, BV, Romania"
+  },
+  {
+    "point": [
+      26.168607758696666,
+      44.456034004586044
+    ],
+    "label": "Strada Zorilor 2, Fundeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.07722119392805,
+      44.4342369257282
+    ],
+    "label": "Strada Sfântul Elefterie 2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.258330298784166,
+      47.664044640872554
+    ],
+    "label": "MOLDO MEX, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.405700107940103,
+      52.52171757656062
+    ],
+    "label": "Rochstraße 11, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.64956486004154,
+      45.63536563667374
+    ],
+    "label": "Aleea Minerva 8, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.219542296943256,
+      44.446095975929296
+    ],
+    "label": "La Doi Pași, Pantelimon, IF, Romania"
+  },
+  {
+    "point": [
+      26.090573370789294,
+      44.42020632397918
+    ],
+    "label": "Strada Liveni 15, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.28173460936886,
+      47.67084353493308
+    ],
+    "label": "Profi, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.39252683442841,
+      52.525249841000374
+    ],
+    "label": "Oranienburger Straße 35, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.579242986366754,
+      45.66144905294159
+    ],
+    "label": "Biserica Bartolomeu, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.168128441355417,
+      44.38734382883452
+    ],
+    "label": "Biserica Ortodoxă Popești-Leordeni, Popești-Leordeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.101761432690488,
+      44.42924772786689
+    ],
+    "label": "Starbucks, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.258329345159353,
+      47.664951130541404
+    ],
+    "label": "MOLDO MEX, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.404795127370809,
+      52.521355414866335
+    ],
+    "label": "Rosenstraße 2, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.67169269681618,
+      45.672301119696264
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      26.035439751777563,
+      44.455336727011606
+    ],
+    "label": "Strada Mehadia 43, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.073246331177337,
+      44.43464148981534
+    ],
+    "label": "Eroilor, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.241616488735875,
+      47.65384177876891
+    ],
+    "label": "Ansamblul Mănăstirii Armene „Zamca”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.403505353470248,
+      52.53285317699955
+    ],
+    "label": "Blauer Spielplatz, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.59243180528447,
+      45.64926033930184
+    ],
+    "label": "Cetățuia Brașovului, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.211938605091316,
+      44.40927730892988
+    ],
+    "label": "SIN S.A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.087481201493006,
+      44.41681378200934
+    ],
+    "label": "Strada Silexului 1, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.247360621593707,
+      47.67443471478848
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.406418855192166,
+      52.513185842608095
+    ],
+    "label": "Fischerinsel 14, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.668432785354963,
+      45.677961887422164
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      26.134047213138757,
+      44.408344641033736
+    ],
+    "label": "Strada Voineasa 63, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.078892934542054,
+      44.44763050701133
+    ],
+    "label": "Facultatea de Inginerie Aerospațială, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.28266691890007,
+      47.67057271170031
+    ],
+    "label": "Profi, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.399418501171779,
+      52.502690427674715
+    ],
+    "label": "Haus 1, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.647390526026868,
+      45.65764574397263
+    ],
+    "label": "Silnef, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.04772628728174,
+      44.37148268421364
+    ],
+    "label": "Kraft Paints, IF, Romania"
+  },
+  {
+    "point": [
+      26.105478095675263,
+      44.437130352843475
+    ],
+    "label": "Strada Jean Louis Calderon 12, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.244364635534833,
+      47.65036736287905
+    ],
+    "label": "Hotel Zamca, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.414387264749022,
+      52.523437611689474
+    ],
+    "label": "Alexanderstraße 3, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.63499891095901,
+      45.656023902938195
+    ],
+    "label": "Strada Dacia 96C, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.12783251765454,
+      44.473616142653306
+    ],
+    "label": "Strada Măgura Văii 35, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.105231702125362,
+      44.446532102688984
+    ],
+    "label": "Bulevardul Dacia 79, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.263775512225987,
+      47.67564196747001
+    ],
+    "label": "Hotel Orizont, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.427582523491145,
+      52.53302471792945
+    ],
+    "label": "Marienburger Straße 16A, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.5387928949469,
+      45.66222920044188
+    ],
+    "label": "Strada Ioan Clopoțel 4, BV, Romania"
+  },
+  {
+    "point": [
+      25.998591557479262,
+      44.38825690259881
+    ],
+    "label": "Cimitir, IF, Romania"
+  },
+  {
+    "point": [
+      26.114465422787536,
+      44.437042268116834
+    ],
+    "label": "Strada Dimitrie Racoviță 3, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23456655769354,
+      47.650549984358086
+    ],
+    "label": "Cimitir, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.391326215571652,
+      52.500768005793915
+    ],
+    "label": "Friedrichstraße 245, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.59618179884045,
+      45.64592572190766
+    ],
+    "label": "Cișmea, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.048466142929,
+      44.526768609957145
+    ],
+    "label": "Extruplast, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.113299225990584,
+      44.42689999172796
+    ],
+    "label": "Bl. E3, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.285485828003527,
+      47.67369885392026
+    ],
+    "label": "Magazin Alimentar, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.441692942441449,
+      52.51544644275767
+    ],
+    "label": "Hildegard-Jadamowitz-Straße 1, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.576056850049273,
+      45.686124197419225
+    ],
+    "label": "Florexpres, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.13981175332817,
+      44.46497953994185
+    ],
+    "label": "Bl. 1, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.110679761530502,
+      44.42480364180159
+    ],
+    "label": "Ministerul Culturii, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.237370254906907,
+      47.65736374125176
+    ],
+    "label": "Complex Turistic Conacul Domnesc, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.415732130811518,
+      52.53284247166746
+    ],
+    "label": "Kollwitzstraße 32, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.630550634765342,
+      45.650962364457044
+    ],
+    "label": "Aleea Violetelor 8, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.23304859640053,
+      44.42763189667932
+    ],
+    "label": "Lacul Pantelimon, IF, Romania"
+  },
+  {
+    "point": [
+      26.121125006587356,
+      44.427793427758765
+    ],
+    "label": "Strada Avram Zenovie 13, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.28066180291806,
+      47.66764801922003
+    ],
+    "label": "Profi, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.387516746887187,
+      52.52350356047829
+    ],
+    "label": "Brillen in Mitte, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.6445504931143,
+      45.655488116406424
+    ],
+    "label": "Silnef, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.14823352171659,
+      44.483273482264046
+    ],
+    "label": "Strada Călmățui 43, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.08132301634578,
+      44.433826801261624
+    ],
+    "label": "Splaiul Independenței 94, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.255785270103573,
+      47.67102595825448
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.375263213028894,
+      52.51100724828439
+    ],
+    "label": "Berliner Freiheit 2, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.623436955187525,
+      45.68789271783537
+    ],
+    "label": "Hotel Stop, Perersberg, BV, Romania"
+  },
+  {
+    "point": [
+      26.085807215236954,
+      44.40462491747977
+    ],
+    "label": "Strada Sadului 35, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.10217673965292,
+      44.436110369270104
+    ],
+    "label": "Kilometrul 0 al Democrației, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.267085038245263,
+      47.66892303009773
+    ],
+    "label": "Enigma, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.421780205732304,
+      52.538642888343105
+    ],
+    "label": "Rykestraße 35, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.59876044920374,
+      45.66475416207091
+    ],
+    "label": "Strada 1 Decembrie 1918 6, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.156179496512976,
+      44.38932662335352
+    ],
+    "label": "Bl. 1, Popești-Leordeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.09132978983243,
+      44.42439671093315
+    ],
+    "label": "Bulevardul Libertății 12, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.235416857773156,
+      47.64278220785399
+    ],
+    "label": "Aleea Lalelelor 20, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.409070076166493,
+      52.53800389404166
+    ],
+    "label": "Kastanienallee 21, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.637102146470347,
+      45.65615149564638
+    ],
+    "label": "Strada Dacia 96C, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.162636849717856,
+      44.42699077113968
+    ],
+    "label": "Titan, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.077219247896466,
+      44.44802600901456
+    ],
+    "label": "Corp A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.256168820383746,
+      47.67084327666792
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.404478762501926,
+      52.526583685311685
+    ],
+    "label": "Gormannstraße 5, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.586054258044555,
+      45.6736921836724
+    ],
+    "label": "Paradisul Acvatic, BV, Romania"
+  },
+  {
+    "point": [
+      25.974450137426242,
+      44.47623959910022
+    ],
+    "label": "Stație sortare deșeuri Chiajna, IF, Romania"
+  },
+  {
+    "point": [
+      26.116850263438835,
+      44.43247775356531
+    ],
+    "label": "Strada Profesor Valaori Iuliu 24, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.22969784632505,
+      47.64696989302012
+    ],
+    "label": "Service Prompt, SV, Romania"
+  },
+  {
+    "point": [
+      13.40525745148442,
+      52.51566741220433
+    ],
+    "label": "Breite Straße 30-31, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.60967322941085,
+      45.68406462906598
+    ],
+    "label": "Strada George Bacovia 23, BV, Romania"
+  },
+  {
+    "point": [
+      26.154634417404523,
+      44.45694468012994
+    ],
+    "label": "Aleea Argedava 72, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.1303100886936,
+      44.440459649949425
+    ],
+    "label": "Bulevardul Pache Protopopescu 104, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24857010400914,
+      47.651012308823084
+    ],
+    "label": "Clinica Sigmed, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.381654676885574,
+      52.49896699336809
+    ],
+    "label": "U Möckernbrücke, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.58677003742453,
+      45.67590868398829
+    ],
+    "label": "Metabras, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.110445649827685,
+      44.500555505064845
+    ],
+    "label": "Henri Coandă, IF, Romania"
+  },
+  {
+    "point": [
+      26.130518107641272,
+      44.42566313442477
+    ],
+    "label": "Bl. i 3, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.240125027096376,
+      47.64763650339194
+    ],
+    "label": "bl. E-70, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.417266559641831,
+      52.529548868909544
+    ],
+    "label": "Prenzlauer Allee 247, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.540208247432062,
+      45.6579659840525
+    ],
+    "label": "Autoliv, BV, Romania"
+  },
+  {
+    "point": [
+      26.029079684821827,
+      44.517877732005545
+    ],
+    "label": "Strada Nadeș 27C, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.069742432378103,
+      44.42992290038851
+    ],
+    "label": "Strada Doctor Nicolae Manolescu 14, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25271811058657,
+      47.65375832455879
+    ],
+    "label": "Strada Mircea Șeptilici 2b, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.384281342899122,
+      52.5306701634171
+    ],
+    "label": "Invalidenstraße 114, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.539945499568372,
+      45.656429195907926
+    ],
+    "label": "Autoliv, BV, Romania"
+  },
+  {
+    "point": [
+      26.083925859462198,
+      44.34900618741302
+    ],
+    "label": "Cartier Arteca, Jilava, IF, Romania"
+  },
+  {
+    "point": [
+      26.099493494471922,
+      44.43960386774074
+    ],
+    "label": "Xerox, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.243265456632457,
+      47.64126344816343
+    ],
+    "label": "Universitatea Ștefan cel Mare, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.431488229717528,
+      52.50204900114939
+    ],
+    "label": "Kantine Neun, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.639870715899516,
+      45.63568366992135
+    ],
+    "label": "Strada Ionescu Crum 1, BV, Romania"
+  },
+  {
+    "point": [
+      26.197451410430265,
+      44.47837070845081
+    ],
+    "label": "Pantelimon, IF, Romania"
+  },
+  {
+    "point": [
+      26.095321755946955,
+      44.430669579119964
+    ],
+    "label": "BRD Splai, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.241630806152006,
+      47.65335803115395
+    ],
+    "label": "Ansamblul Mănăstirii Armene „Zamca”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.404405743903354,
+      52.53560569551628
+    ],
+    "label": "Griebenowstraße 10/11, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.5590899177208,
+      45.658423630653296
+    ],
+    "label": "Depou RATBv, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.01134423913698,
+      44.384254179305046
+    ],
+    "label": "Strada Oituz 20, IF, Romania"
+  },
+  {
+    "point": [
+      26.089801933711602,
+      44.44271090928798
+    ],
+    "label": "Strada Pictor Theodor Aman 8, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.2525528371343,
+      47.655378559002
+    ],
+    "label": "Strada Mircea Șeptilici 2b, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.415871074363416,
+      52.51654112209035
+    ],
+    "label": "Schicklerhaus, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.6467417597938,
+      45.63731115627331
+    ],
+    "label": "Aleea Minerva 8, Braşov, Romania"
+  },
+  {
+    "point": [
+      25.97390890508305,
+      44.41176285906206
+    ],
+    "label": "Lukoil, Domnești, IF, Romania"
+  },
+  {
+    "point": [
+      26.077864347017794,
+      44.439917896056514
+    ],
+    "label": "Strada Virgiliu 36, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.250564630112166,
+      47.66888798986428
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.405580347392458,
+      52.51006890244398
+    ],
+    "label": "Best Western am Spittelmarkt, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.66316298920124,
+      45.677694658436295
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      26.089286101560877,
+      44.48518974184421
+    ],
+    "label": "Strada Aron Cotruș 55A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.122210666690215,
+      44.41268299448524
+    ],
+    "label": "Strada Foișorului 139, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.246244686627016,
+      47.66350411454923
+    ],
+    "label": "Mopan, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.390474263315838,
+      52.522489214489276
+    ],
+    "label": "Spree, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.603737751981306,
+      45.677338120267855
+    ],
+    "label": "Strada Liviu Rebreanu 19, BV, Romania"
+  },
+  {
+    "point": [
+      26.104815443710333,
+      44.3534567167567
+    ],
+    "label": "Apărătorii Patriei, IF, Romania"
+  },
+  {
+    "point": [
+      26.114490551133194,
+      44.41293597594577
+    ],
+    "label": "Centrul medical Ortokinetic, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.2552055990283,
+      47.65163638687378
+    ],
+    "label": "Strada Sbiera I. G 51, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.394691958631308,
+      52.512422738725846
+    ],
+    "label": "Mohrenstraße 42, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.608295318750162,
+      45.654456166594784
+    ],
+    "label": "Strada Transilvaniei 8, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.10674842560227,
+      44.35869659788703
+    ],
+    "label": "Drumul Dealu Pădurii 94, IF, Romania"
+  },
+  {
+    "point": [
+      26.062131476305034,
+      44.43720162748487
+    ],
+    "label": "Șoseaua Grozăvești 84, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.275441431745207,
+      47.67284579216491
+    ],
+    "label": "Școala Gimnazială Nr. 10, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.417983225903539,
+      52.51920195940718
+    ],
+    "label": "Alexanderstraße 25, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.571248004166925,
+      45.65621982329131
+    ],
+    "label": "Strada Mică 23, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.029586871703888,
+      44.45880057300506
+    ],
+    "label": "Insula Lacul Morii, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.12350052013468,
+      44.43306561044077
+    ],
+    "label": "Intrarea Platon 1, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25316659855547,
+      47.64657847644819
+    ],
+    "label": "Optimedical, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.412126410535315,
+      52.502862786375424
+    ],
+    "label": "Prinzessinnenstraße 17, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.637248045008366,
+      45.66428295572699
+    ],
+    "label": "Romvest, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.180208122426432,
+      44.361893675595226
+    ],
+    "label": "Tuplex plastic, Popești-Leordeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.077912811657427,
+      44.44640567393401
+    ],
+    "label": "Ibis, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25707169557477,
+      47.67456412855121
+    ],
+    "label": "Vet Expert, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.369265084341206,
+      52.524523412377086
+    ],
+    "label": "Relay, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.591654677738994,
+      45.69244096780125
+    ],
+    "label": "OMV, BV, Romania"
+  },
+  {
+    "point": [
+      26.19676372630228,
+      44.36541368583378
+    ],
+    "label": "Şoseaua Olteniţei 181, Popești-Leordeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.085009063302692,
+      44.42125122919203
+    ],
+    "label": "Strada Sabinelor 1, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.245886172835977,
+      47.67232284799012
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.451016416248558,
+      52.516134021042
+    ],
+    "label": "Karl-Marx-Allee 132, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.562594904867716,
+      45.65395720996203
+    ],
+    "label": "Facultativă, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.031996411844734,
+      44.4629907369404
+    ],
+    "label": "Strada Valea Mare 2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.102914079030768,
+      44.420541117287854
+    ],
+    "label": "Bulevardul Mărășești 42, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.242676738029175,
+      47.655356306901936
+    ],
+    "label": "Ansamblul Mănăstirii Armene „Zamca”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.436048540766857,
+      52.5267452411199
+    ],
+    "label": "Werkhof Grünflächenamt, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.626963136913478,
+      45.66097969420681
+    ],
+    "label": "Ceferiștilor, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.051124470603813,
+      44.45447488834275
+    ],
+    "label": "Bl. 38A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.091717221499273,
+      44.448375973784195
+    ],
+    "label": "Strada Henri Coandă 21, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.245957803479957,
+      47.649219923801375
+    ],
+    "label": "Pensiunea Bicom, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.425599525008135,
+      52.52265229643559
+    ],
+    "label": "Platz der Vereinten Nationen 22, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.59987282447389,
+      45.68642646120428
+    ],
+    "label": "Strada Nicolae Labiș 52 Bl. 6, BV, Romania"
+  },
+  {
+    "point": [
+      26.151420277533497,
+      44.385567833466226
+    ],
+    "label": "D'Angelo Sport, Popești-Leordeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.096460936918866,
+      44.44448589260434
+    ],
+    "label": "Strada Dimitri Ivanovici Mendeleev 26, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.247025747444006,
+      47.67459028738145
+    ],
+    "label": "Cimitir, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.420989481635061,
+      52.50832670946194
+    ],
+    "label": "Michaelkirchstraße 2, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.623934733563274,
+      45.6648097986102
+    ],
+    "label": "MARUB, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.07692298687951,
+      44.51674606951834
+    ],
+    "label": "Strada Jandarmeriei 2i C1, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.095513530825357,
+      44.4508687587838
+    ],
+    "label": "Strada Căderea Bastiliei 47, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23969514596305,
+      47.638043325602915
+    ],
+    "label": "Biserica Sfânta Cruce, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.42140694415171,
+      52.51598115888536
+    ],
+    "label": "Ifflandstraße 5, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.560233415387913,
+      45.66830595343082
+    ],
+    "label": "Strada Lebedei 27, BV, Romania"
+  },
+  {
+    "point": [
+      26.008254126269062,
+      44.413027004477264
+    ],
+    "label": "Strada Valea Furcii 67, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.109919987001426,
+      44.42480355654649
+    ],
+    "label": "Splaiul Unirii 20, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.259474078822574,
+      47.663184675644096
+    ],
+    "label": "MOLDO MEX, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.396665583748362,
+      52.513440501157355
+    ],
+    "label": "Deutscher Städtetag, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.597375380261308,
+      45.68132363867232
+    ],
+    "label": "Strada Nicolae Labiș 62, BV, Romania"
+  },
+  {
+    "point": [
+      26.0123517460452,
+      44.48005571518503
+    ],
+    "label": "Intrarea Murfatlar 9, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.129619259420846,
+      44.440676327958805
+    ],
+    "label": "Bulevardul Pache Protopopescu 107, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.252568392817157,
+      47.64514383370927
+    ],
+    "label": "Oficiu Postal de Distribuire, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.388256894582673,
+      52.5034768186092
+    ],
+    "label": "Wilhelmstraße 21, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.540680335729622,
+      45.654635678096774
+    ],
+    "label": "Autoliv, BV, Romania"
+  },
+  {
+    "point": [
+      26.060935518514487,
+      44.5121340907269
+    ],
+    "label": "Poligonul de tragere Băneasa, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.08039528166321,
+      44.42069011824659
+    ],
+    "label": "Strada Gheorghieni 34, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24835760642879,
+      47.66189640901945
+    ],
+    "label": "Strada Traian Vuia 2D, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.422124900318774,
+      52.50474060376451
+    ],
+    "label": "Sozialpädagogischer Dienst, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.63406890797156,
+      45.67112575380416
+    ],
+    "label": "Depoul RAT Brașov, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.2349878667086,
+      44.444793524138426
+    ],
+    "label": "Fabrica de morărit și panificație TITAN, IF, Romania"
+  },
+  {
+    "point": [
+      26.134461825822584,
+      44.42105664633392
+    ],
+    "label": "Strada Baciu Județu 11, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.258153475918984,
+      47.6588523140386
+    ],
+    "label": "Strada Nicolae Labiș 21, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.378075471164557,
+      52.51725117046088
+    ],
+    "label": "Hopfingerbräu im Palais, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.60715406864762,
+      45.6783918650936
+    ],
+    "label": "Bella Vista Residence, BV, Romania"
+  },
+  {
+    "point": [
+      25.96980741203801,
+      44.42326557494093
+    ],
+    "label": "Cimitirul Preciziei, Domnești, IF, Romania"
+  },
+  {
+    "point": [
+      26.082536833918212,
+      44.44270800074346
+    ],
+    "label": "Strada Crișana 13, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.242859214910894,
+      47.64016895766672
+    ],
+    "label": "Strada Scurtă 2, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.443918981113507,
+      52.50591018838315
+    ],
+    "label": "Mercedes-Platz 1, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.54746202510245,
+      45.65393933025869
+    ],
+    "label": "Rompetrol, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.141146227264723,
+      44.43231025489041
+    ],
+    "label": "Bulevardul Basarabia 6, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.08642621356742,
+      44.44578931659582
+    ],
+    "label": "Corp C, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.266321735276303,
+      47.67510350131828
+    ],
+    "label": "Strada Bart Jean nr 140, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.40615711484696,
+      52.51336789686803
+    ],
+    "label": "Fischerinsel 14, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.662936999789256,
+      45.677391934473974
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      26.218029372848562,
+      44.40022533801441
+    ],
+    "label": "Școala gimnazială nr.2 - Cățelu, Cățelu, IF, Romania"
+  },
+  {
+    "point": [
+      26.108948207088712,
+      44.43815462891513
+    ],
+    "label": "Strada Italiană 11, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.28264425343732,
+      47.670409816341625
+    ],
+    "label": "Profi, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.424890134012395,
+      52.50969305447293
+    ],
+    "label": "Deutsches Architektur Zentrum, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.580903672708388,
+      45.67216860333896
+    ],
+    "label": "Calea Feldioarei 27, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.164758299402227,
+      44.51348136272992
+    ],
+    "label": "Strada Alunis 3, IF, Romania"
+  },
+  {
+    "point": [
+      26.09441176197374,
+      44.41122594859038
+    ],
+    "label": "Stația meteorologică Filaret, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.256718476206814,
+      47.658477817284826
+    ],
+    "label": "Rompetrol, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.428931974412166,
+      52.522224028045095
+    ],
+    "label": "Platz der Vereinten Nationen 15, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.595654684878216,
+      45.67648760268986
+    ],
+    "label": "Strada Iosif Șilimon 25, BV, Romania"
+  },
+  {
+    "point": [
+      26.108391303831276,
+      44.51527366019037
+    ],
+    "label": "Strada Erou Iancu Nicolae 133, Voluntari, IF, Romania"
+  },
+  {
+    "point": [
+      26.132709797764456,
+      44.43422247922388
+    ],
+    "label": "Strada Agricultori 95, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.261617418770545,
+      47.671618451473144
+    ],
+    "label": "Suceava, Romania"
+  },
+  {
+    "point": [
+      13.39914712254085,
+      52.53578558817145
+    ],
+    "label": "Casa Fantasia, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.561251049656285,
+      45.6611937178994
+    ],
+    "label": "Facultativa, BV, Romania"
+  },
+  {
+    "point": [
+      26.021401856715837,
+      44.4195351696565
+    ],
+    "label": "Aleea Topoloveni 2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.100780932878283,
+      44.415972239856245
+    ],
+    "label": "Calea Șerban Vodă 172, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.244138603218854,
+      47.639809131572775
+    ],
+    "label": "IPJ Suceava, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.435684533946844,
+      52.50411115931044
+    ],
+    "label": "Köpenicker Straße 175, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.565362146560396,
+      45.67154647455698
+    ],
+    "label": "Strada Lânii 48, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.037325793313602,
+      44.513847392222644
+    ],
+    "label": "Drumul Vârful Berivoiul Mare 99B, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.135002625736977,
+      44.43414760528995
+    ],
+    "label": "Strada Frunzei 49A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.246601925213433,
+      47.670998345058564
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.418290198034304,
+      52.508720460365005
+    ],
+    "label": "Schmidstraße 2d, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.661590437989847,
+      45.65728583917143
+    ],
+    "label": "Energo, BV, Romania"
+  },
+  {
+    "point": [
+      26.074435449120806,
+      44.534687718769185
+    ],
+    "label": "Aleea Teișani 63, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.077972105010563,
+      44.424062627854234
+    ],
+    "label": "Bl. 93, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.220328553783155,
+      47.65088049295217
+    ],
+    "label": "Pensiunea Confort, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.395162503797504,
+      52.512071314131575
+    ],
+    "label": "Mohrenstraße 37, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.649791698037312,
+      45.64059618232595
+    ],
+    "label": "Strada Marte 8, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.073673068254305,
+      44.41476480141015
+    ],
+    "label": "Strada Petrache Poenaru 22, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.100833434220466,
+      44.44188490041055
+    ],
+    "label": "Strada Pitar Moș 6, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.260176135376426,
+      47.65724056417012
+    ],
+    "label": "Stadionul Municipal, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.428156480263484,
+      52.52489353787914
+    ],
+    "label": "Höchste Straße 9, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.555104108924372,
+      45.66827329658324
+    ],
+    "label": "Strada Pelicanului 28, BV, Romania"
+  },
+  {
+    "point": [
+      26.090905792492702,
+      44.49432891590686
+    ],
+    "label": "Strada Biharia 42, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.078009007780892,
+      44.43505615524618
+    ],
+    "label": "Opera Națională, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.240257997707026,
+      47.662404387877714
+    ],
+    "label": "Cetatea Scheii, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.42768967156153,
+      52.52125187604035
+    ],
+    "label": "Planschbecken, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.618612568071665,
+      45.67433037506614
+    ],
+    "label": "Animax, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.13773861971239,
+      44.53519190154471
+    ],
+    "label": "Șoseaua de Centură 12, Tunari, IF, Romania"
+  },
+  {
+    "point": [
+      26.094573810428752,
+      44.423135935831084
+    ],
+    "label": "Strada Justiției 39, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23057677327605,
+      47.64758628428554
+    ],
+    "label": "Service Prompt, SV, Romania"
+  },
+  {
+    "point": [
+      13.430635340267342,
+      52.528229418096494
+    ],
+    "label": "SG am Hain, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.56949477262887,
+      45.65892432670067
+    ],
+    "label": "Serviciul Tamponări, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.122842320268404,
+      44.46444424242432
+    ],
+    "label": "izvor Parcul Tei, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.108039346662203,
+      44.44624001052489
+    ],
+    "label": "Bulevardul Dacia 99, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.250850857155307,
+      47.6577877684742
+    ],
+    "label": "Rompetrol, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.390412946853754,
+      52.49536331584043
+    ],
+    "label": "Adelbert von Chamisso, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.58765550084473,
+      45.661942379037185
+    ],
+    "label": "Strada Morii 69, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.080808773269617,
+      44.36540767849121
+    ],
+    "label": "Strada Căruței 44, IF, Romania"
+  },
+  {
+    "point": [
+      26.10369798866075,
+      44.43584285675843
+    ],
+    "label": "Teatrul Național, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.243945807569332,
+      47.65382687177647
+    ],
+    "label": "Ansamblul Mănăstirii Armene „Zamca”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.387860691024956,
+      52.51302589567277
+    ],
+    "label": "Taubenstraße 42, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.673122580944895,
+      45.66584164173491
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      25.97318425135356,
+      44.43323391192186
+    ],
+    "label": "Centrul de Studii Tehnice Rutiere și Informatică, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.1006121258265,
+      44.452003289797815
+    ],
+    "label": "Strada David Emmanuel 17, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.263476127826674,
+      47.675674229128525
+    ],
+    "label": "Hotel Orizont, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.42078960211962,
+      52.51702416988646
+    ],
+    "label": "Ifflandstraße 4, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.62405538220449,
+      45.65400902247532
+    ],
+    "label": "Pizza Nela Bruni, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.11853327592104,
+      44.52514817942687
+    ],
+    "label": "Poligonul Tunari, IF, Romania"
+  },
+  {
+    "point": [
+      26.120673148412745,
+      44.428517438225775
+    ],
+    "label": "Intrarea Licurici 1, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.244114806989085,
+      47.65825200275912
+    ],
+    "label": "Cetatea Scheia, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.423131101500736,
+      52.505208227714384
+    ],
+    "label": "Luisenstädtischer Kanal Waldpflanzengarten, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.565820213258892,
+      45.680925186480735
+    ],
+    "label": "Strada Nicolae Orghidan 2, BV, Romania"
+  },
+  {
+    "point": [
+      26.17422608846934,
+      44.51784485906049
+    ],
+    "label": "Șoseaua de Centură 8, Ștefăneștii de Jos, IF, Romania"
+  },
+  {
+    "point": [
+      26.11523523912272,
+      44.41500527261994
+    ],
+    "label": "Splaiul Unirii D1, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.228589415004482,
+      47.64648124257867
+    ],
+    "label": "Service Prompt, SV, Romania"
+  },
+  {
+    "point": [
+      13.388854866693489,
+      52.5073236152831
+    ],
+    "label": "Zimmerstraße 14-15, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.66611048610367,
+      45.6784551172428
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      26.17200519211202,
+      44.39442879265483
+    ],
+    "label": "Splaiul Unirii 779-783, BI, Romania"
+  },
+  {
+    "point": [
+      26.133412907461427,
+      44.43547859240987
+    ],
+    "label": "Strada Ciobănașului 8, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.254604446747,
+      47.64500450775313
+    ],
+    "label": "Villa Alicia, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.386113276433495,
+      52.51916269353508
+    ],
+    "label": "Neustädtische Kirchstraße 7A, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.62498792900561,
+      45.653743050332466
+    ],
+    "label": "Bulevardul Alexandru Vlahuță 10, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.160442480496815,
+      44.407160521189404
+    ],
+    "label": "Strada Ilioara 20F, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.086425476072925,
+      44.44904717551683
+    ],
+    "label": "Intrarea Frumoasă 4, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.2712266237655,
+      47.667860494774004
+    ],
+    "label": "ODN, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.383894035334738,
+      52.52665440427271
+    ],
+    "label": "Philippstraße 13, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.659143823618955,
+      45.6538435776699
+    ],
+    "label": "Strada Ecologiștilor 25, BV, Romania"
+  },
+  {
+    "point": [
+      26.157472227114898,
+      44.441706909935206
+    ],
+    "label": "Farmacia Amalia, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.110405936254093,
+      44.42752780042817
+    ],
+    "label": "Bulevardul Unirii 39B, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.265590005106265,
+      47.66820041195478
+    ],
+    "label": "Suceava, Romania"
+  },
+  {
+    "point": [
+      13.375191859621657,
+      52.52230464740391
+    ],
+    "label": "Reinhardtstraße 22, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.559441696674163,
+      45.66044601711165
+    ],
+    "label": "Facultativa, BV, Romania"
+  },
+  {
+    "point": [
+      26.15107221049564,
+      44.508459780516986
+    ],
+    "label": "Rezidența Madrid, IF, Romania"
+  },
+  {
+    "point": [
+      26.079318379101423,
+      44.43998487431359
+    ],
+    "label": "Strada Lipova 4, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.237219003671967,
+      47.65154380553602
+    ],
+    "label": "Biserica „Sf. Constantin și Elena”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.38766909226697,
+      52.5228422347917
+    ],
+    "label": "Friedrichstraße 136, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.642366460255158,
+      45.63975177813424
+    ],
+    "label": "Strada Marte 8, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.219879668518054,
+      44.380132951195236
+    ],
+    "label": "Leordeni, Glina, IF, Romania"
+  },
+  {
+    "point": [
+      26.12243587595024,
+      44.417906785463984
+    ],
+    "label": "Bl. F9C, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.259788047907307,
+      47.660537800260194
+    ],
+    "label": "Complex Comercial Bazar, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.402052573237633,
+      52.521601327411226
+    ],
+    "label": "HOSHI COUPE, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.619248655782517,
+      45.66723859511777
+    ],
+    "label": "Strada Tudor Arghezi 11, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.072229027007413,
+      44.51239687416852
+    ],
+    "label": "Strada Jandarmeriei 14A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.118345109410736,
+      44.43332444602177
+    ],
+    "label": "Calea Călărașilor 107, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.226008582036734,
+      47.65098758635687
+    ],
+    "label": "Pensiunea Confort, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.404116459287945,
+      52.52535707718448
+    ],
+    "label": "Weinmeisterstraße 2, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.623368288524322,
+      45.64880306894594
+    ],
+    "label": "Strada Traian 41, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.20049251509243,
+      44.44361204056458
+    ],
+    "label": "Bd. Biruinței, IF, Romania"
+  },
+  {
+    "point": [
+      26.118989840690098,
+      44.43578771906503
+    ],
+    "label": "Strada Mihăileanu Ștefan 32B, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.243166270744094,
+      47.650370888291974
+    ],
+    "label": "Biserica „Sf. Constantin și Elena”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.399510440059904,
+      52.528394968446825
+    ],
+    "label": "Linienstraße 196, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.668464043471147,
+      45.68186226635254
+    ],
+    "label": "Stabilus, BV, Romania"
+  },
+  {
+    "point": [
+      26.121822503384145,
+      44.34801232605079
+    ],
+    "label": "Ilfov, Romania"
+  },
+  {
+    "point": [
+      26.11582728508396,
+      44.4123570696287
+    ],
+    "label": "Bl. 89, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25292605424649,
+      47.646533280738986
+    ],
+    "label": "Optimedical, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.391108127303424,
+      52.535236331514774
+    ],
+    "label": "Ackerstraße 40, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.65380144559019,
+      45.624851901749864
+    ],
+    "label": "Artera Sud-Est, BV, Romania"
+  },
+  {
+    "point": [
+      26.136103240893608,
+      44.44380468293643
+    ],
+    "label": "Strada Elev Ștefan Ștefănescu 41, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.12183675505184,
+      44.42284625780711
+    ],
+    "label": "Strada Emil Gârleanu 5, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25096068055853,
+      47.67127822599874
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.442602345966195,
+      52.520407811960936
+    ],
+    "label": "Friedenstraße 81, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.586935902597116,
+      45.680672535348755
+    ],
+    "label": "FANbox, BV, Romania"
+  },
+  {
+    "point": [
+      26.094135586703665,
+      44.41392301452586
+    ],
+    "label": "Dines, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.064261270165737,
+      44.43419056915577
+    ],
+    "label": "Muzeul Național Cotroceni, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.2692151930927,
+      47.66533576278301
+    ],
+    "label": "Policlinic Bethesda, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.44329398591228,
+      52.50141890338306
+    ],
+    "label": "Oberbaumstraße 5, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.635819605790246,
+      45.637407495317525
+    ],
+    "label": "Bulevardul Saturn 42, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.199807054430924,
+      44.435236272760115
+    ],
+    "label": "Strada Darabani 29, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.08725680095117,
+      44.450691349056065
+    ],
+    "label": "Bl. D4, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.2528947984438,
+      47.650537417351266
+    ],
+    "label": "Strada Zamca 2, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.425293679847176,
+      52.505291430695884
+    ],
+    "label": "Wagenplatz Kreuzdorf, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.665245216292316,
+      45.65791539060528
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      26.066128432951256,
+      44.45749278760513
+    ],
+    "label": "Parcul Regina Maria, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.121909264787973,
+      44.41579898415765
+    ],
+    "label": "Strada Mugur Mugurel 10, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.251982666882316,
+      47.664699051189324
+    ],
+    "label": "Mopan, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.37172272251518,
+      52.523029244300865
+    ],
+    "label": "GPS-Referenzpunkt Berlin­Mitte, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.582218787042283,
+      45.6821858364524
+    ],
+    "label": "Oligopol, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.13461604997505,
+      44.40299150786529
+    ],
+    "label": "Specii de pasari frecvente pe aceste lacuri, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.13633545356734,
+      44.42686385279948
+    ],
+    "label": "Strada Cerceluș 61, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.273850982347405,
+      47.67387360593132
+    ],
+    "label": "Școala Gimnazială Nr. 10, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.427390291901265,
+      52.51676177430478
+    ],
+    "label": "Lichtenberger Straße 18, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.631209590501545,
+      45.68157867257132
+    ],
+    "label": "Strada Safirului 7, BV, Romania"
+  },
+  {
+    "point": [
+      26.14205435991244,
+      44.37909771283063
+    ],
+    "label": "Strada Meridianului 7, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.079714806957845,
+      44.448440711773046
+    ],
+    "label": "Corp R, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.255498549805086,
+      47.66639082147978
+    ],
+    "label": "Strada Cernăuți 112 B, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.419213977397378,
+      52.52206567702907
+    ],
+    "label": "die Hand, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.637924264280294,
+      45.67275349173325
+    ],
+    "label": "Biserica Mortuară, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.122621527704638,
+      44.485489013383855
+    ],
+    "label": "Bulevardul Dimitrie Pompeiu 8 Bloc BAC, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.111414867790753,
+      44.441790708110275
+    ],
+    "label": "Strada Maria Rosetti 36, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.242944931118274,
+      47.662263647933536
+    ],
+    "label": "Cetatea Scheia, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.439411808531005,
+      52.511127620351196
+    ],
+    "label": "Wriezener Karree 8, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.61520265229349,
+      45.663069167333695
+    ],
+    "label": "Patinoarul Olimpic, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.233213207026473,
+      44.423467063511
+    ],
+    "label": "Gama Electro Construcții, IF, Romania"
+  },
+  {
+    "point": [
+      26.072164366243122,
+      44.43835458262432
+    ],
+    "label": "Strada Constantin Noica 179, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.248329325271158,
+      47.64246744997376
+    ],
+    "label": "Bloc A2, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.411218445111695,
+      52.512661266934494
+    ],
+    "label": "Märkisches Museum, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.66727964192117,
+      45.652332517218355
+    ],
+    "label": "Rebels Grup, BV, Romania"
+  },
+  {
+    "point": [
+      26.063622740164387,
+      44.419513539125795
+    ],
+    "label": "Bl. V2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.074172575452348,
+      44.42928709704302
+    ],
+    "label": "Strada Doctor Joseph Lister 52, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25554158955008,
+      47.657502515066646
+    ],
+    "label": "Strada Nicolae Labiș 21, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.419537353458862,
+      52.527285703848825
+    ],
+    "label": "Helene-Haeusler-Schule, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.60583523208792,
+      45.65396436976766
+    ],
+    "label": "Strada 13 Decembrie 24, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.090061324077503,
+      44.43235183825122
+    ],
+    "label": "Izvor, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.100641015661115,
+      44.42733349436685
+    ],
+    "label": "Bl. 14, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.260513179957492,
+      47.66940640949078
+    ],
+    "label": "Suceava, Romania"
+  },
+  {
+    "point": [
+      13.420544022877136,
+      52.52710697406548
+    ],
+    "label": "Mendelssohnstraße 27, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.59854615634598,
+      45.684948632719475
+    ],
+    "label": "Strada Nicolae Labiș 52 Bl. 6, BV, Romania"
+  },
+  {
+    "point": [
+      26.170727759618796,
+      44.47782567619037
+    ],
+    "label": "Strada Moroeni 61, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.089361025284,
+      44.427413381725046
+    ],
+    "label": "Muzeul Costumelor Populare din Romania, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.251539820430967,
+      47.6716364162269
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.372823684852728,
+      52.518729380015664
+    ],
+    "label": "Platz der Republik, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.616652258423613,
+      45.680520917081935
+    ],
+    "label": "Grand Fitness, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.185574086498058,
+      44.47083703164715
+    ],
+    "label": "Dragonul Roșu 4, IF, Romania"
+  },
+  {
+    "point": [
+      26.108271826548503,
+      44.450303426168276
+    ],
+    "label": "Strada Răspântiilor 27A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.254971430147442,
+      47.67041731982837
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.375559991564,
+      52.521139172728674
+    ],
+    "label": "Otto-von-Bismarck-Allee 2, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.626220773214335,
+      45.68279254538251
+    ],
+    "label": "Strada Safirului 7, BV, Romania"
+  },
+  {
+    "point": [
+      26.023768656041664,
+      44.44714963024355
+    ],
+    "label": "Drumul Mânăstirea Văratec 24, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.12721333895651,
+      44.425629528904366
+    ],
+    "label": "Piața Alba Iulia, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.237050391127553,
+      47.638847006955004
+    ],
+    "label": "Biserica Sfânta Cruce, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.390135536709915,
+      52.519115622872405
+    ],
+    "label": "Innogy, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.556551470126234,
+      45.65662307251777
+    ],
+    "label": "Depozite ILF, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.20790831307842,
+      44.36907784575235
+    ],
+    "label": "Coral Impex SRL, Popești-Leordeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.105560761896786,
+      44.45004622636669
+    ],
+    "label": "Strada Fecioarei 18, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.27394111572864,
+      47.67287610442739
+    ],
+    "label": "Școala Gimnazială Nr. 10, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.40010670846515,
+      52.534701481222065
+    ],
+    "label": "Fehrbelliner Straße 46, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.58431012073886,
+      45.687665755511894
+    ],
+    "label": "Elmas, BV, Romania"
+  },
+  {
+    "point": [
+      26.150797363618064,
+      44.39843821021598
+    ],
+    "label": "Șoseaua Vitan-Bârzești 5-7, BI, Romania"
+  },
+  {
+    "point": [
+      26.107236432890836,
+      44.42560425809428
+    ],
+    "label": "Splaiul Unirii 8, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.262802213051607,
+      47.67219305747933
+    ],
+    "label": "Suceava Burdujeni, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.438874744733761,
+      52.515676145017196
+    ],
+    "label": "Ellen-Key-Oberschule, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.590946538461946,
+      45.67708049319439
+    ],
+    "label": "Parcare Dedeman, BV, Romania"
+  },
+  {
+    "point": [
+      26.05170684678526,
+      44.49234363857874
+    ],
+    "label": "Strada Robănești 5, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.093613067162092,
+      44.445376439146905
+    ],
+    "label": "Umbrella Hostel, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.27369635583448,
+      47.66731932510041
+    ],
+    "label": "Calea Unirii 30, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.439244300269879,
+      52.509899468061626
+    ],
+    "label": "Hellweg, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.607852646488567,
+      45.66808807809445
+    ],
+    "label": "Strada Metalurgiștilor 10, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.104731052387482,
+      44.50519706332147
+    ],
+    "label": "Stația de betoane Băneasa, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.121997469227175,
+      44.413862315470254
+    ],
+    "label": "Strada Foișorului 134, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.265150216950797,
+      47.664675027895875
+    ],
+    "label": "New Yorker, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.416494743501584,
+      52.53946580989749
+    ],
+    "label": "Hagenauer Straße 5, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.593510840855213,
+      45.68409451005003
+    ],
+    "label": "Tenis Arena, BV, Romania"
+  },
+  {
+    "point": [
+      26.069239155543237,
+      44.432416560033346
+    ],
+    "label": "Bulevardul Eroilor 26, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.105879467455384,
+      44.4176789570171
+    ],
+    "label": "Strada Rădulescu Drumea 42, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.249659133317238,
+      47.644249778946474
+    ],
+    "label": "LA FIERĂRIE, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.398118659243064,
+      52.52967585204667
+    ],
+    "label": "Torstraße 149, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.564447970948578,
+      45.664007607764646
+    ],
+    "label": "Herr Strudel, BV, Romania"
+  },
+  {
+    "point": [
+      26.169131419831885,
+      44.510409939168184
+    ],
+    "label": "Sheepfold, Voluntari, IF, Romania"
+  },
+  {
+    "point": [
+      26.104986672213983,
+      44.43022284820362
+    ],
+    "label": "Strada Bărăției 37, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.284712929576347,
+      47.67070005612364
+    ],
+    "label": "Pizza For You, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.431957268090155,
+      52.500360134072736
+    ],
+    "label": "Lausitzer Platz 10, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.61379727929406,
+      45.68879177245406
+    ],
+    "label": "Plametco, BV, Romania"
+  },
+  {
+    "point": [
+      26.146505024448977,
+      44.42718529208801
+    ],
+    "label": "Strada Fildeșului 13-15, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.064483630589464,
+      44.438773639960374
+    ],
+    "label": "Intrarea Portocalelor 4-6, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.255549254634623,
+      47.67451552043698
+    ],
+    "label": "Vet Expert, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.408076620556743,
+      52.49989088152433
+    ],
+    "label": "Prinzen-Eck, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.655119963820727,
+      45.63118640279722
+    ],
+    "label": "Artera Sud-Est, BV, Romania"
+  },
+  {
+    "point": [
+      26.0368536535864,
+      44.368034099282816
+    ],
+    "label": "Constructorilor, IF, Romania"
+  },
+  {
+    "point": [
+      26.099934666203215,
+      44.434543706377966
+    ],
+    "label": "Bulevardul Regina Elisabeta 9, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24927574705724,
+      47.67301721240917
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.41614317930648,
+      52.50727257664011
+    ],
+    "label": "Annenstraße 1, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.661992458136385,
+      45.6806388229003
+    ],
+    "label": "ONEVES, BV, Romania"
+  },
+  {
+    "point": [
+      26.13095955784693,
+      44.52741176189815
+    ],
+    "label": "Oxford Gardens, IF, Romania"
+  },
+  {
+    "point": [
+      26.081358845413096,
+      44.43554174154657
+    ],
+    "label": "Muzeul Universității București, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24692781789787,
+      47.64488592903723
+    ],
+    "label": "Liceul Dimitrie Cantemir, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.424144776765447,
+      52.53408265308501
+    ],
+    "label": "Prenzlauer Allee 36L, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.550786767929768,
+      45.66801612331281
+    ],
+    "label": "Campus Genius, BV, Romania"
+  },
+  {
+    "point": [
+      26.086850900029972,
+      44.3820695007561
+    ],
+    "label": "Cimitirul Israelit, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.076540300384163,
+      44.44184679036745
+    ],
+    "label": "Strada Mircea Vulcănescu 129, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.285957287647875,
+      47.67400063267456
+    ],
+    "label": "Magazin Alimentar, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.412944190196159,
+      52.50475864608118
+    ],
+    "label": "Heinrich-Heine-Straße 48, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.57749227997287,
+      45.67331904699566
+    ],
+    "label": "Strada Defileului 14, BV, Romania"
+  },
+  {
+    "point": [
+      25.969052234742136,
+      44.466600200253176
+    ],
+    "label": "Bateria Nr. 18 - 1, IF, Romania"
+  },
+  {
+    "point": [
+      26.082812814016044,
+      44.42590594876442
     ],
     "label": "Catedrala Mântuirii Neamului Românesc, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.44152534400989,
-      52.50381219435799
+      26.248920841267307,
+      47.67290063780812
     ],
-    "label": "Zola, Berlin, Germany"
+    "label": "Selgros, Suceava, Romania"
   },
   {
     "point": [
-      26.095314030339768,
-      44.42736971496529
+      13.402492059085533,
+      52.53896623659559
     ],
-    "label": "White Lady, Bucureşti, BI, Romania"
+    "label": "Wolliner Straße 18, Berlin, Germany"
   },
   {
     "point": [
-      13.382224099639343,
-      52.50488192599054
+      25.59982041935092,
+      45.65874512048725
     ],
-    "label": "Dokumentationszentrum Flucht, Vertreibung, Versöhnung, Berlin, Germany"
+    "label": "Strada Țebea 17, Braşov, Romania"
   },
   {
     "point": [
-      26.090453049652506,
-      44.44175757938072
+      26.147248096033984,
+      44.3848552327325
     ],
-    "label": "Strada General Henri Mathias Berthelot 21, Bucureşti, BI, Romania"
+    "label": "Șoseaua Olteniței 251A, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.412175480973259,
-      52.53417957984448
+      26.121419818413496,
+      44.409262842063924
     ],
-    "label": "Städtischer Kindergarten Tigerenten, Berlin, Germany"
+    "label": "Splaiul Unirii 152-164, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.080426461359796,
-      44.44248612351829
+      26.25826183755025,
+      47.6536866622124
     ],
-    "label": "Strada Berzei 79, Bucureşti, BI, Romania"
+    "label": "Fostă Stație Peco, Suceava, Romania"
   },
   {
     "point": [
-      13.421427164634093,
-      52.52141373250064
+      13.428138309046357,
+      52.52408849904435
     ],
-    "label": "Karl-Marx-Allee 23, Berlin, Germany"
+    "label": "Platz der Vereinten Nationen 23-32, Berlin, Germany"
   },
   {
     "point": [
-      26.115447668635156,
-      44.41472179921861
+      25.59239354344966,
+      45.69011053270727
     ],
-    "label": "Universitatea \"Dimitrie Cantemir, Bucureşti, BI, Romania"
+    "label": "OMV, BV, Romania"
   },
   {
     "point": [
-      13.442675570759702,
-      52.52271319154812
+      26.023690197175082,
+      44.412123465443656
     ],
-    "label": "Matthiasstraße 6e, Berlin, Germany"
+    "label": "Strada Abnegației 10, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.134790096508095,
-      44.421658512032835
+      26.107747473478348,
+      44.43341521083879
     ],
-    "label": "Strada Vulcan Județu 16B, Bucureşti, BI, Romania"
+    "label": "Calea Moșilor 90, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.398981283863394,
-      52.51148106480777
+      26.256688359213122,
+      47.672177177340096
     ],
-    "label": "Leipziger Straße 55, Berlin, Germany"
+    "label": "Selgros, Suceava, Romania"
   },
   {
     "point": [
-      26.11808195704046,
-      44.41846015957
+      13.43977006048495,
+      52.50206271893828
     ],
-    "label": "Strada Vlad Dracul 13, Bucureşti, BI, Romania"
+    "label": "908video GmbH, Berlin, Germany"
   },
   {
     "point": [
-      13.408675244955965,
-      52.52537029844562
+      25.65653726658257,
+      45.623872531986606
     ],
-    "label": "Max-Beer-Straße 12, Berlin, Germany"
+    "label": "Hanul Domnesc, Hetfalu, BV, Romania"
   },
   {
     "point": [
-      26.075024626593226,
-      44.4437556471142
+      26.111186854307157,
+      44.36922223682619
     ],
-    "label": "Minimarket, Bucureşti, BI, Romania"
+    "label": "Drumul Dealu Cucului 129, BI, Romania"
   },
   {
     "point": [
-      13.406055030964687,
-      52.519067869742386
+      26.12058266633476,
+      44.409751311303495
     ],
-    "label": "Spandauer Straße 7, Berlin, Germany"
+    "label": "Odeon, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.09743425923901,
-      44.42203448676465
+      26.255221665213753,
+      47.65824199709235
     ],
-    "label": "Strada Titus 33, Bucureşti, BI, Romania"
+    "label": "Rompetrol, Suceava, Romania"
   },
   {
     "point": [
-      13.411279094298642,
-      52.526488744106196
+      13.447562706117385,
+      52.517381379812036
     ],
-    "label": "Rosa-Luxemburg-Platz, Berlin, Germany"
+    "label": "Karl-Marx-Allee 121, Berlin, Germany"
   },
   {
     "point": [
-      26.07477762618452,
-      44.42425730272402
+      25.611929255879193,
+      45.67806126203082
     ],
-    "label": "Calea 13 Septembrie 110, Bucureşti, BI, Romania"
+    "label": "Strada Nicolae Labiș 1, BV, Romania"
   },
   {
     "point": [
-      13.415806162105431,
-      52.50917797435947
+      26.07749696265851,
+      44.3683269905214
     ],
-    "label": "Heinrich-Heine-Straße, Berlin, Germany"
+    "label": "Strada Căruței 54, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      26.083184647919122,
-      44.434108036312246
+      26.10298696214621,
+      44.42298187715605
     ],
-    "label": "Splaiul Independenței 84, Bucureşti, BI, Romania"
+    "label": "Calea Șerban Vodă 31A, Bucureşti, BI, Romania"
   },
   {
     "point": [
-      13.381701355049643,
-      52.5288307966184
+      26.241542296858857,
+      47.646306660174886
     ],
-    "label": "Zweigbibliothek Campus Nord, Berlin, Germany"
+    "label": "bl. E-70, Suceava, Romania"
   },
   {
     "point": [
-      26.079034105708686,
-      44.45066460871381
+      13.39385432643866,
+      52.51897110004719
     ],
-    "label": "Strada Veronica Micle 15, Bucureşti, BI, Romania"
+    "label": "Mahnmal für die Opfer des Hitlerfaschismus, Berlin, Germany"
   },
   {
     "point": [
-      13.394849652262355,
-      52.52629604720061
+      25.6115940369914,
+      45.65515114017588
     ],
-    "label": "Auguststraße 11 + 12 + 13, Berlin, Germany"
+    "label": "Bulevardul Victoriei 10, Braşov, Romania"
   },
   {
     "point": [
-      26.098387859369158,
-      44.44899566925095
+      25.979347960506043,
+      44.41520853492319
     ],
-    "label": "Sala de Sport, Bucureşti, BI, Romania"
+    "label": "Strada Valea Călmăţuiului 7-21, BI, Romania"
+  },
+  {
+    "point": [
+      26.12429246030397,
+      44.42230113192903
+    ],
+    "label": "Calea Vitan 23D, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.253005438728508,
+      47.668198289751246
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.424717070722687,
+      52.512160506433595
+    ],
+    "label": "Stadtbahnbogen 39, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.61862389878313,
+      45.66618328309747
+    ],
+    "label": "Bloc C35, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.022911377700183,
+      44.47160357375579
+    ],
+    "label": "Drumul Carierei 31A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.083431395183922,
+      44.4417343069487
+    ],
+    "label": "Strada Temișana 40, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.249566179753824,
+      47.64533780779696
+    ],
+    "label": "Școala Generală 3, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.389352960784025,
+      52.53369830765512
+    ],
+    "label": "Hinterlandmauer, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.56308994091939,
+      45.65886200497239
+    ],
+    "label": "Cărămidăriei, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.175351754040797,
+      44.38339849920175
+    ],
+    "label": "ATM UniCredit Bank, Popești-Leordeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.065370026640043,
+      44.44237436636555
+    ],
+    "label": "Bl. B5, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24998348376178,
+      47.66382527905441
+    ],
+    "label": "Mopan, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.38847672192897,
+      52.5166378349608
+    ],
+    "label": "Unter den Linden 37, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.592848650947918,
+      45.67679529388206
+    ],
+    "label": "Strada Alexandru Ciurcu 131B, BV, Romania"
+  },
+  {
+    "point": [
+      26.07839090678804,
+      44.37064353407272
+    ],
+    "label": "Strada Tiparniței 65B, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.122683193863857,
+      44.41376587456212
+    ],
+    "label": "Strada Foișorului 127, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24244122435757,
+      47.663601183412304
+    ],
+    "label": "Cetatea Scheia, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.407577351337927,
+      52.505422371734326
+    ],
+    "label": "Alexandrinenstraße 44, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.645519800153554,
+      45.64921079599815
+    ],
+    "label": "Strada Zizinului 124, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.15063350076865,
+      44.520226228711394
+    ],
+    "label": "Strada Mircea Eliade 27, IF, Romania"
+  },
+  {
+    "point": [
+      26.073902883247865,
+      44.42859507483349
+    ],
+    "label": "Strada Doctor Joseph Lister 61, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.248191443567187,
+      47.659325896783756
+    ],
+    "label": "Strada Traian Vuia 2D, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.394373317444657,
+      52.53183169230109
+    ],
+    "label": "Bergstraße 26, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.584471134137637,
+      45.65609572995949
+    ],
+    "label": "Casa Tanta, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.093048044217817,
+      44.42334493415461
+    ],
+    "label": "Strada Poiana Florilor 18, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.107567451570596,
+      44.42649722915824
+    ],
+    "label": "Naked, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.240740294045896,
+      47.64259673536989
+    ],
+    "label": "Strada Zorilor 5, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.431917678653026,
+      52.51698623745411
+    ],
+    "label": "immer grün, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.62885038961407,
+      45.64627597073025
+    ],
+    "label": "Energym Fitness Club, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.181959087171304,
+      44.42939736673112
+    ],
+    "label": "Faur Poarta 4, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.123067827849564,
+      44.428373570525615
+    ],
+    "label": "Intrarea Hulubilor 2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23765658976925,
+      47.64233356145768
+    ],
+    "label": "Aleea Lalelelor 20, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.428823569814837,
+      52.511408345367975
+    ],
+    "label": "Holzmarktstraße 38, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.58164411174912,
+      45.675009333931115
+    ],
+    "label": "Unitate Militară, BV, Romania"
+  },
+  {
+    "point": [
+      26.01458610748592,
+      44.4217648986227
+    ],
+    "label": "Strada Valea Ialomiței 8, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.130316079406636,
+      44.43099732760049
+    ],
+    "label": "BrandConnect, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24680157478895,
+      47.65814778553429
+    ],
+    "label": "Rompetrol, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.392103446451685,
+      52.50928396193004
+    ],
+    "label": "Charlottenstraße 75, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.637862318870827,
+      45.64344368139842
+    ],
+    "label": "Strada Neptun 23A, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.06515017432122,
+      44.45642601153765
+    ],
+    "label": "Bl. 24, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.11991535456722,
+      44.43063744199082
+    ],
+    "label": "Strada Matei Basarab 71, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.255499203499937,
+      47.65259617940475
+    ],
+    "label": "Fostă Stație Peco, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.376139635602097,
+      52.515108488190066
+    ],
+    "label": "Löwengruppe, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.6499786328328,
+      45.64784646220522
+    ],
+    "label": "Drumul Cernatului 22, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.01546169728103,
+      44.497811395984805
+    ],
+    "label": "Carrefour, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.118165482927928,
+      44.41494256201859
+    ],
+    "label": "Strada Doamna Chiajna 17, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.26178433793265,
+      47.64762508790749
+    ],
+    "label": "Piața centrala, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.424410193584405,
+      52.527877417865334
+    ],
+    "label": "Friedenstraße 1, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.584270197199203,
+      45.65074897110575
+    ],
+    "label": "Strada Făgetului 71, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.18788809273731,
+      44.46709397391982
+    ],
+    "label": "Strada Nucului 36, Dobroești, IF, Romania"
+  },
+  {
+    "point": [
+      26.083798144605538,
+      44.42535639934128
+    ],
+    "label": "Palatul Parlamentului, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23725789007099,
+      47.64073390726428
+    ],
+    "label": "Strada Zorilor 17, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.397736368514462,
+      52.50764908208738
+    ],
+    "label": "Axel-Springer Haus, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.61949445888911,
+      45.689189631177335
+    ],
+    "label": "Strada 13 Decembrie 112, Perersberg, BV, Romania"
+  },
+  {
+    "point": [
+      26.196750061140623,
+      44.4305073735974
+    ],
+    "label": "Strada Grindeiului 5A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.06987797153635,
+      44.44550239941481
+    ],
+    "label": "Strada Inginer Pisoni 24, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.246259304979873,
+      47.67253619001041
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.409950305028046,
+      52.5046136690334
+    ],
+    "label": "Stallschreiberstraße 55, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.583416503533577,
+      45.65324178792932
+    ],
+    "label": "Strada Memorandului 18, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.178871461176005,
+      44.38339134117139
+    ],
+    "label": "Balta Floarea Popeștiului, IF, Romania"
+  },
+  {
+    "point": [
+      26.07574805107083,
+      44.42795779080761
+    ],
+    "label": "Arenele BNR - Parcul cu Platani, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24879293749848,
+      47.67524288942014
+    ],
+    "label": "Cimitir, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.417894566569629,
+      52.504998390691554
+    ],
+    "label": "Rosengarten, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.634550775068792,
+      45.662137365265274
+    ],
+    "label": "Post trafo, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.199671923257448,
+      44.45728648859091
+    ],
+    "label": "Strada Narciselor 3, Pantelimon, IF, Romania"
+  },
+  {
+    "point": [
+      26.10536735430134,
+      44.428049352082866
+    ],
+    "label": "Parcare Unirea, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.233177033866994,
+      47.64670524237105
+    ],
+    "label": "Service Prompt, SV, Romania"
+  },
+  {
+    "point": [
+      13.379233045966304,
+      52.52333241364993
+    ],
+    "label": "Thai Tasty, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.597078326272,
+      45.67768604985649
+    ],
+    "label": "Strada Iosif Șilimon 25, BV, Romania"
+  },
+  {
+    "point": [
+      26.01306518586475,
+      44.40882612772679
+    ],
+    "label": "Prelungirea Ghencea 95N, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.11333327329689,
+      44.43955523080825
+    ],
+    "label": "Strada Spătarului 23, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.258996531668558,
+      47.67476851701
+    ],
+    "label": "Hotel Orizont, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.4240467979849,
+      52.50847127488325
+    ],
+    "label": "Adalbertstraße 49, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.645986111038894,
+      45.641748077507266
+    ],
+    "label": "Bloc 11, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.102735652809496,
+      44.346291370630745
+    ],
+    "label": "Complex rezidential Gloria, IF, Romania"
+  },
+  {
+    "point": [
+      26.07460044159583,
+      44.446840289153386
+    ],
+    "label": "Springtime, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24609788983249,
+      47.65976931754851
+    ],
+    "label": "Cetatea Scheia, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.39231623988673,
+      52.53591054939203
+    ],
+    "label": "Niemandsland Gemeinschaftsgarten, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.546360535481593,
+      45.653891351890834
+    ],
+    "label": "Rompetrol, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.15958053382383,
+      44.50200748682056
+    ],
+    "label": "AMATA Romania, Voluntari, IF, Romania"
+  },
+  {
+    "point": [
+      26.1147034364056,
+      44.41730827715936
+    ],
+    "label": "Bolt, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.229019828737254,
+      47.64695156610287
+    ],
+    "label": "Service Prompt, SV, Romania"
+  },
+  {
+    "point": [
+      13.395801360361995,
+      52.51752077354005
+    ],
+    "label": "Neue Wache, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.632510638354585,
+      45.64976214027344
+    ],
+    "label": "Strada Lămâiței 131, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.13817100582744,
+      44.50115016539026
+    ],
+    "label": "Strada Ioan Caragiani 12, Voluntari, IF, Romania"
+  },
+  {
+    "point": [
+      26.07946327864051,
+      44.42693809092197
+    ],
+    "label": "Catedrala Mântuirii Neamului, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23707761742729,
+      47.657899929761676
+    ],
+    "label": "Complex Turistic Conacul Domnesc, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.398219938942763,
+      52.532548349616086
+    ],
+    "label": "Invalidenstraße 1A, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.588354716948515,
+      45.69076133456152
+    ],
+    "label": "Piața Agroalimentară Stupini, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.20244839358701,
+      44.44358723504312
+    ],
+    "label": "Bd. Biruinței, IF, Romania"
+  },
+  {
+    "point": [
+      26.07998833394308,
+      44.451090284350194
+    ],
+    "label": "Strada Veronica Micle 22, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.250689100683076,
+      47.671648753630464
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.385224871737567,
+      52.51663298567919
+    ],
+    "label": "Unter den Linden 53, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.573936971474026,
+      45.66495852676906
+    ],
+    "label": "Strada Cânepii 1, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.109201118716197,
+      44.50229015527108
+    ],
+    "label": "Bulevardul Iulian Mihu 136, BI, Romania"
+  },
+  {
+    "point": [
+      26.0646080076246,
+      44.446985193909676
+    ],
+    "label": "A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.267818220111543,
+      47.66465447012719
+    ],
+    "label": "Banca Transilvania, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.391821672993366,
+      52.5069179825617
+    ],
+    "label": "Rudi-Dutschke-Straße 24, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.666057268858445,
+      45.65846057516845
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      26.127315199776355,
+      44.45078450798094
+    ],
+    "label": "Șoseaua Colentina 2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.137875004819072,
+      44.43127262377637
+    ],
+    "label": "Bulevardul Decebal 28, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.26056313243566,
+      47.670793083831974
+    ],
+    "label": "Suceava, Romania"
+  },
+  {
+    "point": [
+      13.433671668611536,
+      52.52360268486004
+    ],
+    "label": "Tommy's Imbiss, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.625793670867232,
+      45.64413063553382
+    ],
+    "label": "Strada Săcelelor 1, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.10997619897751,
+      44.49241533667539
+    ],
+    "label": "Strada Câmpul Pipera 21, IF, Romania"
+  },
+  {
+    "point": [
+      26.13182208238963,
+      44.42096090109135
+    ],
+    "label": "Calea Dudești 184, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25561948800735,
+      47.65991566551173
+    ],
+    "label": "Rompetrol, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.38285779187322,
+      52.52796454182364
+    ],
+    "label": "Hannoversche Straße 6, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.65213317537673,
+      45.67051144449339
+    ],
+    "label": "Poarta DEPOUL C.F.R, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.204858097104776,
+      44.40241796313355
+    ],
+    "label": "Autobaza Titan, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.11881387286638,
+      44.423410621535524
+    ],
+    "label": "Bl. M65, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.281535487052363,
+      47.67382962541158
+    ],
+    "label": "Restaurant Brândușa, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.398916647126553,
+      52.51949276831518
+    ],
+    "label": "Altes Museum, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.596752570421156,
+      45.656317724679546
+    ],
+    "label": "Strada Mihai Viteazul 9, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.024051156941017,
+      44.469376163849525
+    ],
+    "label": "Calea Giulești 337B Bl 6, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.10736606232701,
+      44.42141615774583
+    ],
+    "label": "Piața Bucur 7, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.239814468858448,
+      47.65417904810703
+    ],
+    "label": "Ansamblul Mănăstirii Armene „Zamca”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.408414358288711,
+      52.53028157374569
+    ],
+    "label": "Lottumstraße 24, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.6333237522388,
+      45.682237979710585
+    ],
+    "label": "Strada Safirului 7, BV, Romania"
+  },
+  {
+    "point": [
+      26.1519544730269,
+      44.523292239552056
+    ],
+    "label": "Bulevardul Pipera 198/3, IF, Romania"
+  },
+  {
+    "point": [
+      26.11742992907493,
+      44.445384467881226
+    ],
+    "label": "Strada Mihai Eminescu 163B, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24377343768925,
+      47.67440954563444
+    ],
+    "label": "Biserica Catolică Ițcani, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.383923084010757,
+      52.51065381461374
+    ],
+    "label": "Wilhelmstraße 43, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.649742932715863,
+      45.64381823965252
+    ],
+    "label": "Drumul Cernatului 20A, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.045296454777407,
+      44.43459549150458
+    ],
+    "label": "Centrul CAMPUS, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.110918506661136,
+      44.43793875685444
+    ],
+    "label": "Strada Arcului 8, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.249528926058318,
+      47.64660291741536
+    ],
+    "label": "Profi, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.379119511028629,
+      52.50584442773409
+    ],
+    "label": "Dessauer Straße 37, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.611828640881225,
+      45.67419716732913
+    ],
+    "label": "Strada Ioan Popasu 1, BV, Romania"
+  },
+  {
+    "point": [
+      26.178098868026378,
+      44.412549156507964
+    ],
+    "label": "Bl. PC4, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.10373985332125,
+      44.43055640271622
+    ],
+    "label": "Bulevardul Ion Constantin Brătianu 29-33, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25613044508989,
+      47.66337648877546
+    ],
+    "label": "Rompetrol, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.432396020750863,
+      52.503972234838706
+    ],
+    "label": "Pücklerstraße 42, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.575013750470916,
+      45.665251743590616
+    ],
+    "label": "Strada Cânepii 6, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.10097389541426,
+      44.39416497174108
+    ],
+    "label": "Intrarea Ispravei 1, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.10706272753201,
+      44.435195611860216
+    ],
+    "label": "Strada Radu Cristian 1, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24376642409134,
+      47.65412515214298
+    ],
+    "label": "Ansamblul Mănăstirii Armene „Zamca”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.38534230924398,
+      52.53104449564788
+    ],
+    "label": "Invalidenstraße 117, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.549114585965032,
+      45.67272400335036
+    ],
+    "label": "Institutul de Cercetare Dezvoltare Inovare Produse High tech pentru Dezvoltare Durabilă, BV, Romania"
+  },
+  {
+    "point": [
+      26.00565953789573,
+      44.41216505165145
+    ],
+    "label": "Bl. C, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.118646441839182,
+      44.42115508171129
+    ],
+    "label": "Strada Vlad Dracul 2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.231221919167982,
+      47.64898169906968
+    ],
+    "label": "Service Prompt, SV, Romania"
+  },
+  {
+    "point": [
+      13.43777476630069,
+      52.51383156589196
+    ],
+    "label": "Franz-Mehring-Platz 4, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.564679872937035,
+      45.66989388049346
+    ],
+    "label": "Strada Lânii 37, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.11761345496974,
+      44.50973113777335
+    ],
+    "label": "Strada Erou Iancu Nicolae 89/12, IF, Romania"
+  },
+  {
+    "point": [
+      26.082921906448977,
+      44.43337993774577
+    ],
+    "label": "Bustul prof. dr. Victor Babeș, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.2500938291566,
+      47.64215694309582
+    ],
+    "label": "Garaj, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.421482091085299,
+      52.507013771247735
+    ],
+    "label": "Melchiorstraße 28, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.571456962519168,
+      45.658562503190616
+    ],
+    "label": "Stadion Municipal Brașov, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.117675956810764,
+      44.365671166930014
+    ],
+    "label": "Bl. 1, BI, Romania"
+  },
+  {
+    "point": [
+      26.099300702388273,
+      44.445964947778755
+    ],
+    "label": "Benihana, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.271766451171164,
+      47.667980257798575
+    ],
+    "label": "ODN, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.40726283376382,
+      52.534841727699686
+    ],
+    "label": "Schwedter Straße 23, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.620136326402495,
+      45.65827489919092
+    ],
+    "label": "Loc de Joacă, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.146566840956144,
+      44.509288384354335
+    ],
+    "label": "Intrarea Pipera-Tunari 9, Voluntari, IF, Romania"
+  },
+  {
+    "point": [
+      26.12236799960713,
+      44.41033251177222
+    ],
+    "label": "Intrarea Tarcău 4C, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.2656717536563,
+      47.66890462880725
+    ],
+    "label": "Suceava, Romania"
+  },
+  {
+    "point": [
+      13.402643455952889,
+      52.53723335493121
+    ],
+    "label": "Flohmarkt am Arkonaplatz, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.65321900156432,
+      45.67141238999984
+    ],
+    "label": "Poarta DEPOUL C.F.R, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.1082823152558,
+      44.38120142665276
+    ],
+    "label": "Strada Lamotești 2, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.088183311121515,
+      44.444130028955215
+    ],
+    "label": "Strada Pictor Theodor Aman 40, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.257369331221618,
+      47.66137947684163
+    ],
+    "label": "Rompetrol, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.396825011014476,
+      52.505596047479635
+    ],
+    "label": "Lindenstraße 71, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.642979636975245,
+      45.64758875485663
+    ],
+    "label": "Drumul Cernatului 6, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.18641368633249,
+      44.49051496947356
+    ],
+    "label": "Strada Zorele 8, Voluntari, IF, Romania"
+  },
+  {
+    "point": [
+      26.095749487352542,
+      44.4388171204643
+    ],
+    "label": "Sala Palatului, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.22646032563828,
+      47.65007823248012
+    ],
+    "label": "Oil Fluid, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.39559495298965,
+      52.51461837361632
+    ],
+    "label": "Jägerstraße 51, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.6623298447589,
+      45.659365695915575
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      26.222051918652852,
+      44.39755175514394
+    ],
+    "label": "Lukoil, Glina, IF, Romania"
+  },
+  {
+    "point": [
+      26.09513746028493,
+      44.40949315863925
+    ],
+    "label": "Strada Hațegana 4, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25412075297646,
+      47.65958476787031
+    ],
+    "label": "Rompetrol, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.377262561859615,
+      52.519613009057814
+    ],
+    "label": "Weiße Kreuze, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.600596862454836,
+      45.67485480161526
+    ],
+    "label": "Strada Ștefan Baciu 64, BV, Romania"
+  },
+  {
+    "point": [
+      26.041668129647043,
+      44.38018700131676
+    ],
+    "label": "Drumul Nefliului 57, IF, Romania"
+  },
+  {
+    "point": [
+      26.08454555358513,
+      44.42952898393711
+    ],
+    "label": "Strada Izvor 78, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.271787451656124,
+      47.669725329000826
+    ],
+    "label": "ODN, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.418717822403794,
+      52.52938193725061
+    ],
+    "label": "Prenzlauer Allee 6, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.561960955635904,
+      45.66736650515709
+    ],
+    "label": "Strada Lebedei 27, BV, Romania"
+  },
+  {
+    "point": [
+      26.046308469417895,
+      44.520241519979955
+    ],
+    "label": "Drumul Vârful Berivoiul Mare 30, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.097150663123738,
+      44.42285321334597
+    ],
+    "label": "Strada Principatele Unite 58, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.269770244581593,
+      47.66530513399556
+    ],
+    "label": "Policlinic Bethesda, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.41648980126818,
+      52.52023745808386
+    ],
+    "label": "Alex Kaufhof, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.648648254495676,
+      45.622629973816245
+    ],
+    "label": "Mercedes-Benz - Țiriac Auto Brașov, BV, Romania"
+  },
+  {
+    "point": [
+      26.05451801965787,
+      44.40115814904861
+    ],
+    "label": "Strada Ghiocului 24A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.093609043112462,
+      44.43205345279926
+    ],
+    "label": "Springtime, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.23800741615709,
+      47.65227172255089
+    ],
+    "label": "Biserica „Sf. Constantin și Elena”, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.392513493206348,
+      52.50966517152755
+    ],
+    "label": "Charlottenstraße 23, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.606263352966582,
+      45.669555602473494
+    ],
+    "label": "Strada General Mociulschi 23C, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.18967141494865,
+      44.40275666288886
+    ],
+    "label": "Romaqua Group, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.135049883678928,
+      44.42476921046048
+    ],
+    "label": "Strada Cogâlnic 30, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.252081440722694,
+      47.66678272014315
+    ],
+    "label": "Strada Cernăuți 112 B, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.397998799230404,
+      52.532465556798634
+    ],
+    "label": "Café Cathrin, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.557579163542552,
+      45.679242792458645
+    ],
+    "label": "Ste Cross, BV, Romania"
+  },
+  {
+    "point": [
+      26.146834714283866,
+      44.41758645967995
+    ],
+    "label": "Bulevardul Camil Ressu 26, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.117065548583604,
+      44.44995663961865
+    ],
+    "label": "Strada Viitorului 161, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.249971033820046,
+      47.649633236557094
+    ],
+    "label": "Lidl, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.406801865009056,
+      52.532958931915466
+    ],
+    "label": "Choriner Straße 73, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.61253401675863,
+      45.68114367563172
+    ],
+    "label": "Strada 13 Decembrie 131, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.207249660460853,
+      44.439890381919334
+    ],
+    "label": "Parcul Pantelimon, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.095594597303833,
+      44.44850115144894
+    ],
+    "label": "Strada Visarion 14, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.22583326641141,
+      47.65128411283286
+    ],
+    "label": "Pensiunea Confort, Șcheia, SV, Romania"
+  },
+  {
+    "point": [
+      13.390259776256777,
+      52.52192065667495
+    ],
+    "label": "Am Weidendamm 2, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.546463439262382,
+      45.65583559826321
+    ],
+    "label": "J.F. Furnir, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.107017074001398,
+      44.473037840669335
+    ],
+    "label": "Strada Gheorghe Țițeica 202-204, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.13394159822686,
+      44.43805903139941
+    ],
+    "label": "Bl. O1, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.2525383557074,
+      47.65286528216173
+    ],
+    "label": "Strada Zamca 2, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.389824439234278,
+      52.50369161233506
+    ],
+    "label": "Hedemannstraße 22, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.62038859616563,
+      45.66406575492934
+    ],
+    "label": "Facultate Construcții, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.036836188317533,
+      44.47256955535909
+    ],
+    "label": "Strada Marginei 32, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.069347941617234,
+      44.43376052984596
+    ],
+    "label": "Strada Doctor Carol Davila 74, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.250332803168632,
+      47.667775705252296
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.407290263095081,
+      52.52408780046428
+    ],
+    "label": "Rochstraße 3, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.55795528562484,
+      45.67327259528856
+    ],
+    "label": "Bartolomeu Nord, BV, Romania"
+  },
+  {
+    "point": [
+      26.080849384732698,
+      44.49351453058152
+    ],
+    "label": "Casa Prof. D. D. Stancu, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.0907691674619,
+      44.42696608711306
+    ],
+    "label": "Piața Constituției, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.246179049684564,
+      47.64128302803431
+    ],
+    "label": "Superbet, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.443356879453118,
+      52.50382162851652
+    ],
+    "label": "Mühlenstraße 12, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.579857989408115,
+      45.658621432841244
+    ],
+    "label": "Strada Lungă 211, Braşov, Romania"
+  },
+  {
+    "point": [
+      25.99315554095844,
+      44.418247455754944
+    ],
+    "label": "Pădurea Sere Militari, BI, Romania"
+  },
+  {
+    "point": [
+      26.12829878233568,
+      44.42345854172255
+    ],
+    "label": "Calea Dudești 125B, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.256170573689985,
+      47.65614611239899
+    ],
+    "label": "Strada Nicolae Labiș 21, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.405856377828963,
+      52.51483316904456
+    ],
+    "label": "Deutsche Industrie- und Handelskammer, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.640292185776072,
+      45.63075429653681
+    ],
+    "label": "Brico Dépôt, BV, Romania"
+  },
+  {
+    "point": [
+      26.12133082896871,
+      44.34546505685065
+    ],
+    "label": "Ilfov, Romania"
+  },
+  {
+    "point": [
+      26.1331107840232,
+      44.42311543675576
+    ],
+    "label": "Strada Popa Stoica Farcasa 86-88, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.250603320136126,
+      47.661915870309656
+    ],
+    "label": "Strada Traian Vuia 2D, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.411875328799049,
+      52.5358794820673
+    ],
+    "label": "Dummert Werkzeughandel, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.581563668527416,
+      45.6557264958226
+    ],
+    "label": "Strada Lungă 169, Braşov, Romania"
+  },
+  {
+    "point": [
+      25.95982764254424,
+      44.46520835257009
+    ],
+    "label": "Spălătorie TIR, Rudeni, IF, Romania"
+  },
+  {
+    "point": [
+      26.07383921902456,
+      44.43509475487389
+    ],
+    "label": "Cișmea de apă, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24716714820558,
+      47.646264745740616
+    ],
+    "label": "Catena Suceava Plus, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.383610518052398,
+      52.513262259502504
+    ],
+    "label": "Wilhelmstraße 53, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.656294606449073,
+      45.65331079594943
+    ],
+    "label": "Energo, BV, Romania"
+  },
+  {
+    "point": [
+      25.95378829900483,
+      44.465355556414494
+    ],
+    "label": "Dâmbovița, IF, Romania"
+  },
+  {
+    "point": [
+      26.102563767664844,
+      44.44041273751568
+    ],
+    "label": "Strada Tudor Arghezi 50, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.265536182037106,
+      47.66191081736575
+    ],
+    "label": "Policlinica Bethesda, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.446411188102953,
+      52.52123275817082
+    ],
+    "label": "Backwaren Spätkauf, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.63998378383499,
+      45.66867935675653
+    ],
+    "label": "Metabras, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.06016028658599,
+      44.49853817892384
+    ],
+    "label": "Șoseaua Străulești 125B, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.12248591279157,
+      44.413917092235444
+    ],
+    "label": "Strada Foișorului 132, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.257712478088937,
+      47.66993345861009
+    ],
+    "label": "Suceava, Romania"
+  },
+  {
+    "point": [
+      13.437416970429139,
+      52.510889214842216
+    ],
+    "label": "S Ostbahnhof/Erich-Steinfurth-Straße, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.599698499271895,
+      45.67447732542193
+    ],
+    "label": "Loc de joacă, BV, Romania"
+  },
+  {
+    "point": [
+      26.06415822787641,
+      44.42911792837003
+    ],
+    "label": "Șos. Panduri, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.084241250166066,
+      44.440945062774496
+    ],
+    "label": "Strada General Henri Mathias Berthelot 75, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.249303612919814,
+      47.649605706625664
+    ],
+    "label": "Lidl, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.384541622505138,
+      52.52623780308158
+    ],
+    "label": "Forschungssporthalle, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.64153610315005,
+      45.66757118938237
+    ],
+    "label": "Metabras, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.094012731554862,
+      44.377600540530665
+    ],
+    "label": "Strada Zlătunoaia 5, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.114916614734952,
+      44.43708249463943
+    ],
+    "label": "Strada Dimitrie Racoviță 9, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25745674869934,
+      47.64361765704637
+    ],
+    "label": "Irene's Hostel, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.448570104213156,
+      52.50759504349621
+    ],
+    "label": "Dogshit Spot, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.631861913355834,
+      45.668630735684864
+    ],
+    "label": "Strada Zaharia Stancu 21, Braşov, Romania"
+  },
+  {
+    "point": [
+      25.977901612394646,
+      44.466447424915266
+    ],
+    "label": "Drumul la Chiajna 137, BI, Romania"
+  },
+  {
+    "point": [
+      26.11391741850402,
+      44.43119733203057
+    ],
+    "label": "Strada Logofătul Udriște 10, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.245044404530766,
+      47.65438850190922
+    ],
+    "label": "Turn Clopotnita, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.409915523116824,
+      52.505748048535835
+    ],
+    "label": "Stallschreiberstraße 12, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.614401743571005,
+      45.687434124498004
+    ],
+    "label": "Plametco, BV, Romania"
+  },
+  {
+    "point": [
+      26.18987473377678,
+      44.46675977041256
+    ],
+    "label": "Strada Trifoiului 60-62, Dobroești, IF, Romania"
+  },
+  {
+    "point": [
+      26.106194373731203,
+      44.43420441947989
+    ],
+    "label": "Liad, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.273269168047694,
+      47.671840955600615
+    ],
+    "label": "Școala Gimnazială Nr. 10, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.428045838406424,
+      52.5020287374955
+    ],
+    "label": "Bewegungspark, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.662866444253037,
+      45.65796559129434
+    ],
+    "label": "Durbav, BV, Romania"
+  },
+  {
+    "point": [
+      26.053885122810616,
+      44.46494281742969
+    ],
+    "label": "Medlife, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.106703754684524,
+      44.418929997460516
+    ],
+    "label": "Strada Cuza Vodă 103A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.241802214708855,
+      47.67516232677584
+    ],
+    "label": "Biserica Catolică Ițcani, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.40371122735911,
+      52.53190133182033
+    ],
+    "label": "Weinbergsweg 12, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.577444755754374,
+      45.65963174260152
+    ],
+    "label": "Centrul Militar Zonal Brașov, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.215097465603595,
+      44.4572236573667
+    ],
+    "label": "Magazin mixt, Pantelimon, IF, Romania"
+  },
+  {
+    "point": [
+      26.108017981399247,
+      44.429527581563335
+    ],
+    "label": "Strada Sfânta Vineri 23, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.256534752155726,
+      47.6751687783101
+    ],
+    "label": "Vet Expert, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.41807820787666,
+      52.49970986861012
+    ],
+    "label": "Huy Hoang, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.65126830529389,
+      45.63477809770612
+    ],
+    "label": "Artera Sud-Est, BV, Romania"
+  },
+  {
+    "point": [
+      26.058611794313965,
+      44.42871589570954
+    ],
+    "label": "Bulevardul Timișoara 5A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.117892530382342,
+      44.42880349249192
+    ],
+    "label": "Strada Vulturilor 18A, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.25557315743774,
+      47.66991503369784
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.41035871340057,
+      52.52395300009275
+    ],
+    "label": "Memhardstraße, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.64546855338942,
+      45.64397911283468
+    ],
+    "label": "Drumul Cernatului 6, Braşov, Romania"
+  },
+  {
+    "point": [
+      26.02793095273624,
+      44.41911154228439
+    ],
+    "label": "Bl. A8, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.0858082386937,
+      44.420455294644135
+    ],
+    "label": "Calea Rahovei 157, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.24699299772704,
+      47.65396366014169
+    ],
+    "label": "Strada Ilie Ilașcu 15, Suceava, Romania"
+  },
+  {
+    "point": [
+      13.428435029809597,
+      52.51728562053134
+    ],
+    "label": "Krautstraße 3, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.606191097562657,
+      45.68452591578198
+    ],
+    "label": "Strada Nicolae Labiș 52D, BV, Romania"
+  },
+  {
+    "point": [
+      26.10351288827314,
+      44.36118783112762
+    ],
+    "label": "Drumul Dealu Pădurii 94, IF, Romania"
+  },
+  {
+    "point": [
+      26.110812555243573,
+      44.44962234764871
+    ],
+    "label": "Strada Mărgăritarelor 16, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      13.436680095775422,
+      52.50917007683343
+    ],
+    "label": "Straße der Pariser Kommune 8A, Berlin, Germany"
+  },
+  {
+    "point": [
+      26.116556255857255,
+      44.409241732175055
+    ],
+    "label": "Bulevardul Tineretului 51, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.28228419998979,
+      47.66863734929865
+    ],
+    "label": "Profi, Suceava, Romania"
+  },
+  {
+    "point": [
+      25.55766103933032,
+      45.67648031922826
+    ],
+    "label": "Bartolomeu Nord, BV, Romania"
+  },
+  {
+    "point": [
+      26.123108901827614,
+      44.38962719929365
+    ],
+    "label": "Șoseaua Berceni 8, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      13.417629984678419,
+      52.52396651770295
+    ],
+    "label": "Hotel Indigo Berlin Alexanderplatz, Berlin, Germany"
+  },
+  {
+    "point": [
+      25.996325295872452,
+      44.40518096244784
+    ],
+    "label": "Strada Mărăcineni 24, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.123466295292584,
+      44.4320245978436
+    ],
+    "label": "Strada Medeleni 8, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.247764589033725,
+      47.67190314540368
+    ],
+    "label": "Selgros, Suceava, Romania"
+  },
+  {
+    "point": [
+      26.14730632821821,
+      44.398613757039364
+    ],
+    "label": "Șoseaua Vitan-Bârzești 5-7, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.074220234939283,
+      44.4515905195084
+    ],
+    "label": "Bulevardul Alexandru Ioan Cuza 94, Bucureşti, BI, Romania"
+  },
+  {
+    "point": [
+      26.258213565401906,
+      47.67463304329918
+    ],
+    "label": "Hotel Orizont, Suceava, Romania"
   }
 ]

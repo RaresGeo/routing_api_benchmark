@@ -1,10 +1,11 @@
-import axios from 'axios';
+import axios, { AxiosResponse } from 'axios';
 import dotenv from 'dotenv';
-import jsonfile from 'jsonfile';
-import { Result, ResultCore } from '../utils/types.js';
-import { getRandomPointInPolygon } from '../utils/utils.js';
 import fs from 'fs';
+import jsonfile from 'jsonfile';
+import PQueue from 'p-queue';
 import path from 'path';
+import { getRandomPointInPolygon } from '../utils/utils.js';
+import cliProgress from 'cli-progress';
 
 dotenv.config();
 
@@ -53,13 +54,13 @@ const getPointsArray = () => {
   return points;
 };
 
-const makeRequests = () => {
+const makeTasks = () => {
   const points = getPointsArray();
-  const promises: Promise<any>[] = [];
+  const tasks: (() => Promise<any>)[] = [];
 
   for (let i = 0; i < TOTAL; i++) {
     const point = points[i];
-    const promise: Promise<any> = new Promise((resolve, reject) => {
+    tasks.push(() =>
       axios
         .get(
           `${process.env.PELIAS_API_URL}:4000/v1/reverse?point.lon=${point[0]}&point.lat=${point[1]}`
@@ -70,50 +71,60 @@ const makeRequests = () => {
             label: res.data.features[0].properties.label,
           };
 
-          resolve(result);
+          return result;
         })
         .catch((err) => {
-          reject(err);
-        });
-    });
-    promises.push(promise);
+          console.error(err.message);
+          return undefined;
+        })
+    );
   }
-
-  return promises;
+  return tasks;
 };
 
 const main = async () => {
-  const promises = makeRequests();
+  const queue = new PQueue({
+    concurrency: 100,
+    timeout: 10000,
+    autoStart: false,
+  });
 
-  const settledPromises = await Promise.allSettled(promises);
-  const results = [] as any[];
+  const tasks = makeTasks();
+  const taskResults = Array(tasks.length);
+  for (let i = 0; i < tasks.length; i++) {
+    const task = tasks[i];
+    queue.add(async () => await task().then((res) => (taskResults[i] = res)));
+  }
 
-  settledPromises.forEach(
-    (settledResult: PromiseSettledResult<any>, index: number) => {
-      if (settledResult.status === 'fulfilled') {
-        // populate input
-        results.push(settledResult.value);
-      } else {
-        console.error(
-          `Error in promise for index ${index}:`,
-          settledResult.reason
-        );
-      }
-    }
+  const progressBar = new cliProgress.SingleBar(
+    {},
+    cliProgress.Presets.shades_classic
   );
+  progressBar.start(tasks.length, 0);
 
-  await jsonfile.writeFile(
-    `input/pelias.json`,
-    results,
-    { spaces: 2 },
-    (err) => {
-      if (err) {
-        console.error(err);
-      }
+  let count = 0;
+  queue.on('active', () => {
+    progressBar.update(count++);
+  });
+
+  await queue.start().onEmpty();
+  progressBar.stop();
+
+  const results = taskResults.filter((result) => result !== undefined);
+
+  jsonfile.writeFile(`input/pelias.json`, results, { spaces: 2 }, (err) => {
+    if (err) {
+      console.error(err);
     }
-  );
+  });
 
-  console.log('Done populating input files with', results.length, 'results');
+  console.log(
+    'Done populating input files with',
+    results.length,
+    'results, out of a total of',
+    taskResults.length,
+    'requests'
+  );
 };
 
 export default main;
