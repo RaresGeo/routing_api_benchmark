@@ -8,6 +8,8 @@ import { join } from 'path';
 
 dotenv.config();
 
+const TIMEOUT = 10000;
+
 const makeRequests = (
   url: (index: number) => string,
   body: (index: number) => { coordinates?: number[][] } | undefined,
@@ -27,6 +29,7 @@ const makeRequests = (
           headers: {
             'Content-Type': 'application/json',
           },
+          timeout: TIMEOUT,
         })
           .then((res: AxiosResponse) => {
             const end = now();
@@ -61,7 +64,30 @@ const makeRequests = (
               url(i),
               body
             );
-            reject(err);
+
+            const end = now();
+            const timeElapsed = end - start;
+            const requestnumber = i + 1;
+            const madeAt = new Date().toISOString();
+
+            const result = {
+              madeAt,
+              timeElapsed: Math.max(timeElapsed, TIMEOUT),
+              requestnumber,
+              body: BODY,
+              url: URL,
+              response: err?.message,
+            };
+
+            const resultCore = {
+              madeAt,
+              timeElapsed: Math.max(timeElapsed, TIMEOUT),
+              requestnumber,
+              body: BODY,
+              url: URL,
+            };
+
+            resolve({ result, resultCore });
           });
       });
 
@@ -105,9 +131,9 @@ const logResults = async (
     }
 
     return [
-      jsonfile.writeFile(join(outputSubdir, `results-${index}.json`), results, {
-        spaces: 2,
-      }),
+      // jsonfile.writeFile(join(outputSubdir, `results-${index}.json`), results, {
+      //   spaces: 2,
+      // }),
       jsonfile.writeFile(
         join(outputSubdir, `results-core-${index}.json`),
         resultCore,
