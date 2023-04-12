@@ -1,1 +1,0 @@
-Get all N*2 random points beforehand, so that the API doesn't have time to "breathe" while the Monte Carlo loop is potentially taking a longer time to find a point in the polygon.

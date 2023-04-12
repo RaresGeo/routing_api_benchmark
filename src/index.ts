@@ -1,5 +1,5 @@
 import dotenv from 'dotenv';
-import average from './ors/average.js';
+import average from './utils/average.js';
 import orsBenchmark from './ors/benchmark.js';
 import parseKMLDir from './utils/kml.js';
 import peliasPopulate from './pelias/populateInput.js';

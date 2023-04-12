@@ -1,6 +1,4 @@
 .env
 output/*
-kml/input/*
-input/*
 dist
 node_modules

@@ -10,7 +10,7 @@ const NUM_SECONDS = parseInt(process.env.NUM_SECONDS || '1', 10);
 const NUM_REQUESTS = parseInt(process.env.NUM_REQUESTS || '1', 10);
 
 const getShuffledDataArray = () => {
-  const data = jsonfile.readFileSync('input/pelias.json');
+  const data = jsonfile.readFileSync(`input/${process.env.START_FILE}.json`);
   for (let i = data.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [data[i], data[j]] = [data[j], data[i]];
@@ -27,7 +27,7 @@ const geocoding = async () => {
         NUM_REQUESTS * timerIndex,
         NUM_REQUESTS * (timerIndex + 1)
       );
-      const { label } = dataSlice[index];
+      const { label } = dataSlice[index % dataSlice.length];
       return `${process.env.PELIAS_API_URL}:4000/v1/search?text=${label}`;
     };
   };

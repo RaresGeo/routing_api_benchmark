@@ -1,5 +1,33 @@
 apps:
-  - name: benchmark
+  - name: ors-benchmark
     script: dist/index.js
-    instances: 10
+    instances: 4
     exec_mode: cluster
+    env:
+      STAGE: ors-benchmark
+      OUTPUT_DIR: ors
+      START_FILE: bucharest
+      END_FILE: berlin
+      NUM_REQUESTS: 4
+      NUM_SECONDS: 4
+  - name: pelias-benchmark
+    script: dist/index.js
+    instances: 4
+    exec_mode: cluster
+    env:
+      STAGE: pelias-geocoding-benchmark
+      OUTPUT_DIR: pelias
+      NUM_REQUESTS: 4
+      NUM_SECONDS: 4
+      START_FILE: pelias
+  - name: ors-same-place
+    script: dist/index.js
+    instances: 4
+    exec_mode: cluster
+    env:
+      STAGE: ors-benchmark
+      OUTPUT_DIR: ors-same-place
+      START_FILE: bucharest_full
+      END_FILE: bucharest_full
+      NUM_REQUESTS: 4
+      NUM_SECONDS: 4

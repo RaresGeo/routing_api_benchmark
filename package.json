@@ -16,6 +16,7 @@
     "pelias-autocomplete-benchmark": "env STAGE='pelias-autocomplete-benchmark' npm run start",
     "ors-benchmark": "env STAGE='ors-benchmark' npm run start",
     "average": "env STAGE='average' npm run start",
+    "parse-kml": "env STAGE='parse-kml' npm run start",
     "ors": "npm run cleanup && npm run ors-benchmark && npm run average",
     "pelias-geocoding": "npm run cleanup && npm run pelias-populate && npm run pelias-geocoding-benchmark && npm run average",
     "pelias-autocomplete": "npm run cleanup && npm run pelias-populate && npm run pelias-autocomplete-benchmark && npm run average",

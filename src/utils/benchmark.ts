@@ -41,6 +41,7 @@ const makeRequests = (
               madeAt,
               timeElapsed,
               requestnumber,
+              status: res.status,
               body: BODY,
               url: URL,
               response: res.data,
@@ -50,6 +51,7 @@ const makeRequests = (
               madeAt,
               timeElapsed,
               requestnumber,
+              status: res.status,
               body: BODY,
               url: URL,
             };
@@ -61,8 +63,8 @@ const makeRequests = (
               'Failed with error message: ',
               err?.message,
               'for url',
-              url(i),
-              body
+              URL,
+              BODY
             );
 
             const end = now();
@@ -74,6 +76,7 @@ const makeRequests = (
               madeAt,
               timeElapsed: Math.max(timeElapsed, TIMEOUT),
               requestnumber,
+              status: err?.response?.status || 500,
               body: BODY,
               url: URL,
               response: err?.message,
@@ -83,6 +86,7 @@ const makeRequests = (
               madeAt,
               timeElapsed: Math.max(timeElapsed, TIMEOUT),
               requestnumber,
+              status: err?.response?.status || 500,
               body: BODY,
               url: URL,
             };
@@ -125,7 +129,7 @@ const logResults = async (
       }
     );
 
-    const outputSubdir = `output/pid-${process.pid}`;
+    const outputSubdir = `output/${process.env.OUTPUT_DIR}/pid-${process.pid}`;
     if (!existsSync(outputSubdir)) {
       mkdirSync(outputSubdir, { recursive: true });
     }
