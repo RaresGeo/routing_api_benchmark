@@ -1,9 +1,9 @@
 import dotenv from 'dotenv';
-import jsonfile from 'jsonfile';
-import { ResultCore } from './types.js';
 import { readdirSync, statSync } from 'fs';
+import jsonfile from 'jsonfile';
+import logUpdate from 'log-update';
 import { join } from 'path';
-import tty from 'tty';
+import { ResultCore } from './types.js';
 
 dotenv.config();
 const outputDir = 'output';
@@ -48,8 +48,18 @@ const getOutputName = (dir: string) => {
   return dir.split('/').slice(1, dir.split('/').length).join('/');
 };
 
+const getLongest = (input: any[]) => {
+  let longest = 0;
+  input.forEach((item) => {
+    if (item.toString().length > longest) {
+      longest = item.length;
+    }
+  });
+  return longest;
+};
+
 const averages = (outputSubdirectories: string[]) => {
-  console.log('\n\n\nRunning....');
+  const strings: string[] = [];
   outputSubdirectories.forEach((subdir) => {
     const processDirs = getSubdirectories(subdir);
     const data = {} as {
@@ -108,57 +118,34 @@ const averages = (outputSubdirectories: string[]) => {
     overallAverage = overallAverage / overallCount;
     overallSuccessRate = overallSuccessRate / overallCount;
 
-    console.log(
-      `${getOutputName(subdir)} overall: average of ${formatMilliseconds(
+    strings.push(
+      `${getOutputName(subdir).padEnd(30, ' ')} ${formatMilliseconds(
         overallAverage
-      )} (${
-        overallSuccessRate * 100
-      }% success rate) for ${overallCount} requests\n\n`
+      ).padStart(10, ' ')} ⏱️ ${(overallSuccessRate * 100)
+        .toFixed(3)
+        .padStart(10, ' ')}% ✅ ${overallCount
+        .toString()
+        .padStart(10, ' ')} requests`
     );
   });
-};
 
-const debounce = <F extends (...args: any[]) => void>(
-  fn: F,
-  delay: number
-): ((...args: Parameters<F>) => void) => {
-  let timerId: ReturnType<typeof setTimeout>;
-  return (...args: Parameters<F>) => {
-    clearTimeout(timerId);
-    timerId = setTimeout(() => {
-      fn(...args);
-    }, delay);
-  };
+  return strings.join('\n');
 };
 
 const main = async () => {
   const folderArg = process.argv[2];
 
-  const outputSubdirectories = getSubdirectories(outputDir).filter(
-    (subdir) => !folderArg || subdir.startsWith(join(outputDir, folderArg))
-  );
+  const interval = setInterval(() => {
+    const outputSubdirectories = getSubdirectories(outputDir).filter(
+      (subdir) => !folderArg || subdir.startsWith(join(outputDir, folderArg))
+    );
+    const log = averages(outputSubdirectories);
+    logUpdate.clear();
+    logUpdate(log);
+  }, 1000);
 
-  averages(outputSubdirectories);
-
-  console.log("Press 'q' to quit, SPACE to run again");
-
-  const stdin = process.stdin;
-  stdin.setRawMode(true);
-  stdin.resume();
-  stdin.setEncoding('utf8');
-
-  const handleKeyPress = (key: string) => {
-    if (key === ' ') {
-      averages(outputSubdirectories);
-    } else if (key === 'q' || key === 'Q') {
-      process.exit();
-    }
-  };
-
-  const debouncedHandleKeyPress = debounce(handleKeyPress, 200);
-
-  stdin.on('data', (key: Buffer) => {
-    debouncedHandleKeyPress(key.toString());
+  process.on('exit', () => {
+    clearInterval(interval);
   });
 };
 
