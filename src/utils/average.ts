@@ -110,15 +110,16 @@ const averages = (outputSubdirectories: string[]) => {
 
     let rps = 10;
 
-    strings.push(
-      `${getOutputName(subdir).padEnd(22, ' ')} ${formatMilliseconds(
-        overallAverage
-      ).padStart(10, ' ')} ⏱️ ${(overallSuccessRate * 100)
-        .toFixed(3)
-        .padStart(10, ' ')}% ✅ ${
-        overallCount.toString().padStart(10, ' ') + 'req'
-      } ${rps.toFixed(2).padStart(5, ' ')} rps`
+    const procName = getOutputName(subdir).padEnd(21, ' ');
+    const average = `${formatMilliseconds(overallAverage)} s`.padStart(21, ' ');
+    const successRate = `${(overallSuccessRate * 100).toFixed(3)}% ✅`.padStart(
+      21,
+      ' '
     );
+    const count = `${overallCount.toString()} req`.padStart(21, ' ');
+    const rpsString = `${rps.toFixed(2)} rps`.padStart(21, ' ');
+
+    strings.push(`${procName} ${average} ${successRate} ${count} ${rpsString}`);
   });
 
   return strings.join('\n');
