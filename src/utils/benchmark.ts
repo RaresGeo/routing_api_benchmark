@@ -59,13 +59,15 @@ const makeRequests = (
             resolve({ result, resultCore });
           })
           .catch((err: AxiosError) => {
-            console.log(
-              'Failed with error message: ',
-              err?.message,
-              'for url',
-              URL,
-              BODY
-            );
+            if (!err?.response?.status?.toString().startsWith('4')) {
+              console.log(
+                'Failed with error message: ',
+                err?.message,
+                'for url',
+                URL,
+                BODY
+              );
+            }
 
             const end = now();
             const timeElapsed = end - start;
