@@ -48,6 +48,64 @@ const getOutputName = (dir: string) => {
   return dir.split('/').slice(1, dir.split('/').length).join('/');
 };
 
+const getFirstAt = (dir: string) => {
+  const processDirs = getSubdirectories(dir);
+  let firstAt = Date.now();
+
+  processDirs.forEach((processDir) => {
+    const firstJsonFile = readdirSync(processDir).find(
+      (file) => file === 'results-core-0.json'
+    );
+
+    if (!firstJsonFile) {
+      console.log('No jfirst json');
+      return NaN;
+    }
+
+    const firstJsonData = jsonfile.readFileSync(
+      join(processDir, firstJsonFile)
+    );
+
+    firstAt = Math.min(
+      firstAt,
+      new Date(firstJsonData[0].madeAt).getTime() - firstJsonData[0].timeElapsed
+    );
+  });
+
+  return firstAt;
+};
+
+const getLastAt = (dir: string) => {
+  const processDirs = getSubdirectories(dir);
+  let lastAt = 0;
+
+  processDirs.forEach((processDir) => {
+    const jsonFiles = readdirSync(processDir).filter(
+      (file) => file.endsWith('.json') && file.startsWith('results-core')
+    );
+
+    if (!jsonFiles.length) {
+      console.log('No jlast json');
+      return NaN;
+    }
+
+    const lastJsonFile = jsonFiles[jsonFiles.length - 1];
+
+    const lastJsonData = jsonfile.readFileSync(join(processDir, lastJsonFile));
+
+    lastAt = Math.max(lastAt, new Date(lastJsonData[0].madeAt).getTime());
+  });
+
+  return lastAt;
+};
+
+const getRps = (firstAt: number, lastAt: number, count: number) => {
+  const duration = lastAt - firstAt;
+  const durationSeconds = duration / 1000;
+
+  return count / durationSeconds;
+};
+
 const averages = (outputSubdirectories: string[]) => {
   const strings: string[] = [];
   outputSubdirectories.forEach((subdir) => {
@@ -108,7 +166,7 @@ const averages = (outputSubdirectories: string[]) => {
     overallAverage = overallAverage / overallCount;
     overallSuccessRate = overallSuccessRate / overallCount;
 
-    let rps = 10;
+    let rps = getRps(getFirstAt(subdir), getLastAt(subdir), overallCount);
 
     strings.push(
       `${getOutputName(subdir).padEnd(22, ' ')} ${formatMilliseconds(
