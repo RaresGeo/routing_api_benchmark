@@ -1,6 +1,6 @@
 import dotenv from 'dotenv';
 import { readdirSync, statSync } from 'fs';
-import jsonfile from 'jsonfile';
+import jsonfile, { readFileSync } from 'jsonfile';
 import logUpdate from 'log-update';
 import { join } from 'path';
 import { ResultCore } from './types.js';
@@ -46,16 +46,6 @@ const getSubdirectories = (srcPath: string) => {
 
 const getOutputName = (dir: string) => {
   return dir.split('/').slice(1, dir.split('/').length).join('/');
-};
-
-const getLongest = (input: any[]) => {
-  let longest = 0;
-  input.forEach((item) => {
-    if (item.toString().length > longest) {
-      longest = item.length;
-    }
-  });
-  return longest;
 };
 
 const averages = (outputSubdirectories: string[]) => {
@@ -119,13 +109,13 @@ const averages = (outputSubdirectories: string[]) => {
     overallSuccessRate = overallSuccessRate / overallCount;
 
     strings.push(
-      `${getOutputName(subdir).padEnd(30, ' ')} ${formatMilliseconds(
+      `${getOutputName(subdir).padEnd(22, ' ')} ${formatMilliseconds(
         overallAverage
       ).padStart(10, ' ')} ⏱️ ${(overallSuccessRate * 100)
         .toFixed(3)
-        .padStart(10, ' ')}% ✅ ${overallCount
-        .toString()
-        .padStart(10, ' ')} requests`
+        .padStart(10, ' ')}% ✅ ${
+        overallCount.toString().padStart(10, ' ') + 'req'
+      } ${'WIP'.toString().padStart(5, ' ')} rps`
     );
   });
 
