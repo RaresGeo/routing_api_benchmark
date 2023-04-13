@@ -132,7 +132,6 @@ const main = async () => {
       (subdir) => !folderArg || subdir.startsWith(join(outputDir, folderArg))
     );
     const log = averages(outputSubdirectories);
-    logUpdate.clear();
     logUpdate(log);
   }, 1000);
 
