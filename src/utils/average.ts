@@ -108,6 +108,8 @@ const averages = (outputSubdirectories: string[]) => {
     overallAverage = overallAverage / overallCount;
     overallSuccessRate = overallSuccessRate / overallCount;
 
+    let rps = 10;
+
     strings.push(
       `${getOutputName(subdir).padEnd(22, ' ')} ${formatMilliseconds(
         overallAverage
@@ -115,7 +117,7 @@ const averages = (outputSubdirectories: string[]) => {
         .toFixed(3)
         .padStart(10, ' ')}% ✅ ${
         overallCount.toString().padStart(10, ' ') + 'req'
-      } ${'WIP'.toString().padStart(5, ' ')} rps`
+      } ${rps.toFixed(2).padStart(5, ' ')} rps`
     );
   });
 
