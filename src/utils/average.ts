@@ -80,12 +80,19 @@ const getLastAt = (dir: string) => {
   let lastAt = 0;
 
   processDirs.forEach((processDir) => {
-    const jsonFiles = readdirSync(processDir).filter(
-      (file) => file.endsWith('.json') && file.startsWith('results-core')
-    );
+    const jsonFiles = readdirSync(processDir)
+      .filter(
+        (file) => file.endsWith('.json') && file.startsWith('results-core')
+      )
+      .sort((a, b) => {
+        const aNumber = Number(a.split('-')[2].split('.')[0]);
+        const bNumber = Number(b.split('-')[2].split('.')[0]);
+
+        return aNumber - bNumber;
+      });
 
     if (!jsonFiles.length) {
-      console.log('No jlast json');
+      console.log('No last json');
       return NaN;
     }
 
@@ -166,7 +173,7 @@ const averages = (outputSubdirectories: string[]) => {
     overallAverage = overallAverage / overallCount;
     overallSuccessRate = overallSuccessRate / overallCount;
 
-    let rps = getRps(getFirstAt(subdir), getLastAt(subdir), overallCount);
+    const rps = getRps(getFirstAt(subdir), getLastAt(subdir), overallCount);
 
     const procName = getOutputName(subdir).padEnd(21, ' ');
     const average = `${formatMilliseconds(overallAverage)} s`.padStart(21, ' ');
