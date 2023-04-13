@@ -133,7 +133,7 @@ const main = async () => {
     );
     const log = averages(outputSubdirectories);
     logUpdate(log);
-  }, 1000);
+  }, 5000);
 
   process.on('exit', () => {
     clearInterval(interval);
