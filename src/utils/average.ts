@@ -16,7 +16,7 @@ const getJsonData = (jsonPath: string) => {
 
     data.forEach((result: ResultCore) => {
       sum += result.timeElapsed;
-      successes += result.status === 200 ? 1 : 0;
+      successes += !result.status.toString().startsWith('5') ? 1 : 0;
     });
 
     return {
